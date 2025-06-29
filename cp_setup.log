@@ -1,0 +1,16 @@
+2025-06-29 22:11:48,214 - INFO - Serving at port 10043
+2025-06-29 22:12:08,109 - INFO - Project directory '장신구_명장_임스' created for problem '장신구 명장 임스'
+2025-06-29 22:12:08,109 - WARNING - template.cpp not found in current directory. Skipping template appending.
+2025-06-29 22:12:08,109 - INFO - Code template for '장신구 명장 임스' written to 장신구_명장_임스\main.cpp
+2025-06-29 22:12:08,110 - INFO - Sample test case 1 written to 장신구_명장_임스\input1.txt and 장신구_명장_임스\output1.txt
+2025-06-29 22:12:08,115 - INFO - Sample test case 2 written to 장신구_명장_임스\input2.txt and 장신구_명장_임스\output2.txt
+2025-06-29 22:12:08,116 - INFO - Limits for '장신구 명장 임스' written to 장신구_명장_임스\limits.txt
+2025-06-29 22:12:08,117 - INFO - Latest problem directory '장신구_명장_임스' saved to latest_problem.txt
+2025-06-29 22:13:18,983 - INFO - Project directory '장신구_명장_임스' created for problem '장신구 명장 임스'
+2025-06-29 22:13:18,983 - INFO - Appended content from template.cpp to 장신구_명장_임스/main.cpp
+2025-06-29 22:13:18,984 - INFO - Code template for '장신구 명장 임스' written to 장신구_명장_임스\main.cpp
+2025-06-29 22:13:18,984 - INFO - Sample test case 1 written to 장신구_명장_임스\input1.txt and 장신구_명장_임스\output1.txt
+2025-06-29 22:13:18,985 - INFO - Sample test case 2 written to 장신구_명장_임스\input2.txt and 장신구_명장_임스\output2.txt
+2025-06-29 22:13:18,985 - INFO - Limits for '장신구 명장 임스' written to 장신구_명장_임스\limits.txt
+2025-06-29 22:13:18,985 - INFO - Latest problem directory '장신구_명장_임스' saved to latest_problem.txt
+2025-06-29 22:40:04,369 - INFO - Serving at port 10043

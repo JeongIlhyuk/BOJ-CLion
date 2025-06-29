@@ -1,0 +1,142 @@
+2025-06-29 22:41:02,582 - INFO - Latest problem directory is '장신구_명장_임스'
+2025-06-29 22:41:03,082 - INFO - Compilation successful.
+2025-06-29 22:41:03,083 - INFO - Using time limit: 1000 ms and memory limit: 1024 MB
+2025-06-29 22:41:04,002 - INFO - Test 1: Failed
+2025-06-29 22:41:04,002 - INFO - Time: 0.918 seconds
+2025-06-29 22:41:04,003 - INFO - Memory: 4.520 MB
+2025-06-29 22:41:04,003 - INFO - Expected:
+3
+2025-06-29 22:41:04,003 - INFO - Got:
+0
+2025-06-29 22:41:04,012 - INFO - Test 2: Failed
+2025-06-29 22:41:04,012 - INFO - Time: 0.009 seconds
+2025-06-29 22:41:04,012 - INFO - Memory: 4.520 MB
+2025-06-29 22:41:04,012 - INFO - Expected:
+3
+2025-06-29 22:41:04,012 - INFO - Got:
+0
+2025-06-29 22:41:04,012 - INFO - [96m
+Summary: Passed 0 out of 2 tests.[0m
+2025-06-29 23:02:56,835 - INFO - Latest problem directory is '장신구_명장_임스'
+2025-06-29 23:02:57,306 - INFO - Compilation successful.
+2025-06-29 23:02:57,307 - INFO - Using time limit: 1000 ms and memory limit: 1024 MB
+2025-06-29 23:02:58,070 - INFO - Test 1: Failed
+2025-06-29 23:02:58,070 - INFO - Time: 0.762 seconds
+2025-06-29 23:02:58,070 - INFO - Memory: 4.516 MB
+2025-06-29 23:02:58,070 - INFO - Expected:
+3
+2025-06-29 23:02:58,070 - INFO - Got:
+1
+2025-06-29 23:02:58,078 - INFO - Test 2: Failed
+2025-06-29 23:02:58,079 - INFO - Time: 0.008 seconds
+2025-06-29 23:02:58,079 - INFO - Memory: 4.516 MB
+2025-06-29 23:02:58,079 - INFO - Expected:
+3
+2025-06-29 23:02:58,079 - INFO - Got:
+1
+2025-06-29 23:02:58,079 - INFO - [96m
+Summary: Passed 0 out of 2 tests.[0m
+2025-06-29 23:07:37,964 - INFO - Latest problem directory is '장신구_명장_임스'
+2025-06-29 23:07:38,412 - INFO - Compilation successful.
+2025-06-29 23:07:38,412 - INFO - Using time limit: 1000 ms and memory limit: 1024 MB
+2025-06-29 23:07:39,334 - INFO - Test 1: Failed
+2025-06-29 23:07:39,334 - INFO - Time: 0.920 seconds
+2025-06-29 23:07:39,334 - INFO - Memory: 4.516 MB
+2025-06-29 23:07:39,334 - INFO - Expected:
+3
+2025-06-29 23:07:39,334 - INFO - Got:
+1
+2025-06-29 23:07:39,342 - INFO - Test 2: Failed
+2025-06-29 23:07:39,342 - INFO - Time: 0.008 seconds
+2025-06-29 23:07:39,342 - INFO - Memory: 4.523 MB
+2025-06-29 23:07:39,342 - INFO - Expected:
+3
+2025-06-29 23:07:39,342 - INFO - Got:
+1
+2025-06-29 23:07:39,342 - INFO - [96m
+Summary: Passed 0 out of 2 tests.[0m
+2025-06-29 23:10:41,080 - INFO - Latest problem directory is '장신구_명장_임스'
+2025-06-29 23:10:41,536 - INFO - Compilation successful.
+2025-06-29 23:10:41,537 - INFO - Using time limit: 1000 ms and memory limit: 1024 MB
+2025-06-29 23:10:42,468 - INFO - Test 1: Failed
+2025-06-29 23:10:42,468 - INFO - Time: 0.931 seconds
+2025-06-29 23:10:42,468 - INFO - Memory: 4.516 MB
+2025-06-29 23:10:42,468 - INFO - Expected:
+3
+2025-06-29 23:10:42,468 - INFO - Got:
+0
+2025-06-29 23:10:42,478 - INFO - Test 2: Failed
+2025-06-29 23:10:42,478 - INFO - Time: 0.008 seconds
+2025-06-29 23:10:42,478 - INFO - Memory: 4.535 MB
+2025-06-29 23:10:42,478 - INFO - Expected:
+3
+2025-06-29 23:10:42,478 - INFO - Got:
+0
+2025-06-29 23:10:42,478 - INFO - [96m
+Summary: Passed 0 out of 2 tests.[0m
+2025-06-29 23:12:13,763 - INFO - Latest problem directory is '장신구_명장_임스'
+2025-06-29 23:12:14,095 - ERROR - Compilation failed.
+2025-06-29 23:12:25,983 - INFO - Latest problem directory is '장신구_명장_임스'
+2025-06-29 23:12:26,452 - INFO - Compilation successful.
+2025-06-29 23:12:26,452 - INFO - Using time limit: 1000 ms and memory limit: 1024 MB
+2025-06-29 23:12:27,173 - INFO - Test 1: Failed
+2025-06-29 23:12:27,174 - INFO - Time: 0.720 seconds
+2025-06-29 23:12:27,174 - INFO - Memory: 4.523 MB
+2025-06-29 23:12:27,174 - INFO - Expected:
+3
+2025-06-29 23:12:27,174 - INFO - Got:
+1
+2025-06-29 23:12:27,181 - INFO - Test 2: Failed
+2025-06-29 23:12:27,181 - INFO - Time: 0.008 seconds
+2025-06-29 23:12:27,181 - INFO - Memory: 4.523 MB
+2025-06-29 23:12:27,181 - INFO - Expected:
+3
+2025-06-29 23:12:27,181 - INFO - Got:
+1
+2025-06-29 23:12:27,181 - INFO - [96m
+Summary: Passed 0 out of 2 tests.[0m
+2025-06-29 23:28:43,621 - INFO - Latest problem directory is '장신구_명장_임스'
+2025-06-29 23:28:44,011 - ERROR - Compilation failed.
+2025-06-29 23:28:50,122 - INFO - Latest problem directory is '장신구_명장_임스'
+2025-06-29 23:28:50,458 - ERROR - Compilation failed.
+2025-06-29 23:31:31,309 - INFO - Latest problem directory is '장신구_명장_임스'
+2025-06-29 23:31:31,822 - INFO - Compilation successful.
+2025-06-29 23:31:31,823 - INFO - Using time limit: 1000 ms and memory limit: 1024 MB
+2025-06-29 23:31:32,518 - INFO - Test 1: Passed
+2025-06-29 23:31:32,518 - INFO - Time: 0.693 seconds
+2025-06-29 23:31:32,518 - INFO - Memory: 4.562 MB
+2025-06-29 23:31:32,529 - INFO - Test 2: Failed
+2025-06-29 23:31:32,529 - INFO - Time: 0.010 seconds
+2025-06-29 23:31:32,529 - INFO - Memory: 4.590 MB
+2025-06-29 23:31:32,529 - INFO - Expected:
+3
+2025-06-29 23:31:32,529 - INFO - Got:
+2
+2025-06-29 23:31:32,529 - INFO - [96m
+Summary: Passed 1 out of 2 tests.[0m
+2025-06-29 23:43:16,685 - INFO - Latest problem directory is '장신구_명장_임스'
+2025-06-29 23:43:17,147 - INFO - Compilation successful.
+2025-06-29 23:43:17,147 - INFO - Using time limit: 1000 ms and memory limit: 1024 MB
+2025-06-29 23:43:17,909 - INFO - Test 1: Failed
+2025-06-29 23:43:17,909 - INFO - Time: 0.760 seconds
+2025-06-29 23:43:17,910 - INFO - Memory: 4.496 MB
+2025-06-29 23:43:17,910 - INFO - Expected:
+3
+2025-06-29 23:43:17,910 - INFO - Got:
+4
+2025-06-29 23:43:17,917 - INFO - Test 2: Passed
+2025-06-29 23:43:17,917 - INFO - Time: 0.008 seconds
+2025-06-29 23:43:17,917 - INFO - Memory: 4.496 MB
+2025-06-29 23:43:17,917 - INFO - [96m
+Summary: Passed 1 out of 2 tests.[0m
+2025-06-29 23:44:01,115 - INFO - Latest problem directory is '장신구_명장_임스'
+2025-06-29 23:44:01,566 - INFO - Compilation successful.
+2025-06-29 23:44:01,567 - INFO - Using time limit: 1000 ms and memory limit: 1024 MB
+2025-06-29 23:44:02,125 - INFO - Test 1: Passed
+2025-06-29 23:44:02,125 - INFO - Time: 0.557 seconds
+2025-06-29 23:44:02,125 - INFO - Memory: 4.488 MB
+2025-06-29 23:44:02,134 - INFO - Test 2: Passed
+2025-06-29 23:44:02,134 - INFO - Time: 0.008 seconds
+2025-06-29 23:44:02,134 - INFO - Memory: 4.496 MB
+2025-06-29 23:44:02,134 - INFO - [96m
+Summary: Passed 2 out of 2 tests.[0m
