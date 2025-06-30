@@ -36,3 +36,48 @@
 2025-06-30 10:27:43,925 - INFO - Sample test case 7 written to 등산\input7.txt and 등산\output7.txt
 2025-06-30 10:27:43,925 - INFO - Limits for '등산' written to 등산\limits.txt
 2025-06-30 10:27:43,925 - INFO - Latest problem directory '등산' saved to latest_problem.txt
+2025-06-30 12:17:32,903 - INFO - Serving at port 10043
+2025-06-30 12:17:35,488 - INFO - Project directory '도로포장' created for problem '도로포장'
+2025-06-30 12:17:35,488 - INFO - Appended content from template.cpp to 도로포장/main.cpp
+2025-06-30 12:17:35,489 - INFO - Code template for '도로포장' written to 도로포장\main.cpp
+2025-06-30 12:17:35,490 - INFO - Sample test case 1 written to 도로포장\input1.txt and 도로포장\output1.txt
+2025-06-30 12:17:35,490 - INFO - Limits for '도로포장' written to 도로포장\limits.txt
+2025-06-30 12:17:35,490 - INFO - Latest problem directory '도로포장' saved to latest_problem.txt
+2025-06-30 13:27:12,120 - INFO - Serving at port 10043
+2025-06-30 13:27:14,186 - INFO - Project directory '중복된_숫자' created for problem '중복된 숫자'
+2025-06-30 13:27:14,186 - INFO - Appended content from template.cpp to 중복된_숫자/main.cpp
+2025-06-30 13:27:14,186 - INFO - Code template for '중복된 숫자' written to 중복된_숫자\main.cpp
+2025-06-30 13:27:14,187 - INFO - Sample test case 1 written to 중복된_숫자\input1.txt and 중복된_숫자\output1.txt
+2025-06-30 13:27:14,187 - INFO - Limits for '중복된 숫자' written to 중복된_숫자\limits.txt
+2025-06-30 13:27:14,187 - INFO - Latest problem directory '중복된_숫자' saved to latest_problem.txt
+2025-06-30 13:31:41,598 - INFO - Serving at port 10043
+2025-06-30 13:32:17,007 - INFO - Serving at port 10043
+2025-06-30 13:32:46,215 - INFO - Serving at port 10043
+2025-06-30 13:39:16,506 - INFO - Serving at port 10043
+2025-06-30 13:39:17,726 - INFO - Project directory '구구단표' created for problem '구구단표'
+2025-06-30 13:39:17,726 - INFO - Appended content from template.cpp to 구구단표/main.cpp
+2025-06-30 13:39:17,728 - INFO - Code template for '구구단표' written to 구구단표\main.cpp
+2025-06-30 13:39:17,728 - INFO - Sample test case 1 written to 구구단표\input1.txt and 구구단표\output1.txt
+2025-06-30 13:39:17,729 - INFO - Sample test case 2 written to 구구단표\input2.txt and 구구단표\output2.txt
+2025-06-30 13:39:17,729 - INFO - Limits for '구구단표' written to 구구단표\limits.txt
+2025-06-30 13:39:17,729 - INFO - Latest problem directory '구구단표' saved to latest_problem.txt
+2025-06-30 13:51:40,145 - INFO - Serving at port 10043
+2025-06-30 13:51:41,751 - ERROR - An error occurred: [WinError 123] 파일 이름, 디렉터리 이름 또는 볼륨 레이블 구문이 잘못되었습니다: '2025는_무엇이_특별할까?'
+Traceback (most recent call last):
+  File "C:\Users\rlfjr\CLionProjects\BOJ\cp-setup.py", line 37, in process_data
+    os.makedirs(project_dir)
+  File "<frozen os>", line 225, in makedirs
+OSError: [WinError 123] 파일 이름, 디렉터리 이름 또는 볼륨 레이블 구문이 잘못되었습니다: '2025는_무엇이_특별할까?'
+2025-06-30 13:51:45,219 - ERROR - An error occurred: [WinError 123] 파일 이름, 디렉터리 이름 또는 볼륨 레이블 구문이 잘못되었습니다: '2025는_무엇이_특별할까?'
+Traceback (most recent call last):
+  File "C:\Users\rlfjr\CLionProjects\BOJ\cp-setup.py", line 37, in process_data
+    os.makedirs(project_dir)
+  File "<frozen os>", line 225, in makedirs
+OSError: [WinError 123] 파일 이름, 디렉터리 이름 또는 볼륨 레이블 구문이 잘못되었습니다: '2025는_무엇이_특별할까?'
+2025-06-30 13:51:56,883 - INFO - Serving at port 10043
+2025-06-30 13:51:58,541 - ERROR - An error occurred: [WinError 123] 파일 이름, 디렉터리 이름 또는 볼륨 레이블 구문이 잘못되었습니다: '2025는_무엇이_특별할까?'
+Traceback (most recent call last):
+  File "C:\Users\rlfjr\CLionProjects\BOJ\cp-setup.py", line 37, in process_data
+    os.makedirs(project_dir)
+  File "<frozen os>", line 225, in makedirs
+OSError: [WinError 123] 파일 이름, 디렉터리 이름 또는 볼륨 레이블 구문이 잘못되었습니다: '2025는_무엇이_특별할까?'

@@ -678,3 +678,46 @@ Summary: Passed 0 out of 7 tests.[0m
 2025-06-30 11:09:45,028 - INFO - Memory: 5.105 MB
 2025-06-30 11:09:45,028 - INFO - [96m
 Summary: Passed 7 out of 7 tests.[0m
+2025-06-30 13:31:45,435 - INFO - Latest problem directory is '중복된_숫자'
+2025-06-30 13:31:45,824 - INFO - Compilation successful.
+2025-06-30 13:31:45,824 - INFO - Using time limit: 2000 ms and memory limit: 256 MB
+2025-06-30 13:31:46,638 - INFO - Test 1: Failed
+2025-06-30 13:31:46,639 - INFO - Time: 0.814 seconds
+2025-06-30 13:31:46,639 - INFO - Memory: 5.062 MB
+2025-06-30 13:31:46,639 - INFO - Expected:
+2
+2025-06-30 13:31:46,639 - INFO - Got:
+1
+2025-06-30 13:31:46,639 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-06-30 13:32:19,213 - INFO - Latest problem directory is '중복된_숫자'
+2025-06-30 13:32:19,622 - INFO - Compilation successful.
+2025-06-30 13:32:19,622 - INFO - Using time limit: 2000 ms and memory limit: 256 MB
+2025-06-30 13:32:20,273 - INFO - Test 1: Failed
+2025-06-30 13:32:20,273 - INFO - Time: 0.651 seconds
+2025-06-30 13:32:20,273 - INFO - Memory: 5.066 MB
+2025-06-30 13:32:20,273 - INFO - Expected:
+2
+2025-06-30 13:32:20,273 - INFO - Got:
+1
+2025-06-30 13:32:20,273 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-06-30 13:32:49,635 - INFO - Latest problem directory is '중복된_숫자'
+2025-06-30 13:32:50,037 - INFO - Compilation successful.
+2025-06-30 13:32:50,037 - INFO - Using time limit: 2000 ms and memory limit: 256 MB
+2025-06-30 13:32:50,789 - INFO - Test 1: Passed
+2025-06-30 13:32:50,789 - INFO - Time: 0.750 seconds
+2025-06-30 13:32:50,789 - INFO - Memory: 5.078 MB
+2025-06-30 13:32:50,789 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-06-30 13:42:29,864 - INFO - Latest problem directory is '구구단표'
+2025-06-30 13:42:30,236 - INFO - Compilation successful.
+2025-06-30 13:42:30,236 - INFO - Using time limit: 500 ms and memory limit: 1024 MB
+2025-06-30 13:42:30,968 - INFO - Test 1: Passed
+2025-06-30 13:42:30,968 - INFO - Time: 0.730 seconds
+2025-06-30 13:42:30,968 - INFO - Memory: 5.055 MB
+2025-06-30 13:42:30,979 - INFO - Test 2: Passed
+2025-06-30 13:42:30,979 - INFO - Time: 0.011 seconds
+2025-06-30 13:42:30,979 - INFO - Memory: 5.051 MB
+2025-06-30 13:42:30,979 - INFO - [96m
+Summary: Passed 2 out of 2 tests.[0m

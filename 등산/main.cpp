@@ -7,7 +7,7 @@
 #include <vector>
 
 #define DIRECTION 4
-#define INF 51*51+1
+#define INF 625 * 51 * 51 +1
 
 using namespace std;
 
