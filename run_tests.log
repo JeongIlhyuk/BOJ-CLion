@@ -348,3 +348,333 @@ Summary: Passed 2 out of 2 tests.[0m
 0
 2025-06-30 10:52:41,320 - INFO - [96m
 Summary: Passed 0 out of 7 tests.[0m
+2025-06-30 10:55:37,483 - INFO - Latest problem directory is '등산'
+2025-06-30 10:55:37,974 - INFO - Compilation successful.
+2025-06-30 10:55:37,974 - INFO - Using time limit: 2000 ms and memory limit: 128 MB
+2025-06-30 10:55:38,705 - INFO - Test 1: Failed
+2025-06-30 10:55:38,705 - INFO - Time: 0.730 seconds
+2025-06-30 10:55:38,705 - INFO - Memory: 5.074 MB
+2025-06-30 10:55:38,705 - INFO - Expected:
+30
+2025-06-30 10:55:38,705 - INFO - Got:
+0
+2025-06-30 10:55:38,715 - INFO - Test 2: Failed
+2025-06-30 10:55:38,716 - INFO - Time: 0.010 seconds
+2025-06-30 10:55:38,716 - INFO - Memory: 5.082 MB
+2025-06-30 10:55:38,716 - INFO - Expected:
+9
+2025-06-30 10:55:38,716 - INFO - Got:
+0
+2025-06-30 10:55:38,728 - INFO - Test 3: Failed
+2025-06-30 10:55:38,728 - INFO - Time: 0.011 seconds
+2025-06-30 10:55:38,728 - INFO - Memory: 5.070 MB
+2025-06-30 10:55:38,728 - INFO - Expected:
+6
+2025-06-30 10:55:38,728 - INFO - Got:
+0
+2025-06-30 10:55:40,738 - WARNING - Test 4: Time Limit Exceeded
+2025-06-30 10:55:40,738 - INFO - Time: 2.011 seconds
+2025-06-30 10:55:42,752 - WARNING - Test 5: Time Limit Exceeded
+2025-06-30 10:55:42,752 - INFO - Time: 2.010 seconds
+2025-06-30 10:55:42,762 - INFO - Test 6: Failed
+2025-06-30 10:55:42,762 - INFO - Time: 0.008 seconds
+2025-06-30 10:55:42,762 - INFO - Memory: 5.062 MB
+2025-06-30 10:55:42,764 - INFO - Expected:
+5
+2025-06-30 10:55:42,764 - INFO - Got:
+0
+2025-06-30 10:55:42,773 - INFO - Test 7: Failed
+2025-06-30 10:55:42,773 - INFO - Time: 0.009 seconds
+2025-06-30 10:55:42,773 - INFO - Memory: 5.094 MB
+2025-06-30 10:55:42,773 - INFO - Expected:
+28
+2025-06-30 10:55:42,773 - INFO - Got:
+0
+2025-06-30 10:55:42,774 - INFO - [96m
+Summary: Passed 0 out of 7 tests.[0m
+2025-06-30 11:01:28,672 - INFO - Latest problem directory is '등산'
+2025-06-30 11:01:29,187 - INFO - Compilation successful.
+2025-06-30 11:01:29,187 - INFO - Using time limit: 2000 ms and memory limit: 128 MB
+2025-06-30 11:01:29,893 - INFO - Test 1: Failed
+2025-06-30 11:01:29,893 - INFO - Time: 0.704 seconds
+2025-06-30 11:01:29,893 - INFO - Memory: 5.070 MB
+2025-06-30 11:01:29,893 - INFO - Expected:
+30
+2025-06-30 11:01:29,893 - INFO - Got:
+0
+2025-06-30 11:01:29,903 - INFO - Test 2: Failed
+2025-06-30 11:01:29,904 - INFO - Time: 0.009 seconds
+2025-06-30 11:01:29,904 - INFO - Memory: 5.062 MB
+2025-06-30 11:01:29,904 - INFO - Expected:
+9
+2025-06-30 11:01:29,904 - INFO - Got:
+0
+2025-06-30 11:01:29,913 - INFO - Test 3: Failed
+2025-06-30 11:01:29,913 - INFO - Time: 0.010 seconds
+2025-06-30 11:01:29,913 - INFO - Memory: 5.062 MB
+2025-06-30 11:01:29,913 - INFO - Expected:
+6
+2025-06-30 11:01:29,913 - INFO - Got:
+0
+2025-06-30 11:01:31,927 - WARNING - Test 4: Time Limit Exceeded
+2025-06-30 11:01:31,927 - INFO - Time: 2.012 seconds
+2025-06-30 11:01:33,946 - WARNING - Test 5: Time Limit Exceeded
+2025-06-30 11:01:33,946 - INFO - Time: 2.018 seconds
+2025-06-30 11:01:33,959 - INFO - Test 6: Failed
+2025-06-30 11:01:33,959 - INFO - Time: 0.009 seconds
+2025-06-30 11:01:33,959 - INFO - Memory: 5.070 MB
+2025-06-30 11:01:33,959 - INFO - Expected:
+5
+2025-06-30 11:01:33,959 - INFO - Got:
+0
+2025-06-30 11:01:33,968 - INFO - Test 7: Failed
+2025-06-30 11:01:33,968 - INFO - Time: 0.009 seconds
+2025-06-30 11:01:33,968 - INFO - Memory: 5.102 MB
+2025-06-30 11:01:33,968 - INFO - Expected:
+28
+2025-06-30 11:01:33,968 - INFO - Got:
+0
+2025-06-30 11:01:33,968 - INFO - [96m
+Summary: Passed 0 out of 7 tests.[0m
+2025-06-30 11:04:35,574 - INFO - Latest problem directory is '등산'
+2025-06-30 11:04:36,054 - INFO - Compilation successful.
+2025-06-30 11:04:36,054 - INFO - Using time limit: 2000 ms and memory limit: 128 MB
+2025-06-30 11:04:37,060 - INFO - Test 1: Failed
+2025-06-30 11:04:37,060 - INFO - Time: 1.003 seconds
+2025-06-30 11:04:37,060 - INFO - Memory: 5.082 MB
+2025-06-30 11:04:37,060 - INFO - Expected:
+30
+2025-06-30 11:04:37,060 - INFO - Got:
+-65
+2025-06-30 11:04:37,070 - INFO - Test 2: Failed
+2025-06-30 11:04:37,070 - INFO - Time: 0.011 seconds
+2025-06-30 11:04:37,070 - INFO - Memory: 5.070 MB
+2025-06-30 11:04:37,070 - INFO - Expected:
+9
+2025-06-30 11:04:37,070 - INFO - Got:
+-65
+2025-06-30 11:04:37,081 - INFO - Test 3: Failed
+2025-06-30 11:04:37,082 - INFO - Time: 0.010 seconds
+2025-06-30 11:04:37,082 - INFO - Memory: 5.066 MB
+2025-06-30 11:04:37,082 - INFO - Expected:
+6
+2025-06-30 11:04:37,082 - INFO - Got:
+-65
+2025-06-30 11:04:37,093 - INFO - Test 4: Failed
+2025-06-30 11:04:37,093 - INFO - Time: 0.012 seconds
+2025-06-30 11:04:37,094 - INFO - Memory: 5.074 MB
+2025-06-30 11:04:37,094 - INFO - Expected:
+10
+2025-06-30 11:04:37,094 - INFO - Got:
+-65
+2025-06-30 11:04:37,104 - INFO - Test 5: Failed
+2025-06-30 11:04:37,104 - INFO - Time: 0.010 seconds
+2025-06-30 11:04:37,104 - INFO - Memory: 5.078 MB
+2025-06-30 11:04:37,104 - INFO - Expected:
+18
+2025-06-30 11:04:37,104 - INFO - Got:
+-65
+2025-06-30 11:04:37,125 - INFO - Test 6: Failed
+2025-06-30 11:04:37,125 - INFO - Time: 0.020 seconds
+2025-06-30 11:04:37,125 - INFO - Memory: 5.070 MB
+2025-06-30 11:04:37,125 - INFO - Expected:
+5
+2025-06-30 11:04:37,125 - INFO - Got:
+-65
+2025-06-30 11:04:37,136 - INFO - Test 7: Failed
+2025-06-30 11:04:37,136 - INFO - Time: 0.009 seconds
+2025-06-30 11:04:37,136 - INFO - Memory: 5.109 MB
+2025-06-30 11:04:37,136 - INFO - Expected:
+28
+2025-06-30 11:04:37,136 - INFO - Got:
+-65
+2025-06-30 11:04:37,136 - INFO - [96m
+Summary: Passed 0 out of 7 tests.[0m
+2025-06-30 11:05:56,496 - INFO - Latest problem directory is '등산'
+2025-06-30 11:05:57,027 - INFO - Compilation successful.
+2025-06-30 11:05:57,028 - INFO - Using time limit: 2000 ms and memory limit: 128 MB
+2025-06-30 11:05:57,791 - INFO - Test 1: Failed
+2025-06-30 11:05:57,791 - INFO - Time: 0.762 seconds
+2025-06-30 11:05:57,791 - INFO - Memory: 5.074 MB
+2025-06-30 11:05:57,791 - INFO - Expected:
+30
+2025-06-30 11:05:57,791 - INFO - Got:
+-65
+2025-06-30 11:05:57,802 - INFO - Test 2: Failed
+2025-06-30 11:05:57,802 - INFO - Time: 0.010 seconds
+2025-06-30 11:05:57,802 - INFO - Memory: 5.074 MB
+2025-06-30 11:05:57,802 - INFO - Expected:
+9
+2025-06-30 11:05:57,802 - INFO - Got:
+-65
+2025-06-30 11:05:57,813 - INFO - Test 3: Failed
+2025-06-30 11:05:57,814 - INFO - Time: 0.011 seconds
+2025-06-30 11:05:57,814 - INFO - Memory: 5.066 MB
+2025-06-30 11:05:57,814 - INFO - Expected:
+6
+2025-06-30 11:05:57,814 - INFO - Got:
+-65
+2025-06-30 11:05:57,826 - INFO - Test 4: Failed
+2025-06-30 11:05:57,826 - INFO - Time: 0.012 seconds
+2025-06-30 11:05:57,826 - INFO - Memory: 5.070 MB
+2025-06-30 11:05:57,826 - INFO - Expected:
+10
+2025-06-30 11:05:57,826 - INFO - Got:
+-65
+2025-06-30 11:05:57,837 - INFO - Test 5: Failed
+2025-06-30 11:05:57,837 - INFO - Time: 0.010 seconds
+2025-06-30 11:05:57,837 - INFO - Memory: 5.062 MB
+2025-06-30 11:05:57,837 - INFO - Expected:
+18
+2025-06-30 11:05:57,837 - INFO - Got:
+-65
+2025-06-30 11:05:57,847 - INFO - Test 6: Failed
+2025-06-30 11:05:57,847 - INFO - Time: 0.010 seconds
+2025-06-30 11:05:57,847 - INFO - Memory: 5.070 MB
+2025-06-30 11:05:57,847 - INFO - Expected:
+5
+2025-06-30 11:05:57,849 - INFO - Got:
+-65
+2025-06-30 11:05:57,862 - INFO - Test 7: Failed
+2025-06-30 11:05:57,862 - INFO - Time: 0.013 seconds
+2025-06-30 11:05:57,862 - INFO - Memory: 5.105 MB
+2025-06-30 11:05:57,862 - INFO - Expected:
+28
+2025-06-30 11:05:57,862 - INFO - Got:
+-65
+2025-06-30 11:05:57,862 - INFO - [96m
+Summary: Passed 0 out of 7 tests.[0m
+2025-06-30 11:06:32,440 - INFO - Latest problem directory is '등산'
+2025-06-30 11:06:33,010 - INFO - Compilation successful.
+2025-06-30 11:06:33,010 - INFO - Using time limit: 2000 ms and memory limit: 128 MB
+2025-06-30 11:06:33,543 - INFO - Test 1: Failed
+2025-06-30 11:06:33,543 - INFO - Time: 0.531 seconds
+2025-06-30 11:06:33,543 - INFO - Memory: 5.078 MB
+2025-06-30 11:06:33,543 - INFO - Expected:
+30
+2025-06-30 11:06:33,543 - INFO - Got:
+-65
+2025-06-30 11:06:33,554 - INFO - Test 2: Failed
+2025-06-30 11:06:33,554 - INFO - Time: 0.011 seconds
+2025-06-30 11:06:33,554 - INFO - Memory: 5.066 MB
+2025-06-30 11:06:33,554 - INFO - Expected:
+9
+2025-06-30 11:06:33,554 - INFO - Got:
+-65
+2025-06-30 11:06:33,564 - INFO - Test 3: Failed
+2025-06-30 11:06:33,564 - INFO - Time: 0.010 seconds
+2025-06-30 11:06:33,564 - INFO - Memory: 5.062 MB
+2025-06-30 11:06:33,564 - INFO - Expected:
+6
+2025-06-30 11:06:33,564 - INFO - Got:
+-65
+2025-06-30 11:06:33,574 - INFO - Test 4: Failed
+2025-06-30 11:06:33,574 - INFO - Time: 0.009 seconds
+2025-06-30 11:06:33,574 - INFO - Memory: 5.066 MB
+2025-06-30 11:06:33,574 - INFO - Expected:
+10
+2025-06-30 11:06:33,574 - INFO - Got:
+-65
+2025-06-30 11:06:33,582 - INFO - Test 5: Failed
+2025-06-30 11:06:33,582 - INFO - Time: 0.008 seconds
+2025-06-30 11:06:33,582 - INFO - Memory: 5.078 MB
+2025-06-30 11:06:33,582 - INFO - Expected:
+18
+2025-06-30 11:06:33,582 - INFO - Got:
+-65
+2025-06-30 11:06:33,594 - INFO - Test 6: Failed
+2025-06-30 11:06:33,594 - INFO - Time: 0.011 seconds
+2025-06-30 11:06:33,594 - INFO - Memory: 5.070 MB
+2025-06-30 11:06:33,594 - INFO - Expected:
+5
+2025-06-30 11:06:33,594 - INFO - Got:
+-65
+2025-06-30 11:06:33,604 - INFO - Test 7: Failed
+2025-06-30 11:06:33,605 - INFO - Time: 0.009 seconds
+2025-06-30 11:06:33,605 - INFO - Memory: 5.090 MB
+2025-06-30 11:06:33,605 - INFO - Expected:
+28
+2025-06-30 11:06:33,605 - INFO - Got:
+-65
+2025-06-30 11:06:33,605 - INFO - [96m
+Summary: Passed 0 out of 7 tests.[0m
+2025-06-30 11:08:39,336 - INFO - Latest problem directory is '등산'
+2025-06-30 11:08:39,827 - INFO - Compilation successful.
+2025-06-30 11:08:39,828 - INFO - Using time limit: 2000 ms and memory limit: 128 MB
+2025-06-30 11:08:40,553 - INFO - Test 1: Failed
+2025-06-30 11:08:40,553 - INFO - Time: 0.723 seconds
+2025-06-30 11:08:40,553 - INFO - Memory: 5.074 MB
+2025-06-30 11:08:40,553 - INFO - Expected:
+30
+2025-06-30 11:08:40,553 - INFO - Got:
+-65
+2025-06-30 11:08:40,563 - INFO - Test 2: Failed
+2025-06-30 11:08:40,563 - INFO - Time: 0.011 seconds
+2025-06-30 11:08:40,563 - INFO - Memory: 5.078 MB
+2025-06-30 11:08:40,563 - INFO - Expected:
+9
+2025-06-30 11:08:40,563 - INFO - Got:
+-65
+2025-06-30 11:08:40,574 - INFO - Test 3: Failed
+2025-06-30 11:08:40,574 - INFO - Time: 0.010 seconds
+2025-06-30 11:08:40,574 - INFO - Memory: 5.066 MB
+2025-06-30 11:08:40,574 - INFO - Expected:
+6
+2025-06-30 11:08:40,574 - INFO - Got:
+-65
+2025-06-30 11:08:40,585 - INFO - Test 4: Failed
+2025-06-30 11:08:40,585 - INFO - Time: 0.010 seconds
+2025-06-30 11:08:40,585 - INFO - Memory: 5.070 MB
+2025-06-30 11:08:40,585 - INFO - Expected:
+10
+2025-06-30 11:08:40,585 - INFO - Got:
+-65
+2025-06-30 11:08:40,595 - INFO - Test 5: Failed
+2025-06-30 11:08:40,595 - INFO - Time: 0.010 seconds
+2025-06-30 11:08:40,595 - INFO - Memory: 5.074 MB
+2025-06-30 11:08:40,595 - INFO - Expected:
+18
+2025-06-30 11:08:40,595 - INFO - Got:
+-65
+2025-06-30 11:08:40,606 - INFO - Test 6: Failed
+2025-06-30 11:08:40,606 - INFO - Time: 0.009 seconds
+2025-06-30 11:08:40,606 - INFO - Memory: 5.066 MB
+2025-06-30 11:08:40,606 - INFO - Expected:
+5
+2025-06-30 11:08:40,606 - INFO - Got:
+-65
+2025-06-30 11:08:40,620 - INFO - Test 7: Failed
+2025-06-30 11:08:40,620 - INFO - Time: 0.014 seconds
+2025-06-30 11:08:40,620 - INFO - Memory: 5.094 MB
+2025-06-30 11:08:40,620 - INFO - Expected:
+28
+2025-06-30 11:08:40,620 - INFO - Got:
+-65
+2025-06-30 11:08:40,621 - INFO - [96m
+Summary: Passed 0 out of 7 tests.[0m
+2025-06-30 11:09:43,965 - INFO - Latest problem directory is '등산'
+2025-06-30 11:09:44,444 - INFO - Compilation successful.
+2025-06-30 11:09:44,445 - INFO - Using time limit: 2000 ms and memory limit: 128 MB
+2025-06-30 11:09:44,965 - INFO - Test 1: Passed
+2025-06-30 11:09:44,965 - INFO - Time: 0.519 seconds
+2025-06-30 11:09:44,965 - INFO - Memory: 5.086 MB
+2025-06-30 11:09:44,975 - INFO - Test 2: Passed
+2025-06-30 11:09:44,975 - INFO - Time: 0.009 seconds
+2025-06-30 11:09:44,975 - INFO - Memory: 5.074 MB
+2025-06-30 11:09:44,986 - INFO - Test 3: Passed
+2025-06-30 11:09:44,986 - INFO - Time: 0.011 seconds
+2025-06-30 11:09:44,986 - INFO - Memory: 5.074 MB
+2025-06-30 11:09:44,996 - INFO - Test 4: Passed
+2025-06-30 11:09:44,996 - INFO - Time: 0.010 seconds
+2025-06-30 11:09:44,996 - INFO - Memory: 5.078 MB
+2025-06-30 11:09:45,006 - INFO - Test 5: Passed
+2025-06-30 11:09:45,006 - INFO - Time: 0.008 seconds
+2025-06-30 11:09:45,006 - INFO - Memory: 5.082 MB
+2025-06-30 11:09:45,016 - INFO - Test 6: Passed
+2025-06-30 11:09:45,016 - INFO - Time: 0.010 seconds
+2025-06-30 11:09:45,016 - INFO - Memory: 5.066 MB
+2025-06-30 11:09:45,028 - INFO - Test 7: Passed
+2025-06-30 11:09:45,028 - INFO - Time: 0.011 seconds
+2025-06-30 11:09:45,028 - INFO - Memory: 5.105 MB
+2025-06-30 11:09:45,028 - INFO - [96m
+Summary: Passed 7 out of 7 tests.[0m
