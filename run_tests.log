@@ -140,3 +140,211 @@ Summary: Passed 1 out of 2 tests.[0m
 2025-06-29 23:44:02,134 - INFO - Memory: 4.496 MB
 2025-06-29 23:44:02,134 - INFO - [96m
 Summary: Passed 2 out of 2 tests.[0m
+2025-06-30 01:41:17,147 - INFO - Latest problem directory is '면접보는_승범이네'
+2025-06-30 01:41:17,533 - ERROR - Compilation failed.
+2025-06-30 01:42:53,445 - INFO - Latest problem directory is '면접보는_승범이네'
+2025-06-30 01:42:53,816 - ERROR - Compilation failed.
+2025-06-30 01:43:04,977 - INFO - Latest problem directory is '면접보는_승범이네'
+2025-06-30 01:43:05,347 - ERROR - Compilation failed.
+2025-06-30 01:43:32,152 - INFO - Latest problem directory is '면접보는_승범이네'
+2025-06-30 01:43:32,521 - ERROR - Compilation failed.
+2025-06-30 01:44:00,698 - INFO - Latest problem directory is '면접보는_승범이네'
+2025-06-30 01:44:01,363 - INFO - Compilation successful.
+2025-06-30 01:44:01,363 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-06-30 01:44:02,147 - INFO - Test 1: Failed
+2025-06-30 01:44:02,147 - INFO - Time: 0.784 seconds
+2025-06-30 01:44:02,147 - INFO - Memory: 4.520 MB
+2025-06-30 01:44:02,147 - INFO - Expected:
+4
+8
+2025-06-30 01:44:02,147 - INFO - Got:
+1
+2025-06-30 01:44:03,152 - WARNING - Test 2: Time Limit Exceeded
+2025-06-30 01:44:03,152 - INFO - Time: 1.005 seconds
+2025-06-30 01:44:03,153 - INFO - [96m
+Summary: Passed 0 out of 2 tests.[0m
+2025-06-30 01:44:59,987 - INFO - Latest problem directory is '면접보는_승범이네'
+2025-06-30 01:45:00,568 - INFO - Compilation successful.
+2025-06-30 01:45:00,568 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-06-30 01:45:01,164 - INFO - Test 1: Failed
+2025-06-30 01:45:01,164 - INFO - Time: 0.595 seconds
+2025-06-30 01:45:01,165 - INFO - Memory: 4.523 MB
+2025-06-30 01:45:01,165 - INFO - Expected:
+4
+8
+2025-06-30 01:45:01,165 - INFO - Got:
+3
+2025-06-30 01:45:01,175 - INFO - Test 2: Failed
+2025-06-30 01:45:01,175 - INFO - Time: 0.009 seconds
+2025-06-30 01:45:01,175 - INFO - Memory: 4.539 MB
+2025-06-30 01:45:01,175 - INFO - Expected:
+9
+15
+2025-06-30 01:45:01,175 - INFO - Got:
+9
+2025-06-30 01:45:01,175 - INFO - [96m
+Summary: Passed 0 out of 2 tests.[0m
+2025-06-30 01:45:34,933 - INFO - Latest problem directory is '면접보는_승범이네'
+2025-06-30 01:45:35,521 - INFO - Compilation successful.
+2025-06-30 01:45:35,521 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-06-30 01:45:36,118 - INFO - Test 1: Failed
+2025-06-30 01:45:36,118 - INFO - Time: 0.597 seconds
+2025-06-30 01:45:36,118 - INFO - Memory: 4.531 MB
+2025-06-30 01:45:36,118 - INFO - Expected:
+4
+8
+2025-06-30 01:45:36,118 - INFO - Got:
+3
+2025-06-30 01:45:36,127 - INFO - Test 2: Failed
+2025-06-30 01:45:36,127 - INFO - Time: 0.007 seconds
+2025-06-30 01:45:36,127 - INFO - Memory: 4.535 MB
+2025-06-30 01:45:36,127 - INFO - Expected:
+9
+15
+2025-06-30 01:45:36,127 - INFO - Got:
+9
+2025-06-30 01:45:36,127 - INFO - [96m
+Summary: Passed 0 out of 2 tests.[0m
+2025-06-30 01:52:09,928 - INFO - Latest problem directory is '면접보는_승범이네'
+2025-06-30 01:52:10,285 - ERROR - Compilation failed.
+2025-06-30 01:52:26,640 - INFO - Latest problem directory is '면접보는_승범이네'
+2025-06-30 01:52:27,160 - INFO - Compilation successful.
+2025-06-30 01:52:27,161 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-06-30 01:52:28,044 - INFO - Test 1: Failed
+2025-06-30 01:52:28,044 - INFO - Time: 0.882 seconds
+2025-06-30 01:52:28,044 - INFO - Memory: 4.531 MB
+2025-06-30 01:52:28,044 - INFO - Expected:
+4
+8
+2025-06-30 01:52:28,044 - INFO - Got:
+3
+2025-06-30 01:52:28,053 - INFO - Test 2: Failed
+2025-06-30 01:52:28,053 - INFO - Time: 0.008 seconds
+2025-06-30 01:52:28,053 - INFO - Memory: 4.535 MB
+2025-06-30 01:52:28,053 - INFO - Expected:
+9
+15
+2025-06-30 01:52:28,053 - INFO - Got:
+9
+2025-06-30 01:52:28,053 - INFO - [96m
+Summary: Passed 0 out of 2 tests.[0m
+2025-06-30 01:53:15,597 - INFO - Latest problem directory is '면접보는_승범이네'
+2025-06-30 01:53:16,106 - INFO - Compilation successful.
+2025-06-30 01:53:16,107 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-06-30 01:53:16,641 - INFO - Test 1: Failed
+2025-06-30 01:53:16,641 - INFO - Time: 0.532 seconds
+2025-06-30 01:53:16,641 - INFO - Memory: 4.543 MB
+2025-06-30 01:53:16,641 - INFO - Expected:
+4
+8
+2025-06-30 01:53:16,641 - INFO - Got:
+3
+2025-06-30 01:53:16,650 - INFO - Test 2: Failed
+2025-06-30 01:53:16,650 - INFO - Time: 0.007 seconds
+2025-06-30 01:53:16,650 - INFO - Memory: 4.539 MB
+2025-06-30 01:53:16,650 - INFO - Expected:
+9
+15
+2025-06-30 01:53:16,650 - INFO - Got:
+9
+2025-06-30 01:53:16,650 - INFO - [96m
+Summary: Passed 0 out of 2 tests.[0m
+2025-06-30 01:53:54,865 - INFO - Latest problem directory is '면접보는_승범이네'
+2025-06-30 01:53:55,378 - INFO - Compilation successful.
+2025-06-30 01:53:55,378 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-06-30 01:53:55,911 - INFO - Test 1: Failed
+2025-06-30 01:53:55,912 - INFO - Time: 0.532 seconds
+2025-06-30 01:53:55,912 - INFO - Memory: 4.543 MB
+2025-06-30 01:53:55,912 - INFO - Expected:
+4
+8
+2025-06-30 01:53:55,912 - INFO - Got:
+3
+2025-06-30 01:53:55,921 - INFO - Test 2: Failed
+2025-06-30 01:53:55,921 - INFO - Time: 0.008 seconds
+2025-06-30 01:53:55,921 - INFO - Memory: 4.539 MB
+2025-06-30 01:53:55,921 - INFO - Expected:
+9
+15
+2025-06-30 01:53:55,921 - INFO - Got:
+9
+2025-06-30 01:53:55,921 - INFO - [96m
+Summary: Passed 0 out of 2 tests.[0m
+2025-06-30 01:59:34,301 - INFO - Latest problem directory is '면접보는_승범이네'
+2025-06-30 01:59:34,662 - ERROR - Compilation failed.
+2025-06-30 01:59:44,873 - INFO - Latest problem directory is '면접보는_승범이네'
+2025-06-30 01:59:45,381 - INFO - Compilation successful.
+2025-06-30 01:59:45,381 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-06-30 01:59:46,173 - INFO - Test 1: Failed
+2025-06-30 01:59:46,173 - INFO - Time: 0.790 seconds
+2025-06-30 01:59:46,173 - INFO - Memory: 4.539 MB
+2025-06-30 01:59:46,173 - INFO - Expected:
+4
+8
+2025-06-30 01:59:46,173 - INFO - Got:
+4
+2025-06-30 01:59:46,183 - INFO - Test 2: Failed
+2025-06-30 01:59:46,183 - INFO - Time: 0.008 seconds
+2025-06-30 01:59:46,183 - INFO - Memory: 4.531 MB
+2025-06-30 01:59:46,183 - INFO - Expected:
+9
+15
+2025-06-30 01:59:46,183 - INFO - Got:
+9
+2025-06-30 01:59:46,183 - INFO - [96m
+Summary: Passed 0 out of 2 tests.[0m
+2025-06-30 02:00:16,491 - INFO - Latest problem directory is '면접보는_승범이네'
+2025-06-30 02:00:17,009 - INFO - Compilation successful.
+2025-06-30 02:00:17,009 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-06-30 02:00:17,591 - INFO - Test 1: Passed
+2025-06-30 02:00:17,591 - INFO - Time: 0.581 seconds
+2025-06-30 02:00:17,591 - INFO - Memory: 4.535 MB
+2025-06-30 02:00:17,599 - INFO - Test 2: Passed
+2025-06-30 02:00:17,600 - INFO - Time: 0.008 seconds
+2025-06-30 02:00:17,600 - INFO - Memory: 4.555 MB
+2025-06-30 02:00:17,600 - INFO - [96m
+Summary: Passed 2 out of 2 tests.[0m
+2025-06-30 10:52:35,111 - INFO - Latest problem directory is '등산'
+2025-06-30 10:52:36,377 - INFO - Compilation successful.
+2025-06-30 10:52:36,377 - INFO - Using time limit: 2000 ms and memory limit: 128 MB
+2025-06-30 10:52:37,249 - INFO - Test 1: Failed
+2025-06-30 10:52:37,249 - INFO - Time: 0.870 seconds
+2025-06-30 10:52:37,249 - INFO - Memory: 5.082 MB
+2025-06-30 10:52:37,249 - INFO - Expected:
+30
+2025-06-30 10:52:37,249 - INFO - Got:
+0
+2025-06-30 10:52:37,261 - INFO - Test 2: Failed
+2025-06-30 10:52:37,261 - INFO - Time: 0.011 seconds
+2025-06-30 10:52:37,262 - INFO - Memory: 5.070 MB
+2025-06-30 10:52:37,262 - INFO - Expected:
+9
+2025-06-30 10:52:37,262 - INFO - Got:
+0
+2025-06-30 10:52:37,271 - INFO - Test 3: Failed
+2025-06-30 10:52:37,272 - INFO - Time: 0.009 seconds
+2025-06-30 10:52:37,272 - INFO - Memory: 5.070 MB
+2025-06-30 10:52:37,272 - INFO - Expected:
+6
+2025-06-30 10:52:37,272 - INFO - Got:
+0
+2025-06-30 10:52:39,282 - WARNING - Test 4: Time Limit Exceeded
+2025-06-30 10:52:39,282 - INFO - Time: 2.010 seconds
+2025-06-30 10:52:41,295 - WARNING - Test 5: Time Limit Exceeded
+2025-06-30 10:52:41,295 - INFO - Time: 2.010 seconds
+2025-06-30 10:52:41,306 - INFO - Test 6: Failed
+2025-06-30 10:52:41,306 - INFO - Time: 0.009 seconds
+2025-06-30 10:52:41,306 - INFO - Memory: 5.066 MB
+2025-06-30 10:52:41,306 - INFO - Expected:
+5
+2025-06-30 10:52:41,306 - INFO - Got:
+0
+2025-06-30 10:52:41,320 - INFO - Test 7: Failed
+2025-06-30 10:52:41,320 - INFO - Time: 0.013 seconds
+2025-06-30 10:52:41,320 - INFO - Memory: 5.098 MB
+2025-06-30 10:52:41,320 - INFO - Expected:
+28
+2025-06-30 10:52:41,320 - INFO - Got:
+0
+2025-06-30 10:52:41,320 - INFO - [96m
+Summary: Passed 0 out of 7 tests.[0m

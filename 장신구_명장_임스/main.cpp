@@ -8,34 +8,23 @@
 #include <algorithm>
 #include <string>
 #include <cmath>
+#include <queue>
 using namespace std;
+
+priority_queue<tuple<int,int,int>> pq;
+vector<int> distance;
+
+void djikstra()
+{
+
+}
 
 int main()
 {
     ios_base::sync_with_stdio(false);
     cin.tie(nullptr);
 
-    int p, n;
-    cin >> p >> n;
 
-    int arr[n];
-
-    for (int i=0;i<n;i++)
-    {
-        cin>>arr[i];
-    }
-
-    sort(arr,arr+n);
-
-    int result=0;
-    for (int i=0;i<n;i++)
-    {
-        if (p>=200)break;
-        p+=arr[i];
-        result++;
-    }
-
-    cout<<result;
 
     return 0;
 }
