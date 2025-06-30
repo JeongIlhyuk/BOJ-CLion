@@ -32,7 +32,10 @@ def process_data(data):
         memory_limit = data.get('memoryLimit', 'Unknown')
 
         # 创建项目目录，处理中文字符
+        import re
         project_dir = problem_name.replace(' ', '_')
+        # Windows에서 금지된 문자들을 제거/대체
+        project_dir = re.sub(r'[<>:"/\\|?*]', '', project_dir)
         if not os.path.exists(project_dir):
             os.makedirs(project_dir)
 

@@ -81,3 +81,43 @@ Traceback (most recent call last):
     os.makedirs(project_dir)
   File "<frozen os>", line 225, in makedirs
 OSError: [WinError 123] 파일 이름, 디렉터리 이름 또는 볼륨 레이블 구문이 잘못되었습니다: '2025는_무엇이_특별할까?'
+2025-06-30 13:56:55,254 - INFO - Serving at port 10043
+2025-06-30 13:57:00,862 - ERROR - An error occurred: [WinError 123] 파일 이름, 디렉터리 이름 또는 볼륨 레이블 구문이 잘못되었습니다: '2025는_무엇이_특별할까?'
+Traceback (most recent call last):
+  File "C:\Users\rlfjr\CLionProjects\BOJ\cp-setup.py", line 37, in process_data
+    os.makedirs(project_dir)
+  File "<frozen os>", line 225, in makedirs
+OSError: [WinError 123] 파일 이름, 디렉터리 이름 또는 볼륨 레이블 구문이 잘못되었습니다: '2025는_무엇이_특별할까?'
+2025-06-30 13:58:57,014 - ERROR - An error occurred: [WinError 123] 파일 이름, 디렉터리 이름 또는 볼륨 레이블 구문이 잘못되었습니다: '2025는_무엇이_특별할까?'
+Traceback (most recent call last):
+  File "C:\Users\rlfjr\CLionProjects\BOJ\cp-setup.py", line 37, in process_data
+    # Windows에서 금지된 문자들을 제거/대체
+        ^^^^^^^^^^^^^^^^^^^
+  File "<frozen os>", line 225, in makedirs
+OSError: [WinError 123] 파일 이름, 디렉터리 이름 또는 볼륨 레이블 구문이 잘못되었습니다: '2025는_무엇이_특별할까?'
+2025-06-30 13:59:03,721 - INFO - Serving at port 10043
+2025-06-30 13:59:06,593 - INFO - Project directory '2025는_무엇이_특별할까' created for problem '2025는 무엇이 특별할까?'
+2025-06-30 13:59:06,594 - INFO - Appended content from template.cpp to 2025는_무엇이_특별할까/main.cpp
+2025-06-30 13:59:06,594 - INFO - Code template for '2025는 무엇이 특별할까?' written to 2025는_무엇이_특별할까\main.cpp
+2025-06-30 13:59:06,595 - INFO - Sample test case 1 written to 2025는_무엇이_특별할까\input1.txt and 2025는_무엇이_특별할까\output1.txt
+2025-06-30 13:59:06,596 - INFO - Sample test case 2 written to 2025는_무엇이_특별할까\input2.txt and 2025는_무엇이_특별할까\output2.txt
+2025-06-30 13:59:06,597 - INFO - Sample test case 3 written to 2025는_무엇이_특별할까\input3.txt and 2025는_무엇이_특별할까\output3.txt
+2025-06-30 13:59:06,598 - INFO - Limits for '2025는 무엇이 특별할까?' written to 2025는_무엇이_특별할까\limits.txt
+2025-06-30 13:59:06,598 - INFO - Latest problem directory '2025는_무엇이_특별할까' saved to latest_problem.txt
+2025-06-30 14:31:23,341 - INFO - Serving at port 10043
+2025-06-30 14:31:24,918 - INFO - Project directory '스타트와_링크' created for problem '스타트와 링크'
+2025-06-30 14:31:24,918 - INFO - Appended content from template.cpp to 스타트와_링크/main.cpp
+2025-06-30 14:31:24,919 - INFO - Code template for '스타트와 링크' written to 스타트와_링크\main.cpp
+2025-06-30 14:31:24,919 - INFO - Sample test case 1 written to 스타트와_링크\input1.txt and 스타트와_링크\output1.txt
+2025-06-30 14:31:24,921 - INFO - Sample test case 2 written to 스타트와_링크\input2.txt and 스타트와_링크\output2.txt
+2025-06-30 14:31:24,923 - INFO - Sample test case 3 written to 스타트와_링크\input3.txt and 스타트와_링크\output3.txt
+2025-06-30 14:31:24,923 - INFO - Limits for '스타트와 링크' written to 스타트와_링크\limits.txt
+2025-06-30 14:31:24,923 - INFO - Latest problem directory '스타트와_링크' saved to latest_problem.txt
+2025-06-30 15:39:55,330 - INFO - Serving at port 10043
+2025-06-30 15:39:56,257 - INFO - Project directory 'ISBN' created for problem 'ISBN'
+2025-06-30 15:39:56,257 - INFO - Appended content from template.cpp to ISBN/main.cpp
+2025-06-30 15:39:56,257 - INFO - Code template for 'ISBN' written to ISBN\main.cpp
+2025-06-30 15:39:56,258 - INFO - Sample test case 1 written to ISBN\input1.txt and ISBN\output1.txt
+2025-06-30 15:39:56,258 - INFO - Limits for 'ISBN' written to ISBN\limits.txt
+2025-06-30 15:39:56,258 - INFO - Latest problem directory 'ISBN' saved to latest_problem.txt
+2025-06-30 15:40:51,426 - INFO - Serving at port 10043

@@ -721,3 +721,507 @@ Summary: Passed 1 out of 1 tests.[0m
 2025-06-30 13:42:30,979 - INFO - Memory: 5.051 MB
 2025-06-30 13:42:30,979 - INFO - [96m
 Summary: Passed 2 out of 2 tests.[0m
+2025-06-30 14:08:31,650 - INFO - Latest problem directory is '2025는_무엇이_특별할까'
+2025-06-30 14:08:32,044 - INFO - Compilation successful.
+2025-06-30 14:08:32,044 - INFO - Using time limit: 1000 ms and memory limit: 1024 MB
+2025-06-30 14:08:33,046 - INFO - Test 1: Failed
+2025-06-30 14:08:33,046 - INFO - Time: 1.001 seconds
+2025-06-30 14:08:33,046 - INFO - Memory: 5.070 MB
+2025-06-30 14:08:33,046 - INFO - Expected:
+2025
+2025-06-30 14:08:33,046 - INFO - Got:
+-1
+2025-06-30 14:08:33,058 - INFO - Test 2: Failed
+2025-06-30 14:08:33,058 - INFO - Time: 0.011 seconds
+2025-06-30 14:08:33,058 - INFO - Memory: 5.074 MB
+2025-06-30 14:08:33,058 - INFO - Expected:
+3025
+2025-06-30 14:08:33,058 - INFO - Got:
+-1
+2025-06-30 14:08:33,070 - INFO - Test 3: Passed
+2025-06-30 14:08:33,070 - INFO - Time: 0.011 seconds
+2025-06-30 14:08:33,070 - INFO - Memory: 5.066 MB
+2025-06-30 14:08:33,070 - INFO - [96m
+Summary: Passed 1 out of 3 tests.[0m
+2025-06-30 14:09:02,261 - INFO - Latest problem directory is '2025는_무엇이_특별할까'
+2025-06-30 14:09:02,644 - INFO - Compilation successful.
+2025-06-30 14:09:02,645 - INFO - Using time limit: 1000 ms and memory limit: 1024 MB
+2025-06-30 14:09:03,300 - INFO - Test 1: Failed
+2025-06-30 14:09:03,300 - INFO - Time: 0.654 seconds
+2025-06-30 14:09:03,300 - INFO - Memory: 5.062 MB
+2025-06-30 14:09:03,300 - INFO - Expected:
+2025
+2025-06-30 14:09:03,300 - INFO - Got:
+2024
+2025-06-30 14:09:03,320 - INFO - Test 2: Failed
+2025-06-30 14:09:03,320 - INFO - Time: 0.020 seconds
+2025-06-30 14:09:03,320 - INFO - Memory: 5.066 MB
+2025-06-30 14:09:03,320 - INFO - Expected:
+3025
+2025-06-30 14:09:03,320 - INFO - Got:
+2025
+2025-06-30 14:09:03,335 - INFO - Test 3: Passed
+2025-06-30 14:09:03,337 - INFO - Time: 0.015 seconds
+2025-06-30 14:09:03,337 - INFO - Memory: 5.066 MB
+2025-06-30 14:09:03,337 - INFO - [96m
+Summary: Passed 1 out of 3 tests.[0m
+2025-06-30 14:09:14,353 - INFO - Latest problem directory is '2025는_무엇이_특별할까'
+2025-06-30 14:09:14,753 - INFO - Compilation successful.
+2025-06-30 14:09:14,754 - INFO - Using time limit: 1000 ms and memory limit: 1024 MB
+2025-06-30 14:09:15,345 - INFO - Test 1: Failed
+2025-06-30 14:09:15,345 - INFO - Time: 0.591 seconds
+2025-06-30 14:09:15,345 - INFO - Memory: 5.074 MB
+2025-06-30 14:09:15,345 - INFO - Expected:
+2025
+2025-06-30 14:09:15,345 - INFO - Got:
+8833
+2025-06-30 14:09:15,366 - INFO - Test 2: Failed
+2025-06-30 14:09:15,366 - INFO - Time: 0.020 seconds
+2025-06-30 14:09:15,366 - INFO - Memory: 5.070 MB
+2025-06-30 14:09:15,366 - INFO - Expected:
+3025
+2025-06-30 14:09:15,366 - INFO - Got:
+8833
+2025-06-30 14:09:15,384 - INFO - Test 3: Passed
+2025-06-30 14:09:15,384 - INFO - Time: 0.017 seconds
+2025-06-30 14:09:15,385 - INFO - Memory: 5.078 MB
+2025-06-30 14:09:15,385 - INFO - [96m
+Summary: Passed 1 out of 3 tests.[0m
+2025-06-30 14:10:23,205 - INFO - Latest problem directory is '2025는_무엇이_특별할까'
+2025-06-30 14:10:23,606 - INFO - Compilation successful.
+2025-06-30 14:10:23,607 - INFO - Using time limit: 1000 ms and memory limit: 1024 MB
+2025-06-30 14:10:24,417 - INFO - Test 1: Passed
+2025-06-30 14:10:24,417 - INFO - Time: 0.809 seconds
+2025-06-30 14:10:24,417 - INFO - Memory: 5.059 MB
+2025-06-30 14:10:24,433 - INFO - Test 2: Passed
+2025-06-30 14:10:24,433 - INFO - Time: 0.014 seconds
+2025-06-30 14:10:24,433 - INFO - Memory: 5.070 MB
+2025-06-30 14:10:24,445 - INFO - Test 3: Passed
+2025-06-30 14:10:24,446 - INFO - Time: 0.012 seconds
+2025-06-30 14:10:24,446 - INFO - Memory: 5.066 MB
+2025-06-30 14:10:24,446 - INFO - [96m
+Summary: Passed 3 out of 3 tests.[0m
+2025-06-30 15:04:30,160 - INFO - Latest problem directory is '스타트와_링크'
+2025-06-30 15:04:30,700 - INFO - Compilation successful.
+2025-06-30 15:04:30,701 - INFO - Using time limit: 2000 ms and memory limit: 512 MB
+2025-06-30 15:04:31,448 - INFO - Test 1: Failed
+2025-06-30 15:04:31,449 - INFO - Time: 0.747 seconds
+2025-06-30 15:04:31,449 - INFO - Memory: 5.059 MB
+2025-06-30 15:04:31,449 - INFO - Expected:
+0
+2025-06-30 15:04:31,449 - INFO - Got:
+
+2025-06-30 15:04:31,459 - INFO - Test 2: Failed
+2025-06-30 15:04:31,459 - INFO - Time: 0.010 seconds
+2025-06-30 15:04:31,459 - INFO - Memory: 5.055 MB
+2025-06-30 15:04:31,459 - INFO - Expected:
+2
+2025-06-30 15:04:31,459 - INFO - Got:
+
+2025-06-30 15:04:31,470 - INFO - Test 3: Failed
+2025-06-30 15:04:31,470 - INFO - Time: 0.009 seconds
+2025-06-30 15:04:31,470 - INFO - Memory: 5.055 MB
+2025-06-30 15:04:31,470 - INFO - Expected:
+1
+2025-06-30 15:04:31,470 - INFO - Got:
+
+2025-06-30 15:04:31,471 - INFO - [96m
+Summary: Passed 0 out of 3 tests.[0m
+2025-06-30 15:04:43,498 - INFO - Latest problem directory is '스타트와_링크'
+2025-06-30 15:04:44,018 - INFO - Compilation successful.
+2025-06-30 15:04:44,019 - INFO - Using time limit: 2000 ms and memory limit: 512 MB
+2025-06-30 15:04:44,445 - INFO - Test 1: Failed
+2025-06-30 15:04:44,445 - INFO - Time: 0.425 seconds
+2025-06-30 15:04:44,445 - INFO - Memory: 5.082 MB
+2025-06-30 15:04:44,445 - INFO - Expected:
+0
+2025-06-30 15:04:44,445 - INFO - Got:
+3
+2025-06-30 15:04:44,456 - INFO - Test 2: Failed
+2025-06-30 15:04:44,456 - INFO - Time: 0.011 seconds
+2025-06-30 15:04:44,456 - INFO - Memory: 5.086 MB
+2025-06-30 15:04:44,456 - INFO - Expected:
+2
+2025-06-30 15:04:44,456 - INFO - Got:
+10
+2025-06-30 15:04:44,479 - INFO - Test 3: Failed
+2025-06-30 15:04:44,479 - INFO - Time: 0.022 seconds
+2025-06-30 15:04:44,479 - INFO - Memory: 5.090 MB
+2025-06-30 15:04:44,479 - INFO - Expected:
+1
+2025-06-30 15:04:44,479 - INFO - Got:
+26
+2025-06-30 15:04:44,479 - INFO - [96m
+Summary: Passed 0 out of 3 tests.[0m
+2025-06-30 15:06:31,137 - INFO - Latest problem directory is '스타트와_링크'
+2025-06-30 15:06:31,684 - INFO - Compilation successful.
+2025-06-30 15:06:31,684 - INFO - Using time limit: 2000 ms and memory limit: 512 MB
+2025-06-30 15:06:32,325 - INFO - Test 1: Failed
+2025-06-30 15:06:32,325 - INFO - Time: 0.640 seconds
+2025-06-30 15:06:32,325 - INFO - Memory: 5.078 MB
+2025-06-30 15:06:32,325 - INFO - Expected:
+0
+2025-06-30 15:06:32,325 - INFO - Got:
+9
+2025-06-30 15:06:32,334 - INFO - Test 2: Failed
+2025-06-30 15:06:32,334 - INFO - Time: 0.010 seconds
+2025-06-30 15:06:32,334 - INFO - Memory: 5.074 MB
+2025-06-30 15:06:32,334 - INFO - Expected:
+2
+2025-06-30 15:06:32,334 - INFO - Got:
+14
+2025-06-30 15:06:32,345 - INFO - Test 3: Failed
+2025-06-30 15:06:32,345 - INFO - Time: 0.009 seconds
+2025-06-30 15:06:32,345 - INFO - Memory: 5.078 MB
+2025-06-30 15:06:32,345 - INFO - Expected:
+1
+2025-06-30 15:06:32,345 - INFO - Got:
+26
+2025-06-30 15:06:32,345 - INFO - [96m
+Summary: Passed 0 out of 3 tests.[0m
+2025-06-30 15:06:42,760 - INFO - Latest problem directory is '스타트와_링크'
+2025-06-30 15:06:43,350 - INFO - Compilation successful.
+2025-06-30 15:06:43,351 - INFO - Using time limit: 2000 ms and memory limit: 512 MB
+2025-06-30 15:06:44,087 - INFO - Test 1: Failed
+2025-06-30 15:06:44,087 - INFO - Time: 0.735 seconds
+2025-06-30 15:06:44,087 - INFO - Memory: 5.078 MB
+2025-06-30 15:06:44,087 - INFO - Expected:
+0
+2025-06-30 15:06:44,087 - INFO - Got:
+2
+2025-06-30 15:06:44,098 - INFO - Test 2: Failed
+2025-06-30 15:06:44,098 - INFO - Time: 0.009 seconds
+2025-06-30 15:06:44,098 - INFO - Memory: 5.086 MB
+2025-06-30 15:06:44,098 - INFO - Expected:
+2
+2025-06-30 15:06:44,098 - INFO - Got:
+14
+2025-06-30 15:06:44,108 - INFO - Test 3: Failed
+2025-06-30 15:06:44,108 - INFO - Time: 0.009 seconds
+2025-06-30 15:06:44,108 - INFO - Memory: 5.082 MB
+2025-06-30 15:06:44,108 - INFO - Expected:
+1
+2025-06-30 15:06:44,108 - INFO - Got:
+26
+2025-06-30 15:06:44,108 - INFO - [96m
+Summary: Passed 0 out of 3 tests.[0m
+2025-06-30 15:08:04,849 - INFO - Latest problem directory is '스타트와_링크'
+2025-06-30 15:08:05,151 - ERROR - Compilation failed.
+2025-06-30 15:08:18,184 - INFO - Latest problem directory is '스타트와_링크'
+2025-06-30 15:08:18,717 - INFO - Compilation successful.
+2025-06-30 15:08:18,717 - INFO - Using time limit: 2000 ms and memory limit: 512 MB
+2025-06-30 15:08:19,402 - INFO - Test 1: Failed
+2025-06-30 15:08:19,406 - INFO - Time: 0.685 seconds
+2025-06-30 15:08:19,406 - INFO - Memory: 5.078 MB
+2025-06-30 15:08:19,406 - INFO - Expected:
+0
+2025-06-30 15:08:19,406 - INFO - Got:
+2
+2025-06-30 15:08:19,417 - INFO - Test 2: Failed
+2025-06-30 15:08:19,418 - INFO - Time: 0.010 seconds
+2025-06-30 15:08:19,418 - INFO - Memory: 5.082 MB
+2025-06-30 15:08:19,418 - INFO - Expected:
+2
+2025-06-30 15:08:19,418 - INFO - Got:
+6
+2025-06-30 15:08:19,427 - INFO - Test 3: Passed
+2025-06-30 15:08:19,429 - INFO - Time: 0.010 seconds
+2025-06-30 15:08:19,429 - INFO - Memory: 5.078 MB
+2025-06-30 15:08:19,429 - INFO - [96m
+Summary: Passed 1 out of 3 tests.[0m
+2025-06-30 15:09:27,902 - INFO - Latest problem directory is '스타트와_링크'
+2025-06-30 15:09:28,405 - INFO - Compilation successful.
+2025-06-30 15:09:28,405 - INFO - Using time limit: 2000 ms and memory limit: 512 MB
+2025-06-30 15:09:29,251 - INFO - Test 1: Failed
+2025-06-30 15:09:29,251 - INFO - Time: 0.844 seconds
+2025-06-30 15:09:29,251 - INFO - Memory: 5.082 MB
+2025-06-30 15:09:29,251 - INFO - Expected:
+0
+2025-06-30 15:09:29,251 - INFO - Got:
+2
+2025-06-30 15:09:29,263 - INFO - Test 2: Failed
+2025-06-30 15:09:29,263 - INFO - Time: 0.013 seconds
+2025-06-30 15:09:29,263 - INFO - Memory: 5.082 MB
+2025-06-30 15:09:29,263 - INFO - Expected:
+2
+2025-06-30 15:09:29,263 - INFO - Got:
+6
+2025-06-30 15:09:29,275 - INFO - Test 3: Passed
+2025-06-30 15:09:29,275 - INFO - Time: 0.009 seconds
+2025-06-30 15:09:29,275 - INFO - Memory: 5.074 MB
+2025-06-30 15:09:29,275 - INFO - [96m
+Summary: Passed 1 out of 3 tests.[0m
+2025-06-30 15:10:13,595 - INFO - Latest problem directory is '스타트와_링크'
+2025-06-30 15:10:14,142 - INFO - Compilation successful.
+2025-06-30 15:10:14,142 - INFO - Using time limit: 2000 ms and memory limit: 512 MB
+2025-06-30 15:10:14,652 - INFO - Test 1: Passed
+2025-06-30 15:10:14,654 - INFO - Time: 0.510 seconds
+2025-06-30 15:10:14,654 - INFO - Memory: 5.078 MB
+2025-06-30 15:10:14,664 - INFO - Test 2: Passed
+2025-06-30 15:10:14,664 - INFO - Time: 0.009 seconds
+2025-06-30 15:10:14,664 - INFO - Memory: 5.086 MB
+2025-06-30 15:10:14,674 - INFO - Test 3: Passed
+2025-06-30 15:10:14,674 - INFO - Time: 0.010 seconds
+2025-06-30 15:10:14,674 - INFO - Memory: 5.074 MB
+2025-06-30 15:10:14,674 - INFO - [96m
+Summary: Passed 3 out of 3 tests.[0m
+2025-06-30 15:12:46,829 - INFO - Latest problem directory is '스타트와_링크'
+2025-06-30 15:12:47,392 - INFO - Compilation successful.
+2025-06-30 15:12:47,394 - INFO - Using time limit: 2000 ms and memory limit: 512 MB
+2025-06-30 15:12:48,108 - INFO - Test 1: Passed
+2025-06-30 15:12:48,108 - INFO - Time: 0.714 seconds
+2025-06-30 15:12:48,108 - INFO - Memory: 5.082 MB
+2025-06-30 15:12:48,121 - INFO - Test 2: Passed
+2025-06-30 15:12:48,121 - INFO - Time: 0.013 seconds
+2025-06-30 15:12:48,121 - INFO - Memory: 5.082 MB
+2025-06-30 15:12:48,134 - INFO - Test 3: Passed
+2025-06-30 15:12:48,134 - INFO - Time: 0.012 seconds
+2025-06-30 15:12:48,134 - INFO - Memory: 5.078 MB
+2025-06-30 15:12:48,134 - INFO - [96m
+Summary: Passed 3 out of 3 tests.[0m
+2025-06-30 15:13:59,329 - INFO - Latest problem directory is '스타트와_링크'
+2025-06-30 15:13:59,876 - INFO - Compilation successful.
+2025-06-30 15:13:59,877 - INFO - Using time limit: 2000 ms and memory limit: 512 MB
+2025-06-30 15:14:00,651 - INFO - Test 1: Failed
+2025-06-30 15:14:00,651 - INFO - Time: 0.773 seconds
+2025-06-30 15:14:00,651 - INFO - Memory: 5.082 MB
+2025-06-30 15:14:00,651 - INFO - Expected:
+0
+2025-06-30 15:14:00,651 - INFO - Got:
+20
+2025-06-30 15:14:00,661 - INFO - Test 2: Failed
+2025-06-30 15:14:00,661 - INFO - Time: 0.011 seconds
+2025-06-30 15:14:00,661 - INFO - Memory: 5.078 MB
+2025-06-30 15:14:00,661 - INFO - Expected:
+2
+2025-06-30 15:14:00,662 - INFO - Got:
+14
+2025-06-30 15:14:00,674 - INFO - Test 3: Failed
+2025-06-30 15:14:00,674 - INFO - Time: 0.010 seconds
+2025-06-30 15:14:00,674 - INFO - Memory: 5.078 MB
+2025-06-30 15:14:00,674 - INFO - Expected:
+1
+2025-06-30 15:14:00,674 - INFO - Got:
+42
+2025-06-30 15:14:00,674 - INFO - [96m
+Summary: Passed 0 out of 3 tests.[0m
+2025-06-30 15:14:13,080 - INFO - Latest problem directory is '스타트와_링크'
+2025-06-30 15:14:13,633 - INFO - Compilation successful.
+2025-06-30 15:14:13,634 - INFO - Using time limit: 2000 ms and memory limit: 512 MB
+2025-06-30 15:14:14,248 - INFO - Test 1: Failed
+2025-06-30 15:14:14,248 - INFO - Time: 0.613 seconds
+2025-06-30 15:14:14,248 - INFO - Memory: 5.090 MB
+2025-06-30 15:14:14,248 - INFO - Expected:
+0
+2025-06-30 15:14:14,248 - INFO - Got:
+20
+2025-06-30 15:14:14,258 - INFO - Test 2: Failed
+2025-06-30 15:14:14,258 - INFO - Time: 0.009 seconds
+2025-06-30 15:14:14,258 - INFO - Memory: 5.082 MB
+2025-06-30 15:14:14,258 - INFO - Expected:
+2
+2025-06-30 15:14:14,258 - INFO - Got:
+14
+2025-06-30 15:14:14,269 - INFO - Test 3: Failed
+2025-06-30 15:14:14,269 - INFO - Time: 0.010 seconds
+2025-06-30 15:14:14,269 - INFO - Memory: 5.078 MB
+2025-06-30 15:14:14,269 - INFO - Expected:
+1
+2025-06-30 15:14:14,269 - INFO - Got:
+42
+2025-06-30 15:14:14,269 - INFO - [96m
+Summary: Passed 0 out of 3 tests.[0m
+2025-06-30 15:14:43,679 - INFO - Latest problem directory is '스타트와_링크'
+2025-06-30 15:14:44,208 - INFO - Compilation successful.
+2025-06-30 15:14:44,208 - INFO - Using time limit: 2000 ms and memory limit: 512 MB
+2025-06-30 15:14:44,833 - INFO - Test 1: Passed
+2025-06-30 15:14:44,833 - INFO - Time: 0.625 seconds
+2025-06-30 15:14:44,833 - INFO - Memory: 5.078 MB
+2025-06-30 15:14:44,844 - INFO - Test 2: Passed
+2025-06-30 15:14:44,844 - INFO - Time: 0.010 seconds
+2025-06-30 15:14:44,844 - INFO - Memory: 5.070 MB
+2025-06-30 15:14:44,855 - INFO - Test 3: Passed
+2025-06-30 15:14:44,855 - INFO - Time: 0.010 seconds
+2025-06-30 15:14:44,855 - INFO - Memory: 5.082 MB
+2025-06-30 15:14:44,855 - INFO - [96m
+Summary: Passed 3 out of 3 tests.[0m
+2025-06-30 15:14:55,915 - INFO - Latest problem directory is '스타트와_링크'
+2025-06-30 15:14:56,450 - INFO - Compilation successful.
+2025-06-30 15:14:56,452 - INFO - Using time limit: 2000 ms and memory limit: 512 MB
+2025-06-30 15:14:56,979 - INFO - Test 1: Passed
+2025-06-30 15:14:56,979 - INFO - Time: 0.527 seconds
+2025-06-30 15:14:56,979 - INFO - Memory: 5.074 MB
+2025-06-30 15:14:56,990 - INFO - Test 2: Failed
+2025-06-30 15:14:56,992 - INFO - Time: 0.010 seconds
+2025-06-30 15:14:56,992 - INFO - Memory: 5.090 MB
+2025-06-30 15:14:56,992 - INFO - Expected:
+2
+2025-06-30 15:14:56,992 - INFO - Got:
+6
+2025-06-30 15:14:57,002 - INFO - Test 3: Failed
+2025-06-30 15:14:57,002 - INFO - Time: 0.011 seconds
+2025-06-30 15:14:57,002 - INFO - Memory: 5.082 MB
+2025-06-30 15:14:57,002 - INFO - Expected:
+1
+2025-06-30 15:14:57,002 - INFO - Got:
+9
+2025-06-30 15:14:57,002 - INFO - [96m
+Summary: Passed 1 out of 3 tests.[0m
+2025-06-30 15:18:27,973 - INFO - Latest problem directory is '스타트와_링크'
+2025-06-30 15:18:28,536 - INFO - Compilation successful.
+2025-06-30 15:18:28,536 - INFO - Using time limit: 2000 ms and memory limit: 512 MB
+2025-06-30 15:18:29,406 - INFO - Test 1: Failed
+2025-06-30 15:18:29,406 - INFO - Time: 0.868 seconds
+2025-06-30 15:18:29,406 - INFO - Memory: 5.082 MB
+2025-06-30 15:18:29,406 - INFO - Expected:
+0
+2025-06-30 15:18:29,406 - INFO - Got:
+21
+2025-06-30 15:18:29,416 - INFO - Test 2: Failed
+2025-06-30 15:18:29,416 - INFO - Time: 0.010 seconds
+2025-06-30 15:18:29,416 - INFO - Memory: 5.070 MB
+2025-06-30 15:18:29,416 - INFO - Expected:
+2
+2025-06-30 15:18:29,416 - INFO - Got:
+22
+2025-06-30 15:18:29,428 - INFO - Test 3: Failed
+2025-06-30 15:18:29,428 - INFO - Time: 0.010 seconds
+2025-06-30 15:18:29,428 - INFO - Memory: 5.082 MB
+2025-06-30 15:18:29,428 - INFO - Expected:
+1
+2025-06-30 15:18:29,428 - INFO - Got:
+28
+2025-06-30 15:18:29,428 - INFO - [96m
+Summary: Passed 0 out of 3 tests.[0m
+2025-06-30 15:19:46,978 - INFO - Latest problem directory is '스타트와_링크'
+2025-06-30 15:19:47,515 - INFO - Compilation successful.
+2025-06-30 15:19:47,515 - INFO - Using time limit: 2000 ms and memory limit: 512 MB
+2025-06-30 15:19:48,249 - INFO - Test 1: Failed
+2025-06-30 15:19:48,249 - INFO - Time: 0.732 seconds
+2025-06-30 15:19:48,249 - INFO - Memory: 5.090 MB
+2025-06-30 15:19:48,249 - INFO - Expected:
+0
+2025-06-30 15:19:48,249 - INFO - Got:
+21
+2025-06-30 15:19:48,261 - INFO - Test 2: Failed
+2025-06-30 15:19:48,261 - INFO - Time: 0.011 seconds
+2025-06-30 15:19:48,261 - INFO - Memory: 5.078 MB
+2025-06-30 15:19:48,261 - INFO - Expected:
+2
+2025-06-30 15:19:48,261 - INFO - Got:
+22
+2025-06-30 15:19:48,272 - INFO - Test 3: Failed
+2025-06-30 15:19:48,272 - INFO - Time: 0.011 seconds
+2025-06-30 15:19:48,272 - INFO - Memory: 5.074 MB
+2025-06-30 15:19:48,272 - INFO - Expected:
+1
+2025-06-30 15:19:48,272 - INFO - Got:
+28
+2025-06-30 15:19:48,272 - INFO - [96m
+Summary: Passed 0 out of 3 tests.[0m
+2025-06-30 15:21:00,930 - INFO - Latest problem directory is '스타트와_링크'
+2025-06-30 15:21:01,462 - INFO - Compilation successful.
+2025-06-30 15:21:01,463 - INFO - Using time limit: 2000 ms and memory limit: 512 MB
+2025-06-30 15:21:02,272 - INFO - Test 1: Passed
+2025-06-30 15:21:02,272 - INFO - Time: 0.807 seconds
+2025-06-30 15:21:02,272 - INFO - Memory: 5.070 MB
+2025-06-30 15:21:02,283 - INFO - Test 2: Passed
+2025-06-30 15:21:02,283 - INFO - Time: 0.010 seconds
+2025-06-30 15:21:02,283 - INFO - Memory: 5.074 MB
+2025-06-30 15:21:02,293 - INFO - Test 3: Passed
+2025-06-30 15:21:02,293 - INFO - Time: 0.010 seconds
+2025-06-30 15:21:02,293 - INFO - Memory: 5.082 MB
+2025-06-30 15:21:02,296 - INFO - [96m
+Summary: Passed 3 out of 3 tests.[0m
+2025-06-30 15:22:44,093 - INFO - Latest problem directory is '스타트와_링크'
+2025-06-30 15:22:44,623 - INFO - Compilation successful.
+2025-06-30 15:22:44,623 - INFO - Using time limit: 2000 ms and memory limit: 512 MB
+2025-06-30 15:22:45,343 - INFO - Test 1: Passed
+2025-06-30 15:22:45,343 - INFO - Time: 0.721 seconds
+2025-06-30 15:22:45,344 - INFO - Memory: 5.086 MB
+2025-06-30 15:22:45,354 - INFO - Test 2: Passed
+2025-06-30 15:22:45,354 - INFO - Time: 0.009 seconds
+2025-06-30 15:22:45,354 - INFO - Memory: 5.074 MB
+2025-06-30 15:22:45,365 - INFO - Test 3: Passed
+2025-06-30 15:22:45,365 - INFO - Time: 0.009 seconds
+2025-06-30 15:22:45,365 - INFO - Memory: 5.078 MB
+2025-06-30 15:22:45,365 - INFO - [96m
+Summary: Passed 3 out of 3 tests.[0m
+2025-06-30 15:24:05,077 - INFO - Latest problem directory is '스타트와_링크'
+2025-06-30 15:24:05,702 - INFO - Compilation successful.
+2025-06-30 15:24:05,704 - INFO - Using time limit: 2000 ms and memory limit: 512 MB
+2025-06-30 15:24:06,341 - INFO - Test 1: Passed
+2025-06-30 15:24:06,341 - INFO - Time: 0.637 seconds
+2025-06-30 15:24:06,342 - INFO - Memory: 5.078 MB
+2025-06-30 15:24:06,352 - INFO - Test 2: Passed
+2025-06-30 15:24:06,352 - INFO - Time: 0.010 seconds
+2025-06-30 15:24:06,352 - INFO - Memory: 5.086 MB
+2025-06-30 15:24:06,362 - INFO - Test 3: Passed
+2025-06-30 15:24:06,362 - INFO - Time: 0.009 seconds
+2025-06-30 15:24:06,362 - INFO - Memory: 5.086 MB
+2025-06-30 15:24:06,362 - INFO - [96m
+Summary: Passed 3 out of 3 tests.[0m
+2025-06-30 15:47:33,924 - INFO - Latest problem directory is 'ISBN'
+2025-06-30 15:47:34,337 - INFO - Compilation successful.
+2025-06-30 15:47:34,338 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-06-30 15:47:35,119 - INFO - Test 1: Passed
+2025-06-30 15:47:35,119 - INFO - Time: 0.781 seconds
+2025-06-30 15:47:35,119 - INFO - Memory: 5.043 MB
+2025-06-30 15:47:35,119 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-06-30 15:51:01,384 - INFO - Latest problem directory is 'ISBN'
+2025-06-30 15:51:01,779 - INFO - Compilation successful.
+2025-06-30 15:51:01,780 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-06-30 15:51:02,500 - INFO - Test 1: Passed
+2025-06-30 15:51:02,500 - INFO - Time: 0.720 seconds
+2025-06-30 15:51:02,500 - INFO - Memory: 5.047 MB
+2025-06-30 15:51:02,500 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-06-30 16:19:03,978 - INFO - Latest problem directory is 'ISBN'
+2025-06-30 16:19:04,279 - ERROR - Compilation failed.
+2025-06-30 16:19:37,166 - INFO - Latest problem directory is 'ISBN'
+2025-06-30 16:19:37,448 - ERROR - Compilation failed.
+2025-06-30 16:19:46,008 - INFO - Latest problem directory is 'ISBN'
+2025-06-30 16:19:46,418 - INFO - Compilation successful.
+2025-06-30 16:19:46,418 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-06-30 16:19:47,556 - INFO - Test 1: Passed
+2025-06-30 16:19:47,556 - INFO - Time: 1.137 seconds
+2025-06-30 16:19:47,556 - INFO - Memory: 5.055 MB
+2025-06-30 16:19:47,556 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-06-30 16:23:27,495 - INFO - Latest problem directory is 'ISBN'
+2025-06-30 16:23:27,971 - INFO - Compilation successful.
+2025-06-30 16:23:27,971 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-06-30 16:23:28,696 - INFO - Test 1: Failed
+2025-06-30 16:23:28,696 - INFO - Time: 0.725 seconds
+2025-06-30 16:23:28,696 - INFO - Memory: 5.047 MB
+2025-06-30 16:23:28,696 - INFO - Expected:
+2
+2025-06-30 16:23:28,696 - INFO - Got:
+10
+2025-06-30 16:23:28,696 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-06-30 16:25:45,688 - INFO - Latest problem directory is 'ISBN'
+2025-06-30 16:25:46,093 - INFO - Compilation successful.
+2025-06-30 16:25:46,093 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-06-30 16:25:46,843 - INFO - Test 1: Passed
+2025-06-30 16:25:46,843 - INFO - Time: 0.749 seconds
+2025-06-30 16:25:46,843 - INFO - Memory: 5.047 MB
+2025-06-30 16:25:46,843 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-06-30 16:27:13,698 - INFO - Latest problem directory is 'ISBN'
+2025-06-30 16:27:14,086 - INFO - Compilation successful.
+2025-06-30 16:27:14,087 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-06-30 16:27:14,848 - INFO - Test 1: Passed
+2025-06-30 16:27:14,848 - INFO - Time: 0.759 seconds
+2025-06-30 16:27:14,848 - INFO - Memory: 5.059 MB
+2025-06-30 16:27:14,848 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-06-30 16:31:12,936 - INFO - Latest problem directory is 'ISBN'
+2025-06-30 16:31:13,407 - INFO - Compilation successful.
+2025-06-30 16:31:13,408 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-06-30 16:31:14,221 - INFO - Test 1: Passed
+2025-06-30 16:31:14,221 - INFO - Time: 0.811 seconds
+2025-06-30 16:31:14,221 - INFO - Memory: 5.047 MB
+2025-06-30 16:31:14,221 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
