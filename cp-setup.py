@@ -32,7 +32,8 @@ def scrape_problem_content(url):
     """백준 문제 URL에서 문제 내용을 스크래핑"""
     try:
         headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+            'Cookie': 'OnlineJudge=11qisonpq2k5chhs7ag3tseuhb; _ga=GA1.1.532022016.1751361180; _fbp=fb.1.1751361180497.70100074179191050; __gads=ID=33cf82f338855fd2:T=1751361180:RT=1751361664:S=ALNI_MZPqT_Xsf-y_KVx1AbnbWJ_-BIWDQ; __gpi=UID=0000114166139c67:T=1751361180:RT=1751361664:S=ALNI_MaKqDl6gb46LSM7VWgGN_Dkk3O_Lg; __eoi=ID=1555b9eec644b095:T=1751361180:RT=1751361664:S=AA-AfjaEvF2vzUK2CE9RwWPLO6qW; _ga_C81GGQEMJZ=GS2.1.s1751361180$o1$g1$t1751361665$j59$l0$h0; FCNEC=%5B%5B%22AKsRol-esHB6XwZl7dZcC2kN0Q75Y1cTgGrjVKgmtwLv3350eT157GJC1izw1xJlmyjg2nsBBu-ieY9hihasj_lVHJJEPI6HEWNuZm7aOy6hPhQSDyAhlCE-Li8CNDIK2kvOuQb9U0aLRq0ZLCZLWfLml_Mz8MnMag%3D%3D%22%5D%5D'
         }
         response = requests.get(url, headers=headers)
         response.raise_for_status()

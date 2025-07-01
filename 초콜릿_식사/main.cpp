@@ -14,11 +14,13 @@
 첫째 줄에는 상근이가 구매해야하는 가장 작은 초콜릿의 크기와 최소 몇 번 쪼개야 하는지를 출력한다.
 
 알고리즘 분류:
-N/A
+수학, 그리디 알고리즘, 정수론, 비트마스킹
 */
 
 #include <iostream>
 #include <vector>
+#include <bit>
+#include <limits>
 
 using namespace std;
 
@@ -26,4 +28,19 @@ int main()
 {
     ios_base::sync_with_stdio(false);
     cin.tie(nullptr);
+
+    unsigned int k;
+    cin >> k;
+    const int lsb = countr_zero(k);
+
+    int total_bits = numeric_limits<unsigned int>::digits;
+    const int msb = total_bits - 1 - countl_zero(k);
+
+    if (msb == lsb)
+    {
+        cout << k << " " << 0;
+        return 0;
+    }
+
+    cout << (1 << (msb + 1)) << " " << msb - lsb + 1;
 }

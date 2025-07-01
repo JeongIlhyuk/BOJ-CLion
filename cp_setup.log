@@ -256,3 +256,36 @@ OSError: [WinError 123] 파일 이름, 디렉터리 이름 또는 볼륨 레이�
 2025-07-01 18:06:06,561 - INFO - Sample test case 1 written to 초콜릿_식사\input1.txt and 초콜릿_식사\output1.txt
 2025-07-01 18:06:06,561 - INFO - Limits for '초콜릿 식사' written to 초콜릿_식사\limits.txt
 2025-07-01 18:06:06,561 - INFO - Latest problem directory '초콜릿_식사' saved to latest_problem.txt
+2025-07-01 18:11:29,057 - INFO - Serving at port 10043
+2025-07-01 18:11:34,130 - INFO - Project directory '초콜릿_식사' created for problem '초콜릿 식사'
+2025-07-01 18:11:34,130 - INFO - Appended content from template.cpp to 초콜릿_식사/main.cpp
+2025-07-01 18:11:34,131 - INFO - Code template for '초콜릿 식사' written to 초콜릿_식사\main.cpp
+2025-07-01 18:11:34,131 - INFO - Sample test case 1 written to 초콜릿_식사\input1.txt and 초콜릿_식사\output1.txt
+2025-07-01 18:11:34,132 - INFO - Limits for '초콜릿 식사' written to 초콜릿_식사\limits.txt
+2025-07-01 18:11:34,132 - INFO - Latest problem directory '초콜릿_식사' saved to latest_problem.txt
+2025-07-01 18:25:06,619 - INFO - Serving at port 10043
+2025-07-01 18:25:09,708 - INFO - Project directory '초콜릿_식사' created for problem '초콜릿 식사'
+2025-07-01 18:25:09,709 - INFO - Appended content from template.cpp to 초콜릿_식사/main.cpp
+2025-07-01 18:25:09,710 - INFO - Code template for '초콜릿 식사' written to 초콜릿_식사\main.cpp
+2025-07-01 18:25:09,710 - INFO - Sample test case 1 written to 초콜릿_식사\input1.txt and 초콜릿_식사\output1.txt
+2025-07-01 18:25:09,711 - INFO - Limits for '초콜릿 식사' written to 초콜릿_식사\limits.txt
+2025-07-01 18:25:09,711 - INFO - Latest problem directory '초콜릿_식사' saved to latest_problem.txt
+2025-07-01 18:26:16,175 - INFO - Project directory '초콜릿_식사' created for problem '초콜릿 식사'
+2025-07-01 18:26:16,175 - INFO - Appended content from template.cpp to 초콜릿_식사/main.cpp
+2025-07-01 18:26:16,176 - INFO - Code template for '초콜릿 식사' written to 초콜릿_식사\main.cpp
+2025-07-01 18:26:16,177 - INFO - Sample test case 1 written to 초콜릿_식사\input1.txt and 초콜릿_식사\output1.txt
+2025-07-01 18:26:16,177 - INFO - Limits for '초콜릿 식사' written to 초콜릿_식사\limits.txt
+2025-07-01 18:26:16,178 - INFO - Latest problem directory '초콜릿_식사' saved to latest_problem.txt
+2025-07-01 18:27:33,149 - INFO - Serving at port 10043
+2025-07-01 18:27:34,803 - INFO - Project directory '초콜릿_식사' created for problem '초콜릿 식사'
+2025-07-01 18:27:34,804 - INFO - Appended content from template.cpp to 초콜릿_식사/main.cpp
+2025-07-01 18:27:34,804 - INFO - Code template for '초콜릿 식사' written to 초콜릿_식사\main.cpp
+2025-07-01 18:27:34,805 - INFO - Sample test case 1 written to 초콜릿_식사\input1.txt and 초콜릿_식사\output1.txt
+2025-07-01 18:27:34,805 - INFO - Limits for '초콜릿 식사' written to 초콜릿_식사\limits.txt
+2025-07-01 18:27:34,805 - INFO - Latest problem directory '초콜릿_식사' saved to latest_problem.txt
+2025-07-01 18:27:47,561 - INFO - Project directory '초콜릿_식사' created for problem '초콜릿 식사'
+2025-07-01 18:27:47,561 - INFO - Appended content from template.cpp to 초콜릿_식사/main.cpp
+2025-07-01 18:27:47,563 - INFO - Code template for '초콜릿 식사' written to 초콜릿_식사\main.cpp
+2025-07-01 18:27:47,564 - INFO - Sample test case 1 written to 초콜릿_식사\input1.txt and 초콜릿_식사\output1.txt
+2025-07-01 18:27:47,564 - INFO - Limits for '초콜릿 식사' written to 초콜릿_식사\limits.txt
+2025-07-01 18:27:47,566 - INFO - Latest problem directory '초콜릿_식사' saved to latest_problem.txt
