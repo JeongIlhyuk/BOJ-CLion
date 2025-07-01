@@ -55,20 +55,19 @@ def scrape_problem_content(url):
         if output_desc:
             sections['output'] = output_desc.get_text(strip=True)
 
+        # 알고리즘 분류 추가
+        problem_tags = soup.find('section', {'id': 'problem_tags'})
+        if problem_tags:
+            tag_links = problem_tags.find_all('a', class_='spoiler-link')
+            tags = [tag.get_text(strip=True) for tag in tag_links]
+            if tags:
+                sections['tags'] = ', '.join(tags)
+
         return sections
 
     except Exception as e:
         logging.error(f"Failed to scrape problem content: {str(e)}")
         return None
-
-
-def format_comment_text(text):
-    """텍스트를 주석 형태로 포맷팅하는 함수"""
-    if not text:
-        return " * N/A"
-    lines = text.split('\n')
-    formatted_lines = [f" * {line}" if line.strip() else " *" for line in lines]
-    return '\n'.join(formatted_lines)
 
 def process_data(data):
     try:
@@ -105,29 +104,24 @@ def process_data(data):
         else:
             memory_limit = 'Unknown'
 
-        # 코드 템플릿 생성
-        desc_formatted = format_comment_text(
-            problem_content['description'] if problem_content and 'description' in problem_content else None)
-        input_formatted = format_comment_text(
-            problem_content['input'] if problem_content and 'input' in problem_content else None)
-        output_formatted = format_comment_text(
-            problem_content['output'] if problem_content and 'output' in problem_content else None)
-
         code_template = f"""// Problem: {problem_name}
 // URL: {problem_url}
 // Time Limit: {time_limit} ms
 // Memory Limit: {memory_limit} MB
 
 /*
- * 문제:
-{desc_formatted}
- * 
- * 입력:
-{input_formatted}
- * 
- * 출력:
-{output_formatted}
- */
+문제:
+{problem_content['description'] if problem_content and 'description' in problem_content else 'N/A'}
+
+입력:
+{problem_content['input'] if problem_content and 'input' in problem_content else 'N/A'}
+
+출력:
+{problem_content['output'] if problem_content and 'output' in problem_content else 'N/A'}
+
+알고리즘 분류:
+{problem_content['tags'] if problem_content and 'tags' in problem_content else 'N/A'}
+*/
 
 """
 
