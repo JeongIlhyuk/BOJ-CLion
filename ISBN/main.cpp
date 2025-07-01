@@ -18,13 +18,21 @@ int main()
     {
         if (input[i] == '*')
         {
-            location = i+1;
+            location = i;
             continue;
         }
         sum += (input[i] - '0') * (i % 2 == 0 ? 1 : 3);
     }
 
-    cout << ((10 - sum % 10) % 10) / (location % 2 == 0 ? 3 : 1);
+    const int m = location % 2 == 0 ? 1 : 3;
+    for (int i = 0; i < 10; ++i)
+    {
+        if ((sum + i * m) % 10 == 0)
+        {
+            cout << i;
+            return 0;
+        }
+    }
 
     return 0;
 }

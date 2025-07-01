@@ -121,3 +121,138 @@ OSError: [WinError 123] 파일 이름, 디렉터리 이름 또는 볼륨 레이�
 2025-06-30 15:39:56,258 - INFO - Limits for 'ISBN' written to ISBN\limits.txt
 2025-06-30 15:39:56,258 - INFO - Latest problem directory 'ISBN' saved to latest_problem.txt
 2025-06-30 15:40:51,426 - INFO - Serving at port 10043
+2025-06-30 17:10:45,092 - INFO - Project directory '문자열' created for problem '문자열'
+2025-06-30 17:10:45,093 - INFO - Appended content from template.cpp to 문자열/main.cpp
+2025-06-30 17:10:45,094 - INFO - Code template for '문자열' written to 문자열\main.cpp
+2025-06-30 17:10:45,094 - INFO - Sample test case 1 written to 문자열\input1.txt and 문자열\output1.txt
+2025-06-30 17:10:45,095 - INFO - Sample test case 2 written to 문자열\input2.txt and 문자열\output2.txt
+2025-06-30 17:10:45,097 - INFO - Sample test case 3 written to 문자열\input3.txt and 문자열\output3.txt
+2025-06-30 17:10:45,098 - INFO - Sample test case 4 written to 문자열\input4.txt and 문자열\output4.txt
+2025-06-30 17:10:45,098 - INFO - Sample test case 5 written to 문자열\input5.txt and 문자열\output5.txt
+2025-06-30 17:10:45,099 - INFO - Limits for '문자열' written to 문자열\limits.txt
+2025-06-30 17:10:45,099 - INFO - Latest problem directory '문자열' saved to latest_problem.txt
+2025-06-30 17:29:01,085 - INFO - Project directory '정수_제곱근' created for problem '정수 제곱근'
+2025-06-30 17:29:01,085 - INFO - Appended content from template.cpp to 정수_제곱근/main.cpp
+2025-06-30 17:29:01,086 - INFO - Code template for '정수 제곱근' written to 정수_제곱근\main.cpp
+2025-06-30 17:29:01,086 - INFO - Sample test case 1 written to 정수_제곱근\input1.txt and 정수_제곱근\output1.txt
+2025-06-30 17:29:01,087 - INFO - Limits for '정수 제곱근' written to 정수_제곱근\limits.txt
+2025-06-30 17:29:01,087 - INFO - Latest problem directory '정수_제곱근' saved to latest_problem.txt
+2025-06-30 18:52:49,747 - INFO - Project directory '현수막_걸기' created for problem '현수막 걸기'
+2025-06-30 18:52:49,749 - INFO - Appended content from template.cpp to 현수막_걸기/main.cpp
+2025-06-30 18:52:49,750 - INFO - Code template for '현수막 걸기' written to 현수막_걸기\main.cpp
+2025-06-30 18:52:49,751 - INFO - Sample test case 1 written to 현수막_걸기\input1.txt and 현수막_걸기\output1.txt
+2025-06-30 18:52:49,753 - INFO - Sample test case 2 written to 현수막_걸기\input2.txt and 현수막_걸기\output2.txt
+2025-06-30 18:52:49,754 - INFO - Sample test case 3 written to 현수막_걸기\input3.txt and 현수막_걸기\output3.txt
+2025-06-30 18:52:49,755 - INFO - Limits for '현수막 걸기' written to 현수막_걸기\limits.txt
+2025-06-30 18:52:49,756 - INFO - Latest problem directory '현수막_걸기' saved to latest_problem.txt
+2025-06-30 21:49:37,942 - INFO - Project directory '우선순위_큐와_시뮬레이션' created for problem '우선순위 큐와 시뮬레이션'
+2025-06-30 21:49:37,945 - INFO - Appended content from template.cpp to 우선순위_큐와_시뮬레이션/main.cpp
+2025-06-30 21:49:37,946 - INFO - Code template for '우선순위 큐와 시뮬레이션' written to 우선순위_큐와_시뮬레이션\main.cpp
+2025-06-30 21:49:37,947 - INFO - Sample test case 1 written to 우선순위_큐와_시뮬레이션\input1.txt and 우선순위_큐와_시뮬레이션\output1.txt
+2025-06-30 21:49:37,948 - INFO - Limits for '우선순위 큐와 시뮬레이션' written to 우선순위_큐와_시뮬레이션\limits.txt
+2025-06-30 21:49:37,949 - INFO - Latest problem directory '우선순위_큐와_시뮬레이션' saved to latest_problem.txt
+2025-07-01 00:46:12,796 - INFO - Project directory '기타줄' created for problem '기타줄'
+2025-07-01 00:46:12,797 - INFO - Appended content from template.cpp to 기타줄/main.cpp
+2025-07-01 00:46:12,799 - INFO - Code template for '기타줄' written to 기타줄\main.cpp
+2025-07-01 00:46:12,800 - INFO - Sample test case 1 written to 기타줄\input1.txt and 기타줄\output1.txt
+2025-07-01 00:46:12,802 - INFO - Sample test case 2 written to 기타줄\input2.txt and 기타줄\output2.txt
+2025-07-01 00:46:12,804 - INFO - Sample test case 3 written to 기타줄\input3.txt and 기타줄\output3.txt
+2025-07-01 00:46:12,805 - INFO - Sample test case 4 written to 기타줄\input4.txt and 기타줄\output4.txt
+2025-07-01 00:46:12,807 - INFO - Sample test case 5 written to 기타줄\input5.txt and 기타줄\output5.txt
+2025-07-01 00:46:12,808 - INFO - Sample test case 6 written to 기타줄\input6.txt and 기타줄\output6.txt
+2025-07-01 00:46:12,809 - INFO - Limits for '기타줄' written to 기타줄\limits.txt
+2025-07-01 00:46:12,809 - INFO - Latest problem directory '기타줄' saved to latest_problem.txt
+2025-07-01 00:59:54,548 - INFO - Project directory '알고리즘_수업_-_병합_정렬_2' created for problem '알고리즘 수업 - 병합 정렬 2'
+2025-07-01 00:59:54,548 - INFO - Appended content from template.cpp to 알고리즘_수업_-_병합_정렬_2/main.cpp
+2025-07-01 00:59:54,549 - INFO - Code template for '알고리즘 수업 - 병합 정렬 2' written to 알고리즘_수업_-_병합_정렬_2\main.cpp
+2025-07-01 00:59:54,551 - INFO - Sample test case 1 written to 알고리즘_수업_-_병합_정렬_2\input1.txt and 알고리즘_수업_-_병합_정렬_2\output1.txt
+2025-07-01 00:59:54,557 - INFO - Sample test case 2 written to 알고리즘_수업_-_병합_정렬_2\input2.txt and 알고리즘_수업_-_병합_정렬_2\output2.txt
+2025-07-01 00:59:54,558 - INFO - Limits for '알고리즘 수업 - 병합 정렬 2' written to 알고리즘_수업_-_병합_정렬_2\limits.txt
+2025-07-01 00:59:54,559 - INFO - Latest problem directory '알고리즘_수업_-_병합_정렬_2' saved to latest_problem.txt
+2025-07-01 07:58:50,188 - INFO - Serving at port 10043
+2025-07-01 07:58:53,447 - INFO - Project directory '1' created for problem '1'
+2025-07-01 07:58:53,449 - INFO - Appended content from template.cpp to 1/main.cpp
+2025-07-01 07:58:53,450 - INFO - Code template for '1' written to 1\main.cpp
+2025-07-01 07:58:53,452 - INFO - Sample test case 1 written to 1\input1.txt and 1\output1.txt
+2025-07-01 07:58:53,453 - INFO - Limits for '1' written to 1\limits.txt
+2025-07-01 07:58:53,454 - INFO - Latest problem directory '1' saved to latest_problem.txt
+2025-07-01 12:54:01,581 - INFO - Project directory '돌_게임_3' created for problem '돌 게임 3'
+2025-07-01 12:54:01,582 - INFO - Appended content from template.cpp to 돌_게임_3/main.cpp
+2025-07-01 12:54:01,584 - INFO - Code template for '돌 게임 3' written to 돌_게임_3\main.cpp
+2025-07-01 12:54:01,585 - INFO - Sample test case 1 written to 돌_게임_3\input1.txt and 돌_게임_3\output1.txt
+2025-07-01 12:54:01,587 - INFO - Limits for '돌 게임 3' written to 돌_게임_3\limits.txt
+2025-07-01 12:54:01,587 - INFO - Latest problem directory '돌_게임_3' saved to latest_problem.txt
+2025-07-01 15:48:48,825 - INFO - Project directory '초콜릿_식사' created for problem '초콜릿 식사'
+2025-07-01 15:48:48,825 - INFO - Appended content from template.cpp to 초콜릿_식사/main.cpp
+2025-07-01 15:48:48,826 - INFO - Code template for '초콜릿 식사' written to 초콜릿_식사\main.cpp
+2025-07-01 15:48:48,828 - INFO - Sample test case 1 written to 초콜릿_식사\input1.txt and 초콜릿_식사\output1.txt
+2025-07-01 15:48:48,828 - INFO - Limits for '초콜릿 식사' written to 초콜릿_식사\limits.txt
+2025-07-01 15:48:48,828 - INFO - Latest problem directory '초콜릿_식사' saved to latest_problem.txt
+2025-07-01 15:51:04,021 - INFO - Serving at port 10043
+2025-07-01 15:51:08,484 - INFO - Project directory '초콜릿_식사' created for problem '초콜릿 식사'
+2025-07-01 15:51:08,484 - INFO - Appended content from template.cpp to 초콜릿_식사/main.cpp
+2025-07-01 15:51:08,485 - INFO - Code template for '초콜릿 식사' written to 초콜릿_식사\main.cpp
+2025-07-01 15:51:08,486 - INFO - Sample test case 1 written to 초콜릿_식사\input1.txt and 초콜릿_식사\output1.txt
+2025-07-01 15:51:08,486 - INFO - Limits for '초콜릿 식사' written to 초콜릿_식사\limits.txt
+2025-07-01 15:51:08,486 - INFO - Latest problem directory '초콜릿_식사' saved to latest_problem.txt
+2025-07-01 17:42:16,316 - INFO - Serving at port 10043
+2025-07-01 17:42:27,298 - INFO - Project directory '초콜릿_식사' created for problem '초콜릿 식사'
+2025-07-01 17:42:27,298 - INFO - Appended content from template.cpp to 초콜릿_식사/main.cpp
+2025-07-01 17:42:27,299 - INFO - Code template for '초콜릿 식사' written to 초콜릿_식사\main.cpp
+2025-07-01 17:42:27,300 - INFO - Sample test case 1 written to 초콜릿_식사\input1.txt and 초콜릿_식사\output1.txt
+2025-07-01 17:42:27,300 - INFO - Limits for '초콜릿 식사' written to 초콜릿_식사\limits.txt
+2025-07-01 17:42:27,300 - INFO - Latest problem directory '초콜릿_식사' saved to latest_problem.txt
+2025-07-01 17:46:20,927 - INFO - Project directory '초콜릿_식사' created for problem '초콜릿 식사'
+2025-07-01 17:46:20,928 - INFO - Appended content from template.cpp to 초콜릿_식사/main.cpp
+2025-07-01 17:46:20,928 - INFO - Code template for '초콜릿 식사' written to 초콜릿_식사\main.cpp
+2025-07-01 17:46:20,930 - INFO - Sample test case 1 written to 초콜릿_식사\input1.txt and 초콜릿_식사\output1.txt
+2025-07-01 17:46:20,931 - INFO - Limits for '초콜릿 식사' written to 초콜릿_식사\limits.txt
+2025-07-01 17:46:20,931 - INFO - Latest problem directory '초콜릿_식사' saved to latest_problem.txt
+2025-07-01 17:50:01,538 - INFO - Serving at port 10043
+2025-07-01 17:50:05,525 - INFO - Project directory '초콜릿_식사' created for problem '초콜릿 식사'
+2025-07-01 17:50:05,525 - INFO - Appended content from template.cpp to 초콜릿_식사/main.cpp
+2025-07-01 17:50:05,526 - INFO - Code template for '초콜릿 식사' written to 초콜릿_식사\main.cpp
+2025-07-01 17:50:05,527 - INFO - Sample test case 1 written to 초콜릿_식사\input1.txt and 초콜릿_식사\output1.txt
+2025-07-01 17:50:05,527 - INFO - Limits for '초콜릿 식사' written to 초콜릿_식사\limits.txt
+2025-07-01 17:50:05,528 - INFO - Latest problem directory '초콜릿_식사' saved to latest_problem.txt
+2025-07-01 17:53:04,786 - INFO - Serving at port 10043
+2025-07-01 17:53:07,103 - INFO - Project directory '초콜릿_식사' created for problem '초콜릿 식사'
+2025-07-01 17:53:07,104 - INFO - Appended content from template.cpp to 초콜릿_식사/main.cpp
+2025-07-01 17:53:07,105 - INFO - Code template for '초콜릿 식사' written to 초콜릿_식사\main.cpp
+2025-07-01 17:53:07,105 - INFO - Sample test case 1 written to 초콜릿_식사\input1.txt and 초콜릿_식사\output1.txt
+2025-07-01 17:53:07,106 - INFO - Limits for '초콜릿 식사' written to 초콜릿_식사\limits.txt
+2025-07-01 17:53:07,106 - INFO - Latest problem directory '초콜릿_식사' saved to latest_problem.txt
+2025-07-01 17:57:52,160 - INFO - Serving at port 10043
+2025-07-01 17:57:53,822 - INFO - Project directory '초콜릿_식사' created for problem '초콜릿 식사'
+2025-07-01 17:57:53,823 - INFO - Appended content from template.cpp to 초콜릿_식사/main.cpp
+2025-07-01 17:57:53,824 - INFO - Code template for '초콜릿 식사' written to 초콜릿_식사\main.cpp
+2025-07-01 17:57:53,824 - INFO - Sample test case 1 written to 초콜릿_식사\input1.txt and 초콜릿_식사\output1.txt
+2025-07-01 17:57:53,825 - INFO - Limits for '초콜릿 식사' written to 초콜릿_식사\limits.txt
+2025-07-01 17:57:53,825 - INFO - Latest problem directory '초콜릿_식사' saved to latest_problem.txt
+2025-07-01 18:00:00,955 - INFO - Serving at port 10043
+2025-07-01 18:00:15,353 - INFO - Project directory '초콜릿_식사' created for problem '초콜릿 식사'
+2025-07-01 18:00:15,354 - INFO - Appended content from template.cpp to 초콜릿_식사/main.cpp
+2025-07-01 18:00:15,354 - INFO - Code template for '초콜릿 식사' written to 초콜릿_식사\main.cpp
+2025-07-01 18:00:15,355 - INFO - Sample test case 1 written to 초콜릿_식사\input1.txt and 초콜릿_식사\output1.txt
+2025-07-01 18:00:15,356 - INFO - Limits for '초콜릿 식사' written to 초콜릿_식사\limits.txt
+2025-07-01 18:00:15,356 - INFO - Latest problem directory '초콜릿_식사' saved to latest_problem.txt
+2025-07-01 18:00:37,307 - INFO - Project directory '초콜릿_식사' created for problem '초콜릿 식사'
+2025-07-01 18:00:37,307 - INFO - Appended content from template.cpp to 초콜릿_식사/main.cpp
+2025-07-01 18:00:37,308 - INFO - Code template for '초콜릿 식사' written to 초콜릿_식사\main.cpp
+2025-07-01 18:00:37,309 - INFO - Sample test case 1 written to 초콜릿_식사\input1.txt and 초콜릿_식사\output1.txt
+2025-07-01 18:00:37,309 - INFO - Limits for '초콜릿 식사' written to 초콜릿_식사\limits.txt
+2025-07-01 18:00:37,310 - INFO - Latest problem directory '초콜릿_식사' saved to latest_problem.txt
+2025-07-01 18:01:58,154 - INFO - Serving at port 10043
+2025-07-01 18:01:59,624 - INFO - Project directory '초콜릿_식사' created for problem '초콜릿 식사'
+2025-07-01 18:01:59,625 - INFO - Appended content from template.cpp to 초콜릿_식사/main.cpp
+2025-07-01 18:01:59,625 - INFO - Code template for '초콜릿 식사' written to 초콜릿_식사\main.cpp
+2025-07-01 18:01:59,626 - INFO - Sample test case 1 written to 초콜릿_식사\input1.txt and 초콜릿_식사\output1.txt
+2025-07-01 18:01:59,626 - INFO - Limits for '초콜릿 식사' written to 초콜릿_식사\limits.txt
+2025-07-01 18:01:59,627 - INFO - Latest problem directory '초콜릿_식사' saved to latest_problem.txt
+2025-07-01 18:06:03,299 - INFO - Serving at port 10043
+2025-07-01 18:06:06,559 - INFO - Project directory '초콜릿_식사' created for problem '초콜릿 식사'
+2025-07-01 18:06:06,560 - INFO - Appended content from template.cpp to 초콜릿_식사/main.cpp
+2025-07-01 18:06:06,560 - INFO - Code template for '초콜릿 식사' written to 초콜릿_식사\main.cpp
+2025-07-01 18:06:06,561 - INFO - Sample test case 1 written to 초콜릿_식사\input1.txt and 초콜릿_식사\output1.txt
+2025-07-01 18:06:06,561 - INFO - Limits for '초콜릿 식사' written to 초콜릿_식사\limits.txt
+2025-07-01 18:06:06,561 - INFO - Latest problem directory '초콜릿_식사' saved to latest_problem.txt

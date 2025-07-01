@@ -1,10 +1,14 @@
 # -*- coding: utf-8 -*-
-import sys
-import json
-import os
-import logging
 import http.server
+import json
+import logging
+import os
+import re
 import socketserver
+import sys
+
+import requests
+from bs4 import BeautifulSoup
 
 # 配置日志记录
 LOG_FILE = "cp_setup.log"  # 日志文件名
@@ -23,16 +27,62 @@ class CompetitiveCompanionHandler(http.server.SimpleHTTPRequestHandler):
         data = json.loads(post_data.decode('utf-8'))
         process_data(data)
 
+
+def scrape_problem_content(url):
+    """백준 문제 URL에서 문제 내용을 스크래핑"""
+    try:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        }
+        response = requests.get(url, headers=headers)
+        response.raise_for_status()
+
+        soup = BeautifulSoup(response.content, 'html.parser')
+        sections = {}
+
+        # 문제 설명
+        problem_desc = soup.find('div', {'id': 'problem_description'})
+        if problem_desc:
+            sections['description'] = problem_desc.get_text(strip=True)
+
+        # 입력 설명
+        input_desc = soup.find('div', {'id': 'problem_input'})
+        if input_desc:
+            sections['input'] = input_desc.get_text(strip=True)
+
+        # 출력 설명
+        output_desc = soup.find('div', {'id': 'problem_output'})
+        if output_desc:
+            sections['output'] = output_desc.get_text(strip=True)
+
+        return sections
+
+    except Exception as e:
+        logging.error(f"Failed to scrape problem content: {str(e)}")
+        return None
+
+
+def format_comment_text(text):
+    """텍스트를 주석 형태로 포맷팅하는 함수"""
+    if not text:
+        return " * N/A"
+    lines = text.split('\n')
+    formatted_lines = [f" * {line}" if line.strip() else " *" for line in lines]
+    return '\n'.join(formatted_lines)
+
 def process_data(data):
     try:
+        print("process_data called!")
         # 处理题目信息
         problem_name = data.get('name', 'Unknown Problem')
         problem_url = data.get('url', 'No URL provided')
         time_limit = data.get('timeLimit', 'Unknown')
         memory_limit = data.get('memoryLimit', 'Unknown')
 
+        # 문제 내용 스크래핑
+        problem_content = scrape_problem_content(problem_url)
+
         # 创建项目目录，处理中文字符
-        import re
         project_dir = problem_name.replace(' ', '_')
         # Windows에서 금지된 문자들을 제거/대체
         project_dir = re.sub(r'[<>:"/\\|?*]', '', project_dir)
@@ -55,16 +105,34 @@ def process_data(data):
         else:
             memory_limit = 'Unknown'
 
-        # 生成代码模板前四行
+        # 코드 템플릿 생성
+        desc_formatted = format_comment_text(
+            problem_content['description'] if problem_content and 'description' in problem_content else None)
+        input_formatted = format_comment_text(
+            problem_content['input'] if problem_content and 'input' in problem_content else None)
+        output_formatted = format_comment_text(
+            problem_content['output'] if problem_content and 'output' in problem_content else None)
+
         code_template = f"""// Problem: {problem_name}
 // URL: {problem_url}
 // Time Limit: {time_limit} ms
 // Memory Limit: {memory_limit} MB
 
+/*
+ * 문제:
+{desc_formatted}
+ * 
+ * 입력:
+{input_formatted}
+ * 
+ * 출력:
+{output_formatted}
+ */
+
 """
 
         # 如果存在 template.cpp 文件，则读取其内容并附加到 code_template 之后
-        template_file_path = 'template.cpp'  # 假设 template.cpp 文件位于当前目录中，而不是在项目目录中
+        template_file_path = 'template.cpp'
         if os.path.exists(template_file_path):
             with open(template_file_path, 'r', encoding='utf-8') as template_file:
                 template_code = template_file.read()

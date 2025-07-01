@@ -1,10 +1,10 @@
+import ctypes
+import hashlib
+import logging
 import os
 import subprocess
 import sys
-import logging
 import time
-import ctypes
-import hashlib
 from ctypes import wintypes
 
 LATEST_PROBLEM_FILE = "latest_problem.txt"  # 保存最近题目名称的文件
@@ -118,7 +118,7 @@ def read_limits(project_dir):
 
 # 编译 C++ 代码
 def compile_cpp(project_dir):
-    compile_command = f"g++ -std=c++17 -O2 -Wall {os.path.join(project_dir, 'main.cpp')} -o {os.path.join(project_dir, 'solution')}"
+    compile_command = f"g++ -O2 -Wall -lm -static -std=gnu++20 -DONLINE_JUDGE -DBOJ {os.path.join(project_dir, 'main.cpp')} -o {os.path.join(project_dir, 'solution')}"
     print(SEPARATOR)
     print(CYAN + "Compiling..." + RESET)
     sys.stdout.flush()
