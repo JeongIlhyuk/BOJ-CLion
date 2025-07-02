@@ -21,10 +21,9 @@
 #include <vector>
 #include <bit>
 
-#define OPERATE 4
-#define PLACE 2
-#define SCREEN 0
-#define BUFFER 1
+#define SELECT 2
+#define COPY 0
+#define PASTE 1
 
 using namespace std;
 
@@ -35,30 +34,43 @@ int main()
 
     int n;
     cin >> n;
-    vector screen(n + 1, vector<int>(OPERATE));
-    vector buffer(n + 1, vector<int>(OPERATE));
-    vector dp(n + 1, vector(OPERATE, vector<int>(PLACE)));
-
-
-    for (int i = 1; i < n + 1; ++i)
+    if (n < 7)
     {
-        // for (int j = 0; j < OPERATE; ++j)
-        // {
-        //     dp[i][j][SCREEN]=1;
-        // }
-
-        for (int j = 0; j < OPERATE; ++j)
-        {
-            dp[i][0][0] = dp[i - 1][j][0] + 1;
-            dp[i][1][0] = max(dp[i][1][0], dp[i - 1][j][0]);
-            dp[i][2][0] = max(dp[i][2][0], dp[i - 1][j][0]);
-            dp[i][3][0] = max(dp[i][3][0], dp[i - 1][j][0] + dp[i - 1][j][1]);
-        }
-
-        for (int j = 0; j < OPERATE; ++j)
-        {
-            if (j == 3)continue;
-            buffer[i][j] = max(buffer[i][j], buffer[i - 1][j]);
-        }
+        cout << n;
+        return 0;
     }
+    vector<int> dp(n + 1);
+    vector<int> buffer(n + 1);
+    dp[4] = 3;
+    dp[5] = 3;
+    buffer[5] = 3;
+    buffer[6] = 3;
+    dp[6] = 6;
+    for (int i = 7; i <= n; ++i)
+    {
+        dp[i] = dp[i - 1];
+        buffer[i] = buffer[i - 1];
+        if (n - i > 0 && buffer[i - 1] * 3 <= dp[i - 1])
+        {
+            //복사 조건
+            buffer[i] = dp[i];
+            continue;
+        }
+        if (n == i || buffer[i] * 3 > dp[i - 2]) //붙여넣기 조건
+        {
+            dp[i] += buffer[i - 1];
+        }
+        //그 외 전체 선택 조건
+    }
+    cout << dp[n] << '\n';
+
+    // for (int i = 1; i <= n; ++i)
+    // {
+    //     cout << i << ":" << dp[i] << " ";
+    // }
+    // cout << '\n';
+    // for (int i = 1; i <= n; ++i)
+    // {
+    //     cout << i << ":" << buffer[i] << " ";
+    // }
 }

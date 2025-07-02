@@ -2710,3 +2710,879 @@ Summary: Passed 2 out of 2 tests.[0m
 2025-07-02 14:23:10,696 - INFO - Memory: 4.758 MB
 2025-07-02 14:23:10,696 - INFO - [96m
 Summary: Passed 2 out of 2 tests.[0m
+2025-07-02 15:44:06,209 - INFO - Latest problem directory is '크리보드'
+2025-07-02 15:44:06,795 - ERROR - Compilation failed.
+2025-07-02 15:44:10,719 - INFO - Latest problem directory is '크리보드'
+2025-07-02 15:44:11,660 - INFO - Compilation successful.
+2025-07-02 15:44:11,662 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 15:44:13,772 - WARNING - Test 1: Time Limit Exceeded
+2025-07-02 15:44:13,772 - INFO - Time: 2.111 seconds
+2025-07-02 15:44:13,786 - INFO - Test 2: Failed
+2025-07-02 15:44:13,786 - INFO - Time: 0.011 seconds
+2025-07-02 15:44:13,786 - INFO - Memory: 4.758 MB
+2025-07-02 15:44:13,786 - INFO - Expected:
+9
+2025-07-02 15:44:13,786 - INFO - Got:
+6
+2025-07-02 15:44:13,797 - INFO - Test 3: Failed
+2025-07-02 15:44:13,797 - INFO - Time: 0.011 seconds
+2025-07-02 15:44:13,797 - INFO - Memory: 4.758 MB
+2025-07-02 15:44:13,797 - INFO - Expected:
+27
+2025-07-02 15:44:13,797 - INFO - Got:
+6
+2025-07-02 15:44:13,797 - INFO - [96m
+Summary: Passed 0 out of 3 tests.[0m
+2025-07-02 15:51:21,248 - INFO - Latest problem directory is '크리보드'
+2025-07-02 15:51:22,176 - INFO - Compilation successful.
+2025-07-02 15:51:22,177 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 15:51:24,206 - WARNING - Test 1: Time Limit Exceeded
+2025-07-02 15:51:24,206 - INFO - Time: 2.029 seconds
+2025-07-02 15:51:24,226 - INFO - Test 2: Failed
+2025-07-02 15:51:24,228 - INFO - Time: 0.017 seconds
+2025-07-02 15:51:24,228 - INFO - Memory: 4.762 MB
+2025-07-02 15:51:24,228 - INFO - Expected:
+9
+2025-07-02 15:51:24,228 - INFO - Got:
+6
+2025-07-02 15:51:24,240 - INFO - Test 3: Failed
+2025-07-02 15:51:24,240 - INFO - Time: 0.012 seconds
+2025-07-02 15:51:24,240 - INFO - Memory: 4.758 MB
+2025-07-02 15:51:24,240 - INFO - Expected:
+27
+2025-07-02 15:51:24,241 - INFO - Got:
+6
+2025-07-02 15:51:24,241 - INFO - [96m
+Summary: Passed 0 out of 3 tests.[0m
+2025-07-02 15:56:35,915 - INFO - Latest problem directory is '크리보드'
+2025-07-02 15:56:36,845 - INFO - Compilation successful.
+2025-07-02 15:56:36,845 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 15:56:38,969 - WARNING - Test 1: Time Limit Exceeded
+2025-07-02 15:56:38,969 - INFO - Time: 2.124 seconds
+2025-07-02 15:56:38,985 - INFO - Test 2: Failed
+2025-07-02 15:56:38,985 - INFO - Time: 0.011 seconds
+2025-07-02 15:56:38,985 - INFO - Memory: 4.758 MB
+2025-07-02 15:56:38,985 - INFO - Expected:
+9
+2025-07-02 15:56:38,985 - INFO - Got:
+10
+2025-07-02 15:56:38,998 - INFO - Test 3: Failed
+2025-07-02 15:56:38,998 - INFO - Time: 0.011 seconds
+2025-07-02 15:56:38,998 - INFO - Memory: 4.762 MB
+2025-07-02 15:56:38,998 - INFO - Expected:
+27
+2025-07-02 15:56:38,998 - INFO - Got:
+21
+2025-07-02 15:56:38,998 - INFO - [96m
+Summary: Passed 0 out of 3 tests.[0m
+2025-07-02 15:57:25,595 - INFO - Latest problem directory is '크리보드'
+2025-07-02 15:57:26,529 - INFO - Compilation successful.
+2025-07-02 15:57:26,529 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 15:57:27,384 - INFO - Test 1: Passed
+2025-07-02 15:57:27,384 - INFO - Time: 0.854 seconds
+2025-07-02 15:57:27,384 - INFO - Memory: 4.758 MB
+2025-07-02 15:57:27,395 - INFO - Test 2: Failed
+2025-07-02 15:57:27,396 - INFO - Time: 0.011 seconds
+2025-07-02 15:57:27,396 - INFO - Memory: 4.758 MB
+2025-07-02 15:57:27,396 - INFO - Expected:
+9
+2025-07-02 15:57:27,396 - INFO - Got:
+10
+2025-07-02 15:57:27,407 - INFO - Test 3: Failed
+2025-07-02 15:57:27,407 - INFO - Time: 0.010 seconds
+2025-07-02 15:57:27,407 - INFO - Memory: 4.758 MB
+2025-07-02 15:57:27,407 - INFO - Expected:
+27
+2025-07-02 15:57:27,407 - INFO - Got:
+21
+2025-07-02 15:57:27,407 - INFO - [96m
+Summary: Passed 1 out of 3 tests.[0m
+2025-07-02 16:17:50,676 - INFO - Latest problem directory is '크리보드'
+2025-07-02 16:17:51,599 - INFO - Compilation successful.
+2025-07-02 16:17:51,600 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 16:17:52,722 - INFO - Test 1: Passed
+2025-07-02 16:17:52,724 - INFO - Time: 1.123 seconds
+2025-07-02 16:17:52,724 - INFO - Memory: 4.762 MB
+2025-07-02 16:17:52,734 - INFO - Test 2: Passed
+2025-07-02 16:17:52,734 - INFO - Time: 0.010 seconds
+2025-07-02 16:17:52,734 - INFO - Memory: 4.758 MB
+2025-07-02 16:17:52,748 - INFO - Test 3: Failed
+2025-07-02 16:17:52,748 - INFO - Time: 0.010 seconds
+2025-07-02 16:17:52,748 - INFO - Memory: 4.754 MB
+2025-07-02 16:17:52,748 - INFO - Expected:
+27
+2025-07-02 16:17:52,748 - INFO - Got:
+9
+2025-07-02 16:17:52,748 - INFO - [96m
+Summary: Passed 2 out of 3 tests.[0m
+2025-07-02 16:37:37,485 - INFO - Latest problem directory is '크리보드'
+2025-07-02 16:37:38,373 - INFO - Compilation successful.
+2025-07-02 16:37:38,374 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 16:37:39,532 - INFO - Test 1: Passed
+2025-07-02 16:37:39,532 - INFO - Time: 1.158 seconds
+2025-07-02 16:37:39,532 - INFO - Memory: 4.762 MB
+2025-07-02 16:37:39,544 - INFO - Test 2: Failed
+2025-07-02 16:37:39,544 - INFO - Time: 0.010 seconds
+2025-07-02 16:37:39,544 - INFO - Memory: 4.758 MB
+2025-07-02 16:37:39,544 - INFO - Expected:
+9
+2025-07-02 16:37:39,544 - INFO - Got:
+0
+2025-07-02 16:37:39,557 - INFO - Test 3: Failed
+2025-07-02 16:37:39,557 - INFO - Time: 0.013 seconds
+2025-07-02 16:37:39,557 - INFO - Memory: 4.758 MB
+2025-07-02 16:37:39,557 - INFO - Expected:
+27
+2025-07-02 16:37:39,557 - INFO - Got:
+0000
+2025-07-02 16:37:39,558 - INFO - [96m
+Summary: Passed 1 out of 3 tests.[0m
+2025-07-02 16:37:57,091 - INFO - Latest problem directory is '크리보드'
+2025-07-02 16:37:57,963 - INFO - Compilation successful.
+2025-07-02 16:37:57,963 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 16:37:58,746 - INFO - Test 1: Passed
+2025-07-02 16:37:58,746 - INFO - Time: 0.784 seconds
+2025-07-02 16:37:58,746 - INFO - Memory: 4.754 MB
+2025-07-02 16:37:58,758 - INFO - Test 2: Failed
+2025-07-02 16:37:58,758 - INFO - Time: 0.011 seconds
+2025-07-02 16:37:58,758 - INFO - Memory: 4.758 MB
+2025-07-02 16:37:58,759 - INFO - Expected:
+9
+2025-07-02 16:37:58,759 - INFO - Got:
+0
+2025-07-02 16:37:58,770 - INFO - Test 3: Failed
+2025-07-02 16:37:58,770 - INFO - Time: 0.009 seconds
+2025-07-02 16:37:58,770 - INFO - Memory: 4.758 MB
+2025-07-02 16:37:58,770 - INFO - Expected:
+27
+2025-07-02 16:37:58,770 - INFO - Got:
+0
+2025-07-02 16:37:58,770 - INFO - [96m
+Summary: Passed 1 out of 3 tests.[0m
+2025-07-02 16:38:52,010 - INFO - Latest problem directory is '크리보드'
+2025-07-02 16:38:53,001 - INFO - Compilation successful.
+2025-07-02 16:38:53,001 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 16:38:53,904 - INFO - Test 1: Failed
+2025-07-02 16:38:53,904 - INFO - Time: 0.902 seconds
+2025-07-02 16:38:53,904 - INFO - Memory: 4.758 MB
+2025-07-02 16:38:53,904 - INFO - Expected:
+3
+2025-07-02 16:38:53,905 - INFO - Got:
+0
+2025-07-02 16:38:53,915 - INFO - Test 2: Failed
+2025-07-02 16:38:53,915 - INFO - Time: 0.011 seconds
+2025-07-02 16:38:53,915 - INFO - Memory: 4.758 MB
+2025-07-02 16:38:53,915 - INFO - Expected:
+9
+2025-07-02 16:38:53,915 - INFO - Got:
+0
+2025-07-02 16:38:53,927 - INFO - Test 3: Failed
+2025-07-02 16:38:53,927 - INFO - Time: 0.010 seconds
+2025-07-02 16:38:53,928 - INFO - Memory: 4.758 MB
+2025-07-02 16:38:53,928 - INFO - Expected:
+27
+2025-07-02 16:38:53,928 - INFO - Got:
+0
+2025-07-02 16:38:53,928 - INFO - [96m
+Summary: Passed 0 out of 3 tests.[0m
+2025-07-02 16:41:34,576 - INFO - Latest problem directory is '크리보드'
+2025-07-02 16:41:35,683 - INFO - Compilation successful.
+2025-07-02 16:41:35,684 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 16:41:36,663 - INFO - Test 1: Passed
+2025-07-02 16:41:36,663 - INFO - Time: 0.979 seconds
+2025-07-02 16:41:36,663 - INFO - Memory: 4.758 MB
+2025-07-02 16:41:36,674 - INFO - Test 2: Failed
+2025-07-02 16:41:36,674 - INFO - Time: 0.009 seconds
+2025-07-02 16:41:36,674 - INFO - Memory: 4.758 MB
+2025-07-02 16:41:36,674 - INFO - Expected:
+9
+2025-07-02 16:41:36,674 - INFO - Got:
+0
+2025-07-02 16:41:36,684 - INFO - Test 3: Failed
+2025-07-02 16:41:36,684 - INFO - Time: 0.010 seconds
+2025-07-02 16:41:36,684 - INFO - Memory: 4.758 MB
+2025-07-02 16:41:36,684 - INFO - Expected:
+27
+2025-07-02 16:41:36,684 - INFO - Got:
+0
+2025-07-02 16:41:36,685 - INFO - [96m
+Summary: Passed 1 out of 3 tests.[0m
+2025-07-02 16:44:00,691 - INFO - Latest problem directory is '크리보드'
+2025-07-02 16:44:01,577 - INFO - Compilation successful.
+2025-07-02 16:44:01,578 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 16:44:02,681 - INFO - Test 1: Passed
+2025-07-02 16:44:02,681 - INFO - Time: 1.102 seconds
+2025-07-02 16:44:02,681 - INFO - Memory: 4.758 MB
+2025-07-02 16:44:02,692 - INFO - Test 2: Failed
+2025-07-02 16:44:02,692 - INFO - Time: 0.010 seconds
+2025-07-02 16:44:02,692 - INFO - Memory: 4.758 MB
+2025-07-02 16:44:02,692 - INFO - Expected:
+9
+2025-07-02 16:44:02,692 - INFO - Got:
+0
+2025-07-02 16:44:02,714 - INFO - Test 3: Failed
+2025-07-02 16:44:02,714 - INFO - Time: 0.020 seconds
+2025-07-02 16:44:02,714 - INFO - Memory: 4.758 MB
+2025-07-02 16:44:02,714 - INFO - Expected:
+27
+2025-07-02 16:44:02,714 - INFO - Got:
+0
+2025-07-02 16:44:02,714 - INFO - [96m
+Summary: Passed 1 out of 3 tests.[0m
+2025-07-02 16:44:39,364 - INFO - Latest problem directory is '크리보드'
+2025-07-02 16:44:40,250 - INFO - Compilation successful.
+2025-07-02 16:44:40,251 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 16:44:41,149 - INFO - Test 1: Passed
+2025-07-02 16:44:41,149 - INFO - Time: 0.897 seconds
+2025-07-02 16:44:41,149 - INFO - Memory: 4.758 MB
+2025-07-02 16:44:41,161 - INFO - Test 2: Failed
+2025-07-02 16:44:41,161 - INFO - Time: 0.011 seconds
+2025-07-02 16:44:41,161 - INFO - Memory: 4.758 MB
+2025-07-02 16:44:41,161 - INFO - Expected:
+9
+2025-07-02 16:44:41,161 - INFO - Got:
+0
+2025-07-02 16:44:41,172 - INFO - Test 3: Failed
+2025-07-02 16:44:41,172 - INFO - Time: 0.010 seconds
+2025-07-02 16:44:41,172 - INFO - Memory: 4.762 MB
+2025-07-02 16:44:41,172 - INFO - Expected:
+27
+2025-07-02 16:44:41,172 - INFO - Got:
+0
+2025-07-02 16:44:41,173 - INFO - [96m
+Summary: Passed 1 out of 3 tests.[0m
+2025-07-02 16:45:48,454 - INFO - Latest problem directory is '크리보드'
+2025-07-02 16:45:49,410 - INFO - Compilation successful.
+2025-07-02 16:45:49,410 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 16:45:50,565 - INFO - Test 1: Passed
+2025-07-02 16:45:50,565 - INFO - Time: 1.154 seconds
+2025-07-02 16:45:50,565 - INFO - Memory: 4.758 MB
+2025-07-02 16:45:50,576 - INFO - Test 2: Failed
+2025-07-02 16:45:50,576 - INFO - Time: 0.010 seconds
+2025-07-02 16:45:50,577 - INFO - Memory: 4.758 MB
+2025-07-02 16:45:50,577 - INFO - Expected:
+9
+2025-07-02 16:45:50,577 - INFO - Got:
+0
+2025-07-02 16:45:50,590 - INFO - Test 3: Failed
+2025-07-02 16:45:50,590 - INFO - Time: 0.012 seconds
+2025-07-02 16:45:50,590 - INFO - Memory: 4.754 MB
+2025-07-02 16:45:50,590 - INFO - Expected:
+27
+2025-07-02 16:45:50,591 - INFO - Got:
+0
+2025-07-02 16:45:50,591 - INFO - [96m
+Summary: Passed 1 out of 3 tests.[0m
+2025-07-02 16:47:41,838 - INFO - Latest problem directory is '크리보드'
+2025-07-02 16:47:42,754 - INFO - Compilation successful.
+2025-07-02 16:47:42,754 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 16:47:43,868 - INFO - Test 1: Passed
+2025-07-02 16:47:43,868 - INFO - Time: 1.113 seconds
+2025-07-02 16:47:43,868 - INFO - Memory: 4.758 MB
+2025-07-02 16:47:43,878 - INFO - Test 2: Failed
+2025-07-02 16:47:43,878 - INFO - Time: 0.011 seconds
+2025-07-02 16:47:43,878 - INFO - Memory: 4.754 MB
+2025-07-02 16:47:43,879 - INFO - Expected:
+9
+2025-07-02 16:47:43,879 - INFO - Got:
+0
+2025-07-02 16:47:43,890 - INFO - Test 3: Failed
+2025-07-02 16:47:43,890 - INFO - Time: 0.010 seconds
+2025-07-02 16:47:43,890 - INFO - Memory: 4.754 MB
+2025-07-02 16:47:43,891 - INFO - Expected:
+27
+2025-07-02 16:47:43,891 - INFO - Got:
+0
+2025-07-02 16:47:43,891 - INFO - [96m
+Summary: Passed 1 out of 3 tests.[0m
+2025-07-02 16:48:16,872 - INFO - Latest problem directory is '크리보드'
+2025-07-02 16:48:17,794 - INFO - Compilation successful.
+2025-07-02 16:48:17,795 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 16:48:18,722 - INFO - Test 1: Passed
+2025-07-02 16:48:18,722 - INFO - Time: 0.926 seconds
+2025-07-02 16:48:18,722 - INFO - Memory: 4.758 MB
+2025-07-02 16:48:18,734 - INFO - Test 2: Failed
+2025-07-02 16:48:18,734 - INFO - Time: 0.009 seconds
+2025-07-02 16:48:18,734 - INFO - Memory: 4.762 MB
+2025-07-02 16:48:18,734 - INFO - Expected:
+9
+2025-07-02 16:48:18,734 - INFO - Got:
+0
+0 0 0 0 0 3 6 0
+2025-07-02 16:48:18,746 - INFO - Test 3: Failed
+2025-07-02 16:48:18,747 - INFO - Time: 0.012 seconds
+2025-07-02 16:48:18,747 - INFO - Memory: 4.762 MB
+2025-07-02 16:48:18,747 - INFO - Expected:
+27
+2025-07-02 16:48:18,747 - INFO - Got:
+0
+0 0 0 0 0 3 6 0 0 0 0 0
+2025-07-02 16:48:18,747 - INFO - [96m
+Summary: Passed 1 out of 3 tests.[0m
+2025-07-02 16:49:03,495 - INFO - Latest problem directory is '크리보드'
+2025-07-02 16:49:04,387 - INFO - Compilation successful.
+2025-07-02 16:49:04,388 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 16:49:05,349 - INFO - Test 1: Passed
+2025-07-02 16:49:05,349 - INFO - Time: 0.960 seconds
+2025-07-02 16:49:05,349 - INFO - Memory: 4.758 MB
+2025-07-02 16:49:05,360 - INFO - Test 2: Failed
+2025-07-02 16:49:05,360 - INFO - Time: 0.010 seconds
+2025-07-02 16:49:05,360 - INFO - Memory: 4.762 MB
+2025-07-02 16:49:05,360 - INFO - Expected:
+9
+2025-07-02 16:49:05,360 - INFO - Got:
+0
+0 0 0 0 0 3 6 0
+2025-07-02 16:49:05,370 - INFO - Test 3: Failed
+2025-07-02 16:49:05,370 - INFO - Time: 0.009 seconds
+2025-07-02 16:49:05,370 - INFO - Memory: 4.762 MB
+2025-07-02 16:49:05,370 - INFO - Expected:
+27
+2025-07-02 16:49:05,370 - INFO - Got:
+0
+0 0 0 0 0 3 6 0 0 3 0 0
+2025-07-02 16:49:05,370 - INFO - [96m
+Summary: Passed 1 out of 3 tests.[0m
+2025-07-02 16:49:46,009 - INFO - Latest problem directory is '크리보드'
+2025-07-02 16:49:46,903 - INFO - Compilation successful.
+2025-07-02 16:49:46,903 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 16:49:47,695 - INFO - Test 1: Passed
+2025-07-02 16:49:47,696 - INFO - Time: 0.790 seconds
+2025-07-02 16:49:47,696 - INFO - Memory: 4.750 MB
+2025-07-02 16:49:47,707 - INFO - Test 2: Failed
+2025-07-02 16:49:47,707 - INFO - Time: 0.011 seconds
+2025-07-02 16:49:47,707 - INFO - Memory: 4.762 MB
+2025-07-02 16:49:47,707 - INFO - Expected:
+9
+2025-07-02 16:49:47,707 - INFO - Got:
+6
+0 0 0 0 0 3 6 6
+2025-07-02 16:49:47,719 - INFO - Test 3: Failed
+2025-07-02 16:49:47,719 - INFO - Time: 0.010 seconds
+2025-07-02 16:49:47,720 - INFO - Memory: 4.762 MB
+2025-07-02 16:49:47,720 - INFO - Expected:
+27
+2025-07-02 16:49:47,720 - INFO - Got:
+12
+0 0 0 0 0 3 6 6 9 9 12 12
+2025-07-02 16:49:47,720 - INFO - [96m
+Summary: Passed 1 out of 3 tests.[0m
+2025-07-02 16:51:34,446 - INFO - Latest problem directory is '크리보드'
+2025-07-02 16:51:35,386 - INFO - Compilation successful.
+2025-07-02 16:51:35,387 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 16:51:36,426 - INFO - Test 1: Passed
+2025-07-02 16:51:36,426 - INFO - Time: 1.037 seconds
+2025-07-02 16:51:36,426 - INFO - Memory: 4.758 MB
+2025-07-02 16:51:36,438 - INFO - Test 2: Failed
+2025-07-02 16:51:36,438 - INFO - Time: 0.010 seconds
+2025-07-02 16:51:36,438 - INFO - Memory: 4.762 MB
+2025-07-02 16:51:36,438 - INFO - Expected:
+9
+2025-07-02 16:51:36,438 - INFO - Got:
+9
+0 0 0 0 0 3 6 9
+2025-07-02 16:51:36,457 - INFO - Test 3: Failed
+2025-07-02 16:51:36,457 - INFO - Time: 0.020 seconds
+2025-07-02 16:51:36,457 - INFO - Memory: 4.762 MB
+2025-07-02 16:51:36,457 - INFO - Expected:
+27
+2025-07-02 16:51:36,457 - INFO - Got:
+12
+0 0 0 0 0 3 6 9 12 12 12 12
+2025-07-02 16:51:36,457 - INFO - [96m
+Summary: Passed 1 out of 3 tests.[0m
+2025-07-02 16:54:49,705 - INFO - Latest problem directory is '크리보드'
+2025-07-02 16:54:50,602 - INFO - Compilation successful.
+2025-07-02 16:54:50,603 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 16:54:51,722 - INFO - Test 1: Passed
+2025-07-02 16:54:51,722 - INFO - Time: 1.117 seconds
+2025-07-02 16:54:51,722 - INFO - Memory: 4.754 MB
+2025-07-02 16:54:51,734 - INFO - Test 2: Failed
+2025-07-02 16:54:51,734 - INFO - Time: 0.011 seconds
+2025-07-02 16:54:51,734 - INFO - Memory: 4.762 MB
+2025-07-02 16:54:51,734 - INFO - Expected:
+9
+2025-07-02 16:54:51,734 - INFO - Got:
+9
+0 0 0 0 0 3 6 9
+2025-07-02 16:54:51,745 - INFO - Test 3: Failed
+2025-07-02 16:54:51,745 - INFO - Time: 0.011 seconds
+2025-07-02 16:54:51,745 - INFO - Memory: 4.762 MB
+2025-07-02 16:54:51,745 - INFO - Expected:
+27
+2025-07-02 16:54:51,745 - INFO - Got:
+12
+0 0 0 0 0 3 6 9 12 12 12 12
+2025-07-02 16:54:51,746 - INFO - [96m
+Summary: Passed 1 out of 3 tests.[0m
+2025-07-02 16:55:31,044 - INFO - Latest problem directory is '크리보드'
+2025-07-02 16:55:31,945 - INFO - Compilation successful.
+2025-07-02 16:55:31,945 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 16:55:32,677 - INFO - Test 1: Passed
+2025-07-02 16:55:32,677 - INFO - Time: 0.730 seconds
+2025-07-02 16:55:32,677 - INFO - Memory: 4.754 MB
+2025-07-02 16:55:32,687 - INFO - Test 2: Failed
+2025-07-02 16:55:32,687 - INFO - Time: 0.011 seconds
+2025-07-02 16:55:32,687 - INFO - Memory: 4.758 MB
+2025-07-02 16:55:32,687 - INFO - Expected:
+9
+2025-07-02 16:55:32,687 - INFO - Got:
+9
+0 0 0 0 0 3 6 9 
+0 0 0 0 0 3 3 3
+2025-07-02 16:55:32,699 - INFO - Test 3: Failed
+2025-07-02 16:55:32,699 - INFO - Time: 0.011 seconds
+2025-07-02 16:55:32,699 - INFO - Memory: 4.758 MB
+2025-07-02 16:55:32,699 - INFO - Expected:
+27
+2025-07-02 16:55:32,699 - INFO - Got:
+12
+0 0 0 0 0 3 6 9 12 12 12 12 
+0 0 0 0 0 3 3 3 3 3 12 12
+2025-07-02 16:55:32,700 - INFO - [96m
+Summary: Passed 1 out of 3 tests.[0m
+2025-07-02 17:09:23,678 - INFO - Latest problem directory is '크리보드'
+2025-07-02 17:09:24,615 - INFO - Compilation successful.
+2025-07-02 17:09:24,616 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 17:09:25,963 - INFO - Test 1: Passed
+2025-07-02 17:09:25,963 - INFO - Time: 1.346 seconds
+2025-07-02 17:09:25,963 - INFO - Memory: 4.754 MB
+2025-07-02 17:09:25,973 - INFO - Test 2: Failed
+2025-07-02 17:09:25,973 - INFO - Time: 0.009 seconds
+2025-07-02 17:09:25,973 - INFO - Memory: 4.758 MB
+2025-07-02 17:09:25,973 - INFO - Expected:
+9
+2025-07-02 17:09:25,973 - INFO - Got:
+6
+0 0 0 0 0 3 6 6 
+0 0 0 0 0 3 3 3
+2025-07-02 17:09:25,985 - INFO - Test 3: Failed
+2025-07-02 17:09:25,985 - INFO - Time: 0.011 seconds
+2025-07-02 17:09:25,985 - INFO - Memory: 4.758 MB
+2025-07-02 17:09:25,985 - INFO - Expected:
+27
+2025-07-02 17:09:25,985 - INFO - Got:
+12
+0 0 0 0 0 3 6 6 6 12 12 12 
+0 0 0 0 0 3 3 3 6 6 6 12
+2025-07-02 17:09:25,985 - INFO - [96m
+Summary: Passed 1 out of 3 tests.[0m
+2025-07-02 17:10:22,678 - INFO - Latest problem directory is '크리보드'
+2025-07-02 17:10:24,807 - INFO - Compilation successful.
+2025-07-02 17:10:24,807 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 17:10:25,697 - INFO - Test 1: Passed
+2025-07-02 17:10:25,697 - INFO - Time: 0.888 seconds
+2025-07-02 17:10:25,697 - INFO - Memory: 4.754 MB
+2025-07-02 17:10:25,710 - INFO - Test 2: Failed
+2025-07-02 17:10:25,710 - INFO - Time: 0.011 seconds
+2025-07-02 17:10:25,710 - INFO - Memory: 4.758 MB
+2025-07-02 17:10:25,710 - INFO - Expected:
+9
+2025-07-02 17:10:25,710 - INFO - Got:
+6
+0 0 0 0 3 3 6 6 
+0 0 0 0 0 3 3 3
+2025-07-02 17:10:25,722 - INFO - Test 3: Failed
+2025-07-02 17:10:25,722 - INFO - Time: 0.012 seconds
+2025-07-02 17:10:25,722 - INFO - Memory: 4.762 MB
+2025-07-02 17:10:25,722 - INFO - Expected:
+27
+2025-07-02 17:10:25,722 - INFO - Got:
+12
+0 0 0 0 3 3 6 6 6 12 12 12 
+0 0 0 0 0 3 3 3 6 6 6 12
+2025-07-02 17:10:25,722 - INFO - [96m
+Summary: Passed 1 out of 3 tests.[0m
+2025-07-02 17:16:29,102 - INFO - Latest problem directory is '크리보드'
+2025-07-02 17:16:30,070 - INFO - Compilation successful.
+2025-07-02 17:16:30,071 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 17:16:31,059 - INFO - Test 1: Passed
+2025-07-02 17:16:31,059 - INFO - Time: 0.988 seconds
+2025-07-02 17:16:31,059 - INFO - Memory: 4.754 MB
+2025-07-02 17:16:31,071 - INFO - Test 2: Failed
+2025-07-02 17:16:31,071 - INFO - Time: 0.011 seconds
+2025-07-02 17:16:31,071 - INFO - Memory: 4.758 MB
+2025-07-02 17:16:31,071 - INFO - Expected:
+9
+2025-07-02 17:16:31,072 - INFO - Got:
+9
+0 0 0 0 3 3 6 9 
+0 0 0 0 0 3 3 3
+2025-07-02 17:16:31,086 - INFO - Test 3: Failed
+2025-07-02 17:16:31,086 - INFO - Time: 0.015 seconds
+2025-07-02 17:16:31,086 - INFO - Memory: 4.762 MB
+2025-07-02 17:16:31,086 - INFO - Expected:
+27
+2025-07-02 17:16:31,086 - INFO - Got:
+24
+0 0 0 0 3 3 6 9 12 12 12 24 
+0 0 0 0 0 3 3 3 3 3 12 12
+2025-07-02 17:16:31,086 - INFO - [96m
+Summary: Passed 1 out of 3 tests.[0m
+2025-07-02 17:21:31,303 - INFO - Latest problem directory is '크리보드'
+2025-07-02 17:21:32,231 - INFO - Compilation successful.
+2025-07-02 17:21:32,231 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 17:21:33,337 - INFO - Test 1: Passed
+2025-07-02 17:21:33,337 - INFO - Time: 1.105 seconds
+2025-07-02 17:21:33,337 - INFO - Memory: 4.754 MB
+2025-07-02 17:21:33,350 - INFO - Test 2: Failed
+2025-07-02 17:21:33,350 - INFO - Time: 0.012 seconds
+2025-07-02 17:21:33,350 - INFO - Memory: 4.750 MB
+2025-07-02 17:21:33,350 - INFO - Expected:
+9
+2025-07-02 17:21:33,350 - INFO - Got:
+9
+1:0 2:0 3:0 4:3 5:3 6:6 7:9 
+1:0 2:0 3:0 4:0 5:3 6:3 7:3
+2025-07-02 17:21:33,361 - INFO - Test 3: Failed
+2025-07-02 17:21:33,361 - INFO - Time: 0.010 seconds
+2025-07-02 17:21:33,361 - INFO - Memory: 4.758 MB
+2025-07-02 17:21:33,361 - INFO - Expected:
+27
+2025-07-02 17:21:33,361 - INFO - Got:
+36
+1:0 2:0 3:0 4:3 5:3 6:6 7:9 8:12 9:12 10:24 11:36 
+1:0 2:0 3:0 4:0 5:3 6:3 7:3 8:3 9:12 10:12 11:12
+2025-07-02 17:21:33,362 - INFO - [96m
+Summary: Passed 1 out of 3 tests.[0m
+2025-07-02 17:23:14,700 - INFO - Latest problem directory is '크리보드'
+2025-07-02 17:23:15,604 - INFO - Compilation successful.
+2025-07-02 17:23:15,604 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 17:23:16,678 - INFO - Test 1: Passed
+2025-07-02 17:23:16,678 - INFO - Time: 1.074 seconds
+2025-07-02 17:23:16,678 - INFO - Memory: 4.754 MB
+2025-07-02 17:23:16,689 - INFO - Test 2: Failed
+2025-07-02 17:23:16,689 - INFO - Time: 0.009 seconds
+2025-07-02 17:23:16,689 - INFO - Memory: 4.762 MB
+2025-07-02 17:23:16,689 - INFO - Expected:
+9
+2025-07-02 17:23:16,689 - INFO - Got:
+9
+1:0 2:0 3:0 4:3 5:3 6:6 7:9 
+1:0 2:0 3:0 4:0 5:3 6:3 7:3
+2025-07-02 17:23:16,701 - INFO - Test 3: Failed
+2025-07-02 17:23:16,701 - INFO - Time: 0.011 seconds
+2025-07-02 17:23:16,701 - INFO - Memory: 4.758 MB
+2025-07-02 17:23:16,701 - INFO - Expected:
+27
+2025-07-02 17:23:16,702 - INFO - Got:
+27
+1:0 2:0 3:0 4:3 5:3 6:6 7:9 8:9 9:18 10:27 11:27 
+1:0 2:0 3:0 4:0 5:3 6:3 7:3 8:9 9:9 10:9 11:27
+2025-07-02 17:23:16,702 - INFO - [96m
+Summary: Passed 1 out of 3 tests.[0m
+2025-07-02 17:23:39,915 - INFO - Latest problem directory is '크리보드'
+2025-07-02 17:23:40,839 - INFO - Compilation successful.
+2025-07-02 17:23:40,840 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 17:23:41,717 - INFO - Test 1: Passed
+2025-07-02 17:23:41,717 - INFO - Time: 0.876 seconds
+2025-07-02 17:23:41,717 - INFO - Memory: 4.758 MB
+2025-07-02 17:23:41,728 - INFO - Test 2: Passed
+2025-07-02 17:23:41,728 - INFO - Time: 0.011 seconds
+2025-07-02 17:23:41,728 - INFO - Memory: 4.758 MB
+2025-07-02 17:23:41,737 - INFO - Test 3: Passed
+2025-07-02 17:23:41,737 - INFO - Time: 0.009 seconds
+2025-07-02 17:23:41,739 - INFO - Memory: 4.758 MB
+2025-07-02 17:23:41,739 - INFO - [96m
+Summary: Passed 3 out of 3 tests.[0m
+2025-07-02 17:31:32,877 - INFO - Latest problem directory is '크리보드'
+2025-07-02 17:31:33,799 - INFO - Compilation successful.
+2025-07-02 17:31:33,800 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 17:31:34,886 - INFO - Test 1: Passed
+2025-07-02 17:31:34,886 - INFO - Time: 1.085 seconds
+2025-07-02 17:31:34,886 - INFO - Memory: 4.758 MB
+2025-07-02 17:31:34,898 - INFO - Test 2: Failed
+2025-07-02 17:31:34,898 - INFO - Time: 0.012 seconds
+2025-07-02 17:31:34,898 - INFO - Memory: 4.758 MB
+2025-07-02 17:31:34,898 - INFO - Expected:
+9
+2025-07-02 17:31:34,898 - INFO - Got:
+9
+1:0 2:0 3:0 4:3 5:3 6:6 7:9 
+1:0 2:0 3:0 4:0 5:3 6:3 7:3
+2025-07-02 17:31:34,909 - INFO - Test 3: Failed
+2025-07-02 17:31:34,909 - INFO - Time: 0.011 seconds
+2025-07-02 17:31:34,909 - INFO - Memory: 4.758 MB
+2025-07-02 17:31:34,909 - INFO - Expected:
+27
+2025-07-02 17:31:34,910 - INFO - Got:
+27
+1:0 2:0 3:0 4:3 5:3 6:6 7:9 8:9 9:18 10:27 11:27 
+1:0 2:0 3:0 4:0 5:3 6:3 7:3 8:9 9:9 10:9 11:27
+2025-07-02 17:31:34,910 - INFO - [96m
+Summary: Passed 1 out of 3 tests.[0m
+2025-07-02 17:33:47,337 - INFO - Latest problem directory is '크리보드'
+2025-07-02 17:33:48,290 - INFO - Compilation successful.
+2025-07-02 17:33:48,290 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 17:33:49,409 - INFO - Test 1: Passed
+2025-07-02 17:33:49,409 - INFO - Time: 1.118 seconds
+2025-07-02 17:33:49,409 - INFO - Memory: 4.754 MB
+2025-07-02 17:33:49,420 - INFO - Test 2: Failed
+2025-07-02 17:33:49,421 - INFO - Time: 0.010 seconds
+2025-07-02 17:33:49,421 - INFO - Memory: 4.758 MB
+2025-07-02 17:33:49,421 - INFO - Expected:
+9
+2025-07-02 17:33:49,421 - INFO - Got:
+9
+1:0 2:0 3:0 4:3 5:3 6:6 7:9 
+1:0 2:0 3:0 4:0 5:3 6:3 7:3
+2025-07-02 17:33:49,430 - INFO - Test 3: Failed
+2025-07-02 17:33:49,430 - INFO - Time: 0.009 seconds
+2025-07-02 17:33:49,430 - INFO - Memory: 4.758 MB
+2025-07-02 17:33:49,430 - INFO - Expected:
+27
+2025-07-02 17:33:49,430 - INFO - Got:
+36
+1:0 2:0 3:0 4:3 5:3 6:6 7:9 8:9 9:18 10:27 11:36 
+1:0 2:0 3:0 4:0 5:3 6:3 7:3 8:9 9:9 10:9 11:9
+2025-07-02 17:33:49,430 - INFO - [96m
+Summary: Passed 1 out of 3 tests.[0m
+2025-07-02 17:34:13,135 - INFO - Latest problem directory is '크리보드'
+2025-07-02 17:34:13,838 - ERROR - Compilation failed.
+2025-07-02 17:34:31,656 - INFO - Latest problem directory is '크리보드'
+2025-07-02 17:34:31,657 - INFO - No changes in the code since the last run. Skipping compilation.
+2025-07-02 17:34:31,657 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 17:34:31,674 - INFO - Test 1: Passed
+2025-07-02 17:34:31,674 - INFO - Time: 0.017 seconds
+2025-07-02 17:34:31,674 - INFO - Memory: 4.754 MB
+2025-07-02 17:34:31,692 - INFO - Test 2: Failed
+2025-07-02 17:34:31,692 - INFO - Time: 0.016 seconds
+2025-07-02 17:34:31,692 - INFO - Memory: 4.758 MB
+2025-07-02 17:34:31,692 - INFO - Expected:
+9
+2025-07-02 17:34:31,692 - INFO - Got:
+9
+1:0 2:0 3:0 4:3 5:3 6:6 7:9 
+1:0 2:0 3:0 4:0 5:3 6:3 7:3
+2025-07-02 17:34:31,707 - INFO - Test 3: Failed
+2025-07-02 17:34:31,707 - INFO - Time: 0.014 seconds
+2025-07-02 17:34:31,707 - INFO - Memory: 4.758 MB
+2025-07-02 17:34:31,707 - INFO - Expected:
+27
+2025-07-02 17:34:31,707 - INFO - Got:
+36
+1:0 2:0 3:0 4:3 5:3 6:6 7:9 8:9 9:18 10:27 11:36 
+1:0 2:0 3:0 4:0 5:3 6:3 7:3 8:9 9:9 10:9 11:9
+2025-07-02 17:34:31,708 - INFO - [96m
+Summary: Passed 1 out of 3 tests.[0m
+2025-07-02 17:34:41,375 - INFO - Latest problem directory is '크리보드'
+2025-07-02 17:34:41,376 - INFO - No changes in the code since the last run. Skipping compilation.
+2025-07-02 17:34:41,376 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 17:34:41,389 - INFO - Test 1: Passed
+2025-07-02 17:34:41,389 - INFO - Time: 0.013 seconds
+2025-07-02 17:34:41,389 - INFO - Memory: 4.754 MB
+2025-07-02 17:34:41,402 - INFO - Test 2: Failed
+2025-07-02 17:34:41,402 - INFO - Time: 0.011 seconds
+2025-07-02 17:34:41,402 - INFO - Memory: 4.758 MB
+2025-07-02 17:34:41,402 - INFO - Expected:
+9
+2025-07-02 17:34:41,402 - INFO - Got:
+9
+1:0 2:0 3:0 4:3 5:3 6:6 7:9 
+1:0 2:0 3:0 4:0 5:3 6:3 7:3
+2025-07-02 17:34:41,413 - INFO - Test 3: Failed
+2025-07-02 17:34:41,414 - INFO - Time: 0.009 seconds
+2025-07-02 17:34:41,414 - INFO - Memory: 4.754 MB
+2025-07-02 17:34:41,414 - INFO - Expected:
+27
+2025-07-02 17:34:41,414 - INFO - Got:
+36
+1:0 2:0 3:0 4:3 5:3 6:6 7:9 8:9 9:18 10:27 11:36 
+1:0 2:0 3:0 4:0 5:3 6:3 7:3 8:9 9:9 10:9 11:9
+2025-07-02 17:34:41,414 - INFO - [96m
+Summary: Passed 1 out of 3 tests.[0m
+2025-07-02 17:34:56,336 - INFO - Latest problem directory is '크리보드'
+2025-07-02 17:34:56,337 - INFO - No changes in the code since the last run. Skipping compilation.
+2025-07-02 17:34:56,337 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 17:34:56,351 - INFO - Test 1: Passed
+2025-07-02 17:34:56,351 - INFO - Time: 0.014 seconds
+2025-07-02 17:34:56,352 - INFO - Memory: 4.758 MB
+2025-07-02 17:34:56,362 - INFO - Test 2: Failed
+2025-07-02 17:34:56,362 - INFO - Time: 0.009 seconds
+2025-07-02 17:34:56,362 - INFO - Memory: 4.762 MB
+2025-07-02 17:34:56,362 - INFO - Expected:
+9
+2025-07-02 17:34:56,362 - INFO - Got:
+9
+1:0 2:0 3:0 4:3 5:3 6:6 7:9 
+1:0 2:0 3:0 4:0 5:3 6:3 7:3
+2025-07-02 17:34:56,374 - INFO - Test 3: Failed
+2025-07-02 17:34:56,374 - INFO - Time: 0.011 seconds
+2025-07-02 17:34:56,374 - INFO - Memory: 4.758 MB
+2025-07-02 17:34:56,374 - INFO - Expected:
+27
+2025-07-02 17:34:56,374 - INFO - Got:
+36
+1:0 2:0 3:0 4:3 5:3 6:6 7:9 8:9 9:18 10:27 11:36 
+1:0 2:0 3:0 4:0 5:3 6:3 7:3 8:9 9:9 10:9 11:9
+2025-07-02 17:34:56,374 - INFO - [96m
+Summary: Passed 1 out of 3 tests.[0m
+2025-07-02 17:35:00,869 - INFO - Latest problem directory is '크리보드'
+2025-07-02 17:35:00,870 - INFO - No changes in the code since the last run. Skipping compilation.
+2025-07-02 17:35:00,870 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 17:35:00,883 - INFO - Test 1: Passed
+2025-07-02 17:35:00,883 - INFO - Time: 0.012 seconds
+2025-07-02 17:35:00,884 - INFO - Memory: 4.754 MB
+2025-07-02 17:35:00,895 - INFO - Test 2: Failed
+2025-07-02 17:35:00,895 - INFO - Time: 0.011 seconds
+2025-07-02 17:35:00,895 - INFO - Memory: 4.762 MB
+2025-07-02 17:35:00,895 - INFO - Expected:
+9
+2025-07-02 17:35:00,895 - INFO - Got:
+9
+1:0 2:0 3:0 4:3 5:3 6:6 7:9 
+1:0 2:0 3:0 4:0 5:3 6:3 7:3
+2025-07-02 17:35:00,906 - INFO - Test 3: Failed
+2025-07-02 17:35:00,906 - INFO - Time: 0.010 seconds
+2025-07-02 17:35:00,906 - INFO - Memory: 4.758 MB
+2025-07-02 17:35:00,906 - INFO - Expected:
+27
+2025-07-02 17:35:00,906 - INFO - Got:
+36
+1:0 2:0 3:0 4:3 5:3 6:6 7:9 8:9 9:18 10:27 11:36 
+1:0 2:0 3:0 4:0 5:3 6:3 7:3 8:9 9:9 10:9 11:9
+2025-07-02 17:35:00,906 - INFO - [96m
+Summary: Passed 1 out of 3 tests.[0m
+2025-07-02 17:35:43,961 - INFO - Latest problem directory is '크리보드'
+2025-07-02 17:35:43,962 - INFO - No changes in the code since the last run. Skipping compilation.
+2025-07-02 17:35:43,962 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 17:35:43,977 - INFO - Test 1: Passed
+2025-07-02 17:35:43,977 - INFO - Time: 0.014 seconds
+2025-07-02 17:35:43,977 - INFO - Memory: 4.754 MB
+2025-07-02 17:35:43,989 - INFO - Test 2: Failed
+2025-07-02 17:35:43,990 - INFO - Time: 0.010 seconds
+2025-07-02 17:35:43,990 - INFO - Memory: 4.758 MB
+2025-07-02 17:35:43,990 - INFO - Expected:
+9
+2025-07-02 17:35:43,990 - INFO - Got:
+9
+1:0 2:0 3:0 4:3 5:3 6:6 7:9 
+1:0 2:0 3:0 4:0 5:3 6:3 7:3
+2025-07-02 17:35:44,001 - INFO - Test 3: Failed
+2025-07-02 17:35:44,001 - INFO - Time: 0.011 seconds
+2025-07-02 17:35:44,001 - INFO - Memory: 4.762 MB
+2025-07-02 17:35:44,001 - INFO - Expected:
+27
+2025-07-02 17:35:44,001 - INFO - Got:
+36
+1:0 2:0 3:0 4:3 5:3 6:6 7:9 8:9 9:18 10:27 11:36 
+1:0 2:0 3:0 4:0 5:3 6:3 7:3 8:9 9:9 10:9 11:9
+2025-07-02 17:35:44,001 - INFO - [96m
+Summary: Passed 1 out of 3 tests.[0m
+2025-07-02 17:36:20,227 - INFO - Latest problem directory is '크리보드'
+2025-07-02 17:36:20,228 - INFO - No changes in the code since the last run. Skipping compilation.
+2025-07-02 17:36:20,228 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 17:36:20,245 - INFO - Test 1: Passed
+2025-07-02 17:36:20,245 - INFO - Time: 0.016 seconds
+2025-07-02 17:36:20,245 - INFO - Memory: 4.758 MB
+2025-07-02 17:36:20,255 - INFO - Test 2: Failed
+2025-07-02 17:36:20,255 - INFO - Time: 0.010 seconds
+2025-07-02 17:36:20,255 - INFO - Memory: 4.758 MB
+2025-07-02 17:36:20,255 - INFO - Expected:
+9
+2025-07-02 17:36:20,257 - INFO - Got:
+9
+1:0 2:0 3:0 4:3 5:3 6:6 7:9 
+1:0 2:0 3:0 4:0 5:3 6:3 7:3
+2025-07-02 17:36:20,268 - INFO - Test 3: Failed
+2025-07-02 17:36:20,268 - INFO - Time: 0.011 seconds
+2025-07-02 17:36:20,268 - INFO - Memory: 4.762 MB
+2025-07-02 17:36:20,268 - INFO - Expected:
+27
+2025-07-02 17:36:20,268 - INFO - Got:
+36
+1:0 2:0 3:0 4:3 5:3 6:6 7:9 8:9 9:18 10:27 11:36 
+1:0 2:0 3:0 4:0 5:3 6:3 7:3 8:9 9:9 10:9 11:9
+2025-07-02 17:36:20,268 - INFO - [96m
+Summary: Passed 1 out of 3 tests.[0m
+2025-07-02 17:36:33,629 - INFO - Latest problem directory is '크리보드'
+2025-07-02 17:36:33,630 - INFO - No changes in the code since the last run. Skipping compilation.
+2025-07-02 17:36:33,630 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 17:36:33,643 - INFO - Test 1: Passed
+2025-07-02 17:36:33,643 - INFO - Time: 0.012 seconds
+2025-07-02 17:36:33,643 - INFO - Memory: 4.754 MB
+2025-07-02 17:36:33,654 - INFO - Test 2: Failed
+2025-07-02 17:36:33,654 - INFO - Time: 0.009 seconds
+2025-07-02 17:36:33,654 - INFO - Memory: 4.758 MB
+2025-07-02 17:36:33,654 - INFO - Expected:
+9
+2025-07-02 17:36:33,654 - INFO - Got:
+9
+1:0 2:0 3:0 4:3 5:3 6:6 7:9 
+1:0 2:0 3:0 4:0 5:3 6:3 7:3
+2025-07-02 17:36:33,664 - INFO - Test 3: Failed
+2025-07-02 17:36:33,664 - INFO - Time: 0.011 seconds
+2025-07-02 17:36:33,666 - INFO - Memory: 4.758 MB
+2025-07-02 17:36:33,666 - INFO - Expected:
+27
+2025-07-02 17:36:33,666 - INFO - Got:
+36
+1:0 2:0 3:0 4:3 5:3 6:6 7:9 8:9 9:18 10:27 11:36 
+1:0 2:0 3:0 4:0 5:3 6:3 7:3 8:9 9:9 10:9 11:9
+2025-07-02 17:36:33,666 - INFO - [96m
+Summary: Passed 1 out of 3 tests.[0m
+2025-07-02 17:36:59,212 - INFO - Latest problem directory is '크리보드'
+2025-07-02 17:36:59,212 - INFO - No changes in the code since the last run. Skipping compilation.
+2025-07-02 17:36:59,213 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 17:36:59,373 - INFO - Test 1: Passed
+2025-07-02 17:36:59,373 - INFO - Time: 0.159 seconds
+2025-07-02 17:36:59,373 - INFO - Memory: 4.754 MB
+2025-07-02 17:36:59,486 - INFO - Test 2: Failed
+2025-07-02 17:36:59,486 - INFO - Time: 0.113 seconds
+2025-07-02 17:36:59,486 - INFO - Memory: 4.758 MB
+2025-07-02 17:36:59,486 - INFO - Expected:
+9
+2025-07-02 17:36:59,486 - INFO - Got:
+9
+1:0 2:0 3:0 4:3 5:3 6:6 7:9 
+1:0 2:0 3:0 4:0 5:3 6:3 7:3
+2025-07-02 17:36:59,661 - INFO - Test 3: Failed
+2025-07-02 17:36:59,661 - INFO - Time: 0.172 seconds
+2025-07-02 17:36:59,661 - INFO - Memory: 4.758 MB
+2025-07-02 17:36:59,661 - INFO - Expected:
+27
+2025-07-02 17:36:59,661 - INFO - Got:
+36
+1:0 2:0 3:0 4:3 5:3 6:6 7:9 8:9 9:18 10:27 11:36 
+1:0 2:0 3:0 4:0 5:3 6:3 7:3 8:9 9:9 10:9 11:9
+2025-07-02 17:36:59,662 - INFO - [96m
+Summary: Passed 1 out of 3 tests.[0m
+2025-07-02 17:38:19,670 - INFO - Latest problem directory is '크리보드'
+2025-07-02 17:38:19,670 - INFO - No changes in the code since the last run. Skipping compilation.
+2025-07-02 17:38:19,670 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 17:38:27,015 - INFO - Latest problem directory is '크리보드'
+2025-07-02 17:38:27,015 - INFO - No changes in the code since the last run. Skipping compilation.
+2025-07-02 17:38:27,015 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 17:38:36,168 - INFO - Latest problem directory is '크리보드'
+2025-07-02 17:38:36,168 - INFO - No changes in the code since the last run. Skipping compilation.
+2025-07-02 17:38:36,168 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 17:39:19,511 - INFO - Latest problem directory is '크리보드'
+2025-07-02 17:39:19,512 - INFO - No changes in the code since the last run. Skipping compilation.
+2025-07-02 17:39:19,512 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 17:40:47,657 - INFO - Latest problem directory is '크리보드'
+2025-07-02 17:40:47,657 - INFO - No changes in the code since the last run. Skipping compilation.
+2025-07-02 17:40:47,657 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 17:40:59,947 - INFO - Latest problem directory is '크리보드'
+2025-07-02 17:40:59,947 - INFO - No changes in the code since the last run. Skipping compilation.
+2025-07-02 17:40:59,947 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 17:41:01,027 - INFO - Latest problem directory is '크리보드'
+2025-07-02 17:41:01,028 - INFO - No changes in the code since the last run. Skipping compilation.
+2025-07-02 17:41:01,028 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 17:47:35,799 - INFO - Latest problem directory is '크리보드'
+2025-07-02 17:47:36,674 - INFO - Compilation successful.
+2025-07-02 17:47:36,674 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 17:47:37,811 - INFO - Test 1: Passed
+2025-07-02 17:47:37,811 - INFO - Time: 1.136 seconds
+2025-07-02 17:47:37,811 - INFO - Memory: 4.758 MB
+2025-07-02 17:47:37,833 - INFO - Test 2: Passed
+2025-07-02 17:47:37,833 - INFO - Time: 0.022 seconds
+2025-07-02 17:47:37,834 - INFO - Memory: 4.758 MB
+2025-07-02 17:47:37,846 - INFO - Test 3: Failed
+2025-07-02 17:47:37,846 - INFO - Time: 0.012 seconds
+2025-07-02 17:47:37,846 - INFO - Memory: 4.758 MB
+2025-07-02 17:47:37,846 - INFO - Expected:
+27
+2025-07-02 17:47:37,846 - INFO - Got:
+36
+2025-07-02 17:47:37,847 - INFO - [96m
+Summary: Passed 2 out of 3 tests.[0m

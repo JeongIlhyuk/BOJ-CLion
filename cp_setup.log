@@ -335,3 +335,27 @@ OSError: [WinError 123] 파일 이름, 디렉터리 이름 또는 볼륨 레이�
 2025-07-02 14:51:52,714 - INFO - Sample test case 3 written to 크리보드\input3.txt and 크리보드\output3.txt
 2025-07-02 14:51:52,715 - INFO - Limits for '크리보드' written to 크리보드\limits.txt
 2025-07-02 14:51:52,715 - INFO - Latest problem directory '크리보드' saved to latest_problem.txt
+2025-07-02 17:36:04,638 - INFO - Project directory '크리보드' created for problem '크리보드'
+2025-07-02 17:36:04,640 - INFO - Appended content from template.cpp to 크리보드/main.cpp
+2025-07-02 17:36:04,641 - INFO - Code template for '크리보드' written to 크리보드\main.cpp
+2025-07-02 17:36:04,642 - INFO - Sample test case 1 written to 크리보드\input1.txt and 크리보드\output1.txt
+2025-07-02 17:36:04,643 - INFO - Sample test case 2 written to 크리보드\input2.txt and 크리보드\output2.txt
+2025-07-02 17:36:04,644 - INFO - Sample test case 3 written to 크리보드\input3.txt and 크리보드\output3.txt
+2025-07-02 17:36:04,644 - INFO - Limits for '크리보드' written to 크리보드\limits.txt
+2025-07-02 17:36:04,645 - INFO - Latest problem directory '크리보드' saved to latest_problem.txt
+2025-07-02 17:37:59,170 - INFO - Serving at port 10043
+2025-07-02 17:38:02,245 - INFO - Project directory '크리보드' created for problem '크리보드'
+2025-07-02 17:38:02,246 - INFO - Appended content from template.cpp to 크리보드/main.cpp
+2025-07-02 17:38:02,246 - INFO - Code template for '크리보드' written to 크리보드\main.cpp
+2025-07-02 17:38:02,247 - INFO - Sample test case 1 written to 크리보드\input1.txt and 크리보드\output1.txt
+2025-07-02 17:38:02,248 - INFO - Sample test case 2 written to 크리보드\input2.txt and 크리보드\output2.txt
+2025-07-02 17:38:02,249 - INFO - Sample test case 3 written to 크리보드\input3.txt and 크리보드\output3.txt
+2025-07-02 17:38:02,250 - INFO - Limits for '크리보드' written to 크리보드\limits.txt
+2025-07-02 17:38:02,250 - INFO - Latest problem directory '크리보드' saved to latest_problem.txt
+2025-07-03 08:20:39,928 - INFO - Serving at port 10043
+2025-07-03 08:20:47,423 - INFO - Project directory '겹치는_선분' created for problem '겹치는 선분'
+2025-07-03 08:20:47,423 - INFO - Appended content from template.cpp to 겹치는_선분/main.cpp
+2025-07-03 08:20:47,424 - INFO - Code template for '겹치는 선분' written to 겹치는_선분\main.cpp
+2025-07-03 08:20:47,426 - INFO - Sample test case 1 written to 겹치는_선분\input1.txt and 겹치는_선분\output1.txt
+2025-07-03 08:20:47,428 - INFO - Limits for '겹치는 선분' written to 겹치는_선분\limits.txt
+2025-07-03 08:20:47,429 - INFO - Latest problem directory '겹치는_선분' saved to latest_problem.txt
