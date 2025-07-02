@@ -2044,3 +2044,669 @@ Summary: Passed 0 out of 1 tests.[0m
 2025-07-01 18:28:32,051 - INFO - Memory: 4.293 MB
 2025-07-01 18:28:32,052 - INFO - [96m
 Summary: Passed 1 out of 1 tests.[0m
+2025-07-01 20:39:52,744 - INFO - Latest problem directory is '개똥벌레'
+2025-07-01 20:39:53,734 - INFO - Compilation successful.
+2025-07-01 20:39:53,734 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-01 20:39:54,898 - INFO - Test 1: Failed
+2025-07-01 20:39:54,898 - INFO - Time: 1.162 seconds
+2025-07-01 20:39:54,898 - INFO - Memory: 4.277 MB
+2025-07-01 20:39:54,898 - INFO - Expected:
+2 3
+2025-07-01 20:39:54,898 - INFO - Got:
+3
+2025-07-01 20:39:54,911 - INFO - Test 2: Failed
+2025-07-01 20:39:54,911 - INFO - Time: 0.010 seconds
+2025-07-01 20:39:54,911 - INFO - Memory: 4.277 MB
+2025-07-01 20:39:54,911 - INFO - Expected:
+7 2
+2025-07-01 20:39:54,911 - INFO - Got:
+7
+2025-07-01 20:39:54,912 - INFO - [96m
+Summary: Passed 0 out of 2 tests.[0m
+2025-07-01 20:41:22,409 - INFO - Latest problem directory is '개똥벌레'
+2025-07-01 20:41:23,300 - INFO - Compilation successful.
+2025-07-01 20:41:23,302 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-01 20:41:24,408 - INFO - Test 1: Failed
+2025-07-01 20:41:24,408 - INFO - Time: 1.107 seconds
+2025-07-01 20:41:24,408 - INFO - Memory: 4.289 MB
+2025-07-01 20:41:24,408 - INFO - Expected:
+2 3
+2025-07-01 20:41:24,408 - INFO - Got:
+3 4
+2025-07-01 20:41:24,418 - INFO - Test 2: Passed
+2025-07-01 20:41:24,418 - INFO - Time: 0.009 seconds
+2025-07-01 20:41:24,418 - INFO - Memory: 4.289 MB
+2025-07-01 20:41:24,419 - INFO - [96m
+Summary: Passed 1 out of 2 tests.[0m
+2025-07-01 20:44:46,197 - INFO - Latest problem directory is '개똥벌레'
+2025-07-01 20:44:47,215 - INFO - Compilation successful.
+2025-07-01 20:44:47,217 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-01 20:44:48,320 - INFO - Test 1: Failed
+2025-07-01 20:44:48,320 - INFO - Time: 1.102 seconds
+2025-07-01 20:44:48,320 - INFO - Memory: 4.289 MB
+2025-07-01 20:44:48,321 - INFO - Expected:
+2 3
+2025-07-01 20:44:48,321 - INFO - Got:
+3 4
+2025-07-01 20:44:48,332 - INFO - Test 2: Passed
+2025-07-01 20:44:48,332 - INFO - Time: 0.010 seconds
+2025-07-01 20:44:48,332 - INFO - Memory: 4.289 MB
+2025-07-01 20:44:48,332 - INFO - [96m
+Summary: Passed 1 out of 2 tests.[0m
+2025-07-01 21:00:00,000 - INFO - Latest problem directory is '개똥벌레'
+2025-07-01 21:00:00,942 - INFO - Compilation successful.
+2025-07-01 21:00:00,943 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-01 21:00:01,943 - INFO - Test 1: Failed
+2025-07-01 21:00:01,943 - INFO - Time: 0.999 seconds
+2025-07-01 21:00:01,943 - INFO - Memory: 4.285 MB
+2025-07-01 21:00:01,943 - INFO - Expected:
+2 3
+2025-07-01 21:00:01,944 - INFO - Got:
+floor array: 3 2 2 1 1 0 0 
+ceiling array: 1 1 2 2 3 3 3 
+obstacles per section: 4 3 4 3 4 3 3 
+3 4
+2025-07-01 21:00:01,954 - INFO - Test 2: Failed
+2025-07-01 21:00:01,954 - INFO - Time: 0.009 seconds
+2025-07-01 21:00:01,954 - INFO - Memory: 4.277 MB
+2025-07-01 21:00:01,954 - INFO - Expected:
+7 2
+2025-07-01 21:00:01,954 - INFO - Got:
+floor array: 7 6 5 1 0 
+ceiling array: 0 2 5 7 7 
+obstacles per section: 7 8 10 8 7 
+7 2
+2025-07-01 21:00:01,954 - INFO - [96m
+Summary: Passed 0 out of 2 tests.[0m
+2025-07-01 21:03:10,142 - INFO - Latest problem directory is '개똥벌레'
+2025-07-01 21:03:11,113 - INFO - Compilation successful.
+2025-07-01 21:03:11,113 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-01 21:03:12,153 - INFO - Test 1: Failed
+2025-07-01 21:03:12,153 - INFO - Time: 1.037 seconds
+2025-07-01 21:03:12,153 - INFO - Memory: 4.281 MB
+2025-07-01 21:03:12,153 - INFO - Expected:
+2 3
+2025-07-01 21:03:12,153 - INFO - Got:
+floor array: 1 0 1 0 1 0 0 
+ceiling array: 1 0 1 0 1 0 0 
+obstacles per section: 2 0 2 0 2 0 0 
+floor array: 3 2 2 1 1 0 0 
+ceiling array: 1 1 2 2 3 3 3 
+obstacles per section: 4 3 4 3 4 3 3 
+3 4
+2025-07-01 21:03:12,163 - INFO - Test 2: Failed
+2025-07-01 21:03:12,163 - INFO - Time: 0.009 seconds
+2025-07-01 21:03:12,163 - INFO - Memory: 4.281 MB
+2025-07-01 21:03:12,163 - INFO - Expected:
+7 2
+2025-07-01 21:03:12,163 - INFO - Got:
+floor array: 1 1 4 1 0 
+ceiling array: 0 2 3 2 0 
+obstacles per section: 1 3 7 3 0 
+floor array: 7 6 5 1 0 
+ceiling array: 0 2 5 7 7 
+obstacles per section: 7 8 10 8 7 
+7 2
+2025-07-01 21:03:12,163 - INFO - [96m
+Summary: Passed 0 out of 2 tests.[0m
+2025-07-01 21:04:21,475 - INFO - Latest problem directory is '개똥벌레'
+2025-07-01 21:04:22,468 - INFO - Compilation successful.
+2025-07-01 21:04:22,469 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-01 21:04:23,575 - INFO - Test 1: Failed
+2025-07-01 21:04:23,575 - INFO - Time: 1.105 seconds
+2025-07-01 21:04:23,575 - INFO - Memory: 4.285 MB
+2025-07-01 21:04:23,575 - INFO - Expected:
+2 3
+2025-07-01 21:04:23,575 - INFO - Got:
+floor array: 1 0 1 0 1 0 0 
+ceiling array: 0 0 1 0 1 0 1 
+obstacles per section: 1 0 2 0 2 0 1 
+floor array: 3 2 2 1 1 0 0 
+ceiling array: 0 0 1 1 2 2 3 
+obstacles per section: 3 2 3 2 3 2 3 
+2 3
+2025-07-01 21:04:23,595 - INFO - Test 2: Failed
+2025-07-01 21:04:23,595 - INFO - Time: 0.018 seconds
+2025-07-01 21:04:23,595 - INFO - Memory: 4.281 MB
+2025-07-01 21:04:23,595 - INFO - Expected:
+7 2
+2025-07-01 21:04:23,595 - INFO - Got:
+floor array: 1 1 4 1 0 
+ceiling array: 0 2 3 2 0 
+obstacles per section: 1 3 7 3 0 
+floor array: 7 6 5 1 0 
+ceiling array: 0 2 5 7 7 
+obstacles per section: 7 8 10 8 7 
+7 2
+2025-07-01 21:04:23,595 - INFO - [96m
+Summary: Passed 0 out of 2 tests.[0m
+2025-07-01 21:05:02,867 - INFO - Latest problem directory is '개똥벌레'
+2025-07-01 21:05:03,788 - INFO - Compilation successful.
+2025-07-01 21:05:03,789 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-01 21:05:04,461 - INFO - Test 1: Passed
+2025-07-01 21:05:04,461 - INFO - Time: 0.671 seconds
+2025-07-01 21:05:04,461 - INFO - Memory: 4.289 MB
+2025-07-01 21:05:04,479 - INFO - Test 2: Passed
+2025-07-01 21:05:04,479 - INFO - Time: 0.018 seconds
+2025-07-01 21:05:04,479 - INFO - Memory: 4.285 MB
+2025-07-01 21:05:04,479 - INFO - [96m
+Summary: Passed 2 out of 2 tests.[0m
+2025-07-01 23:54:15,964 - INFO - Latest problem directory is '카드게임'
+2025-07-01 23:54:17,391 - INFO - Compilation successful.
+2025-07-01 23:54:17,392 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-01 23:54:18,536 - INFO - Test 1: Failed
+2025-07-01 23:54:18,536 - INFO - Time: 1.142 seconds
+2025-07-01 23:54:18,536 - INFO - Memory: 4.297 MB
+2025-07-01 23:54:18,536 - INFO - Expected:
+7
+2025-07-01 23:54:18,536 - INFO - Got:
+6
+2025-07-01 23:54:18,547 - INFO - Test 2: Failed
+2025-07-01 23:54:18,547 - INFO - Time: 0.010 seconds
+2025-07-01 23:54:18,547 - INFO - Memory: 4.293 MB
+2025-07-01 23:54:18,547 - INFO - Expected:
+6
+2025-07-01 23:54:18,547 - INFO - Got:
+5
+2025-07-01 23:54:18,548 - INFO - [96m
+Summary: Passed 0 out of 2 tests.[0m
+2025-07-01 23:54:37,204 - INFO - Latest problem directory is '카드게임'
+2025-07-01 23:54:38,224 - INFO - Compilation successful.
+2025-07-01 23:54:38,225 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-01 23:54:38,976 - INFO - Test 1: Passed
+2025-07-01 23:54:38,976 - INFO - Time: 0.750 seconds
+2025-07-01 23:54:38,976 - INFO - Memory: 4.301 MB
+2025-07-01 23:54:38,990 - INFO - Test 2: Passed
+2025-07-01 23:54:38,990 - INFO - Time: 0.014 seconds
+2025-07-01 23:54:38,990 - INFO - Memory: 4.297 MB
+2025-07-01 23:54:38,991 - INFO - [96m
+Summary: Passed 2 out of 2 tests.[0m
+2025-07-02 00:10:44,923 - INFO - Latest problem directory is '카드게임'
+2025-07-02 00:10:46,050 - INFO - Compilation successful.
+2025-07-02 00:10:46,050 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 00:10:47,567 - INFO - Test 1: Failed
+2025-07-02 00:10:47,567 - INFO - Time: 1.515 seconds
+2025-07-02 00:10:47,567 - INFO - Memory: 4.770 MB
+2025-07-02 00:10:47,567 - INFO - Expected:
+7
+2025-07-02 00:10:47,567 - INFO - Got:
+3
+2025-07-02 00:10:47,583 - INFO - Test 2: Failed
+2025-07-02 00:10:47,583 - INFO - Time: 0.016 seconds
+2025-07-02 00:10:47,583 - INFO - Memory: 4.766 MB
+2025-07-02 00:10:47,583 - INFO - Expected:
+6
+2025-07-02 00:10:47,583 - INFO - Got:
+3
+2025-07-02 00:10:47,583 - INFO - [96m
+Summary: Passed 0 out of 2 tests.[0m
+2025-07-02 00:14:57,194 - INFO - Latest problem directory is '카드게임'
+2025-07-02 00:14:59,923 - INFO - Compilation successful.
+2025-07-02 00:14:59,924 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 00:15:00,876 - INFO - Test 1: Failed
+2025-07-02 00:15:00,876 - INFO - Time: 0.948 seconds
+2025-07-02 00:15:00,877 - INFO - Memory: 4.770 MB
+2025-07-02 00:15:00,877 - INFO - Expected:
+7
+2025-07-02 00:15:00,877 - INFO - Got:
+3
+2025-07-02 00:15:00,894 - INFO - Test 2: Failed
+2025-07-02 00:15:00,894 - INFO - Time: 0.015 seconds
+2025-07-02 00:15:00,894 - INFO - Memory: 4.773 MB
+2025-07-02 00:15:00,894 - INFO - Expected:
+6
+2025-07-02 00:15:00,894 - INFO - Got:
+3
+2025-07-02 00:15:00,894 - INFO - [96m
+Summary: Passed 0 out of 2 tests.[0m
+2025-07-02 00:17:23,972 - INFO - Latest problem directory is '카드게임'
+2025-07-02 00:17:25,072 - INFO - Compilation successful.
+2025-07-02 00:17:25,072 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 00:17:26,168 - INFO - Test 1: Passed
+2025-07-02 00:17:26,168 - INFO - Time: 1.093 seconds
+2025-07-02 00:17:26,168 - INFO - Memory: 4.770 MB
+2025-07-02 00:17:26,181 - INFO - Test 2: Passed
+2025-07-02 00:17:26,181 - INFO - Time: 0.012 seconds
+2025-07-02 00:17:26,181 - INFO - Memory: 4.770 MB
+2025-07-02 00:17:26,181 - INFO - [96m
+Summary: Passed 2 out of 2 tests.[0m
+2025-07-02 00:40:08,893 - INFO - Latest problem directory is '카드게임'
+2025-07-02 00:40:09,979 - INFO - Compilation successful.
+2025-07-02 00:40:09,979 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 00:40:11,114 - INFO - Test 1: Passed
+2025-07-02 00:40:11,114 - INFO - Time: 1.133 seconds
+2025-07-02 00:40:11,114 - INFO - Memory: 4.770 MB
+2025-07-02 00:40:11,134 - INFO - Test 2: Passed
+2025-07-02 00:40:11,134 - INFO - Time: 0.020 seconds
+2025-07-02 00:40:11,135 - INFO - Memory: 4.770 MB
+2025-07-02 00:40:11,135 - INFO - [96m
+Summary: Passed 2 out of 2 tests.[0m
+2025-07-02 01:09:06,163 - INFO - Latest problem directory is '카드게임'
+2025-07-02 01:09:08,932 - INFO - Compilation successful.
+2025-07-02 01:09:08,933 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 01:09:10,051 - INFO - Test 1: Failed
+2025-07-02 01:09:10,051 - INFO - Time: 1.118 seconds
+2025-07-02 01:09:10,051 - INFO - Memory: 4.766 MB
+2025-07-02 01:09:10,051 - INFO - Expected:
+7
+2025-07-02 01:09:10,051 - INFO - Got:
+6
+2025-07-02 01:09:10,066 - INFO - Test 2: Failed
+2025-07-02 01:09:10,066 - INFO - Time: 0.013 seconds
+2025-07-02 01:09:10,066 - INFO - Memory: 4.770 MB
+2025-07-02 01:09:10,066 - INFO - Expected:
+6
+2025-07-02 01:09:10,066 - INFO - Got:
+5
+2025-07-02 01:09:10,066 - INFO - [96m
+Summary: Passed 0 out of 2 tests.[0m
+2025-07-02 01:09:27,413 - INFO - Latest problem directory is '카드게임'
+2025-07-02 01:09:28,990 - INFO - Compilation successful.
+2025-07-02 01:09:28,990 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 01:09:29,631 - INFO - Test 1: Passed
+2025-07-02 01:09:29,631 - INFO - Time: 0.639 seconds
+2025-07-02 01:09:29,631 - INFO - Memory: 4.770 MB
+2025-07-02 01:09:29,643 - INFO - Test 2: Passed
+2025-07-02 01:09:29,645 - INFO - Time: 0.011 seconds
+2025-07-02 01:09:29,645 - INFO - Memory: 4.770 MB
+2025-07-02 01:09:29,645 - INFO - [96m
+Summary: Passed 2 out of 2 tests.[0m
+2025-07-02 01:16:01,534 - INFO - Latest problem directory is '카드게임'
+2025-07-02 01:16:02,781 - INFO - Compilation successful.
+2025-07-02 01:16:02,782 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 01:16:03,750 - INFO - Test 1: Passed
+2025-07-02 01:16:03,750 - INFO - Time: 0.967 seconds
+2025-07-02 01:16:03,750 - INFO - Memory: 4.770 MB
+2025-07-02 01:16:03,760 - INFO - Test 2: Passed
+2025-07-02 01:16:03,760 - INFO - Time: 0.009 seconds
+2025-07-02 01:16:03,760 - INFO - Memory: 4.770 MB
+2025-07-02 01:16:03,761 - INFO - [96m
+Summary: Passed 2 out of 2 tests.[0m
+2025-07-02 01:30:41,392 - INFO - Latest problem directory is '카드게임'
+2025-07-02 01:30:42,501 - INFO - Compilation successful.
+2025-07-02 01:30:42,501 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 01:30:43,663 - INFO - Test 1: Passed
+2025-07-02 01:30:43,663 - INFO - Time: 1.159 seconds
+2025-07-02 01:30:43,663 - INFO - Memory: 4.770 MB
+2025-07-02 01:30:43,682 - INFO - Test 2: Passed
+2025-07-02 01:30:43,682 - INFO - Time: 0.014 seconds
+2025-07-02 01:30:43,683 - INFO - Memory: 4.766 MB
+2025-07-02 01:30:43,684 - INFO - [96m
+Summary: Passed 2 out of 2 tests.[0m
+2025-07-02 01:38:23,738 - INFO - Latest problem directory is '카드게임'
+2025-07-02 01:38:24,893 - INFO - Compilation successful.
+2025-07-02 01:38:24,894 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-02 01:38:25,779 - INFO - Test 1: Passed
+2025-07-02 01:38:25,779 - INFO - Time: 0.883 seconds
+2025-07-02 01:38:25,779 - INFO - Memory: 4.770 MB
+2025-07-02 01:38:25,790 - INFO - Test 2: Passed
+2025-07-02 01:38:25,790 - INFO - Time: 0.010 seconds
+2025-07-02 01:38:25,790 - INFO - Memory: 4.773 MB
+2025-07-02 01:38:25,790 - INFO - [96m
+Summary: Passed 2 out of 2 tests.[0m
+2025-07-02 12:54:25,792 - INFO - Latest problem directory is '공약수'
+2025-07-02 12:54:27,277 - INFO - Compilation successful.
+2025-07-02 12:54:27,277 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-02 12:54:28,411 - INFO - Test 1: Failed
+2025-07-02 12:54:28,411 - INFO - Time: 1.131 seconds
+2025-07-02 12:54:28,411 - INFO - Memory: 4.750 MB
+2025-07-02 12:54:28,411 - INFO - Expected:
+30 36
+2025-07-02 12:54:28,411 - INFO - Got:
+00
+2025-07-02 12:54:29,428 - WARNING - Test 2: Time Limit Exceeded
+2025-07-02 12:54:29,428 - INFO - Time: 1.017 seconds
+2025-07-02 12:54:29,430 - INFO - [96m
+Summary: Passed 0 out of 2 tests.[0m
+2025-07-02 12:54:39,670 - INFO - Latest problem directory is '공약수'
+2025-07-02 12:54:40,530 - INFO - Compilation successful.
+2025-07-02 12:54:40,531 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-02 12:54:41,222 - INFO - Test 1: Failed
+2025-07-02 12:54:41,222 - INFO - Time: 0.691 seconds
+2025-07-02 12:54:41,223 - INFO - Memory: 4.758 MB
+2025-07-02 12:54:41,223 - INFO - Expected:
+30 36
+2025-07-02 12:54:41,223 - INFO - Got:
+0 0
+2025-07-02 12:54:42,226 - WARNING - Test 2: Time Limit Exceeded
+2025-07-02 12:54:42,226 - INFO - Time: 1.003 seconds
+2025-07-02 12:54:42,230 - INFO - [96m
+Summary: Passed 0 out of 2 tests.[0m
+2025-07-02 12:56:14,760 - INFO - Latest problem directory is '공약수'
+2025-07-02 12:56:15,700 - INFO - Compilation successful.
+2025-07-02 12:56:15,700 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-02 12:56:16,833 - INFO - Test 1: Passed
+2025-07-02 12:56:16,833 - INFO - Time: 1.131 seconds
+2025-07-02 12:56:16,833 - INFO - Memory: 4.758 MB
+2025-07-02 12:56:17,846 - WARNING - Test 2: Time Limit Exceeded
+2025-07-02 12:56:17,846 - INFO - Time: 1.012 seconds
+2025-07-02 12:56:17,849 - INFO - [96m
+Summary: Passed 1 out of 2 tests.[0m
+2025-07-02 12:57:41,319 - INFO - Latest problem directory is '공약수'
+2025-07-02 12:57:42,196 - INFO - Compilation successful.
+2025-07-02 12:57:42,196 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-02 12:57:43,386 - INFO - Test 1: Passed
+2025-07-02 12:57:43,386 - INFO - Time: 1.189 seconds
+2025-07-02 12:57:43,386 - INFO - Memory: 4.766 MB
+2025-07-02 12:57:44,403 - WARNING - Test 2: Time Limit Exceeded
+2025-07-02 12:57:44,403 - INFO - Time: 1.017 seconds
+2025-07-02 12:57:44,407 - INFO - [96m
+Summary: Passed 1 out of 2 tests.[0m
+2025-07-02 12:58:26,051 - INFO - Latest problem directory is '공약수'
+2025-07-02 12:58:26,940 - INFO - Compilation successful.
+2025-07-02 12:58:26,941 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-02 12:58:27,849 - INFO - Test 1: Passed
+2025-07-02 12:58:27,849 - INFO - Time: 0.908 seconds
+2025-07-02 12:58:27,849 - INFO - Memory: 4.758 MB
+2025-07-02 12:58:28,868 - WARNING - Test 2: Time Limit Exceeded
+2025-07-02 12:58:28,868 - INFO - Time: 1.018 seconds
+2025-07-02 12:58:28,872 - INFO - [96m
+Summary: Passed 1 out of 2 tests.[0m
+2025-07-02 13:00:57,063 - INFO - Latest problem directory is '공약수'
+2025-07-02 13:00:57,903 - INFO - Compilation successful.
+2025-07-02 13:00:57,904 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-02 13:00:59,063 - INFO - Test 1: Passed
+2025-07-02 13:00:59,063 - INFO - Time: 1.157 seconds
+2025-07-02 13:00:59,063 - INFO - Memory: 4.766 MB
+2025-07-02 13:01:00,073 - WARNING - Test 2: Time Limit Exceeded
+2025-07-02 13:01:00,073 - INFO - Time: 1.011 seconds
+2025-07-02 13:01:00,077 - INFO - [96m
+Summary: Passed 1 out of 2 tests.[0m
+2025-07-02 13:05:57,780 - INFO - Latest problem directory is '공약수'
+2025-07-02 13:05:58,439 - ERROR - Compilation failed.
+2025-07-02 13:06:06,411 - INFO - Latest problem directory is '공약수'
+2025-07-02 13:06:06,412 - INFO - No changes in the code since the last run. Skipping compilation.
+2025-07-02 13:06:06,412 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-02 13:06:06,425 - INFO - Test 1: Passed
+2025-07-02 13:06:06,425 - INFO - Time: 0.012 seconds
+2025-07-02 13:06:06,425 - INFO - Memory: 4.762 MB
+2025-07-02 13:06:07,430 - WARNING - Test 2: Time Limit Exceeded
+2025-07-02 13:06:07,430 - INFO - Time: 1.005 seconds
+2025-07-02 13:06:07,432 - INFO - [96m
+Summary: Passed 1 out of 2 tests.[0m
+2025-07-02 13:10:36,136 - INFO - Latest problem directory is '공약수'
+2025-07-02 13:10:36,989 - INFO - Compilation successful.
+2025-07-02 13:10:36,989 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-02 13:10:38,205 - INFO - Test 1: Passed
+2025-07-02 13:10:38,205 - INFO - Time: 1.216 seconds
+2025-07-02 13:10:38,205 - INFO - Memory: 4.766 MB
+2025-07-02 13:10:38,218 - INFO - Test 2: Failed
+2025-07-02 13:10:38,218 - INFO - Time: 0.011 seconds
+2025-07-02 13:10:38,218 - INFO - Memory: 4.762 MB
+2025-07-02 13:10:38,218 - INFO - Expected:
+11648 14850
+2025-07-02 13:10:38,218 - INFO - Got:
+13106 13197
+2025-07-02 13:10:38,218 - INFO - [96m
+Summary: Passed 1 out of 2 tests.[0m
+2025-07-02 13:14:46,503 - INFO - Latest problem directory is '공약수'
+2025-07-02 13:14:47,468 - INFO - Compilation successful.
+2025-07-02 13:14:47,470 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-02 13:14:48,457 - INFO - Test 1: Passed
+2025-07-02 13:14:48,457 - INFO - Time: 0.986 seconds
+2025-07-02 13:14:48,457 - INFO - Memory: 4.762 MB
+2025-07-02 13:14:48,470 - INFO - Test 2: Failed
+2025-07-02 13:14:48,470 - INFO - Time: 0.013 seconds
+2025-07-02 13:14:48,470 - INFO - Memory: 4.762 MB
+2025-07-02 13:14:48,470 - INFO - Expected:
+11648 14850
+2025-07-02 13:14:48,470 - INFO - Got:
+13106 13197
+2025-07-02 13:14:48,471 - INFO - [96m
+Summary: Passed 1 out of 2 tests.[0m
+2025-07-02 13:15:53,578 - INFO - Latest problem directory is '공약수'
+2025-07-02 13:15:54,471 - INFO - Compilation successful.
+2025-07-02 13:15:54,472 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-02 13:15:55,591 - INFO - Test 1: Passed
+2025-07-02 13:15:55,592 - INFO - Time: 1.119 seconds
+2025-07-02 13:15:55,592 - INFO - Memory: 4.758 MB
+2025-07-02 13:15:55,605 - INFO - Test 2: Failed
+2025-07-02 13:15:55,606 - INFO - Time: 0.013 seconds
+2025-07-02 13:15:55,606 - INFO - Memory: 4.758 MB
+2025-07-02 13:15:55,606 - INFO - Expected:
+11648 14850
+2025-07-02 13:15:55,606 - INFO - Got:
+13106 13197
+2025-07-02 13:15:55,606 - INFO - [96m
+Summary: Passed 1 out of 2 tests.[0m
+2025-07-02 13:20:53,584 - INFO - Latest problem directory is '공약수'
+2025-07-02 13:20:54,457 - INFO - Compilation successful.
+2025-07-02 13:20:54,457 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-02 13:20:55,655 - INFO - Test 1: Passed
+2025-07-02 13:20:55,655 - INFO - Time: 1.196 seconds
+2025-07-02 13:20:55,655 - INFO - Memory: 4.750 MB
+2025-07-02 13:20:55,668 - INFO - Test 2: Failed
+2025-07-02 13:20:55,668 - INFO - Time: 0.012 seconds
+2025-07-02 13:20:55,668 - INFO - Memory: 4.758 MB
+2025-07-02 13:20:55,668 - INFO - Expected:
+11648 14850
+2025-07-02 13:20:55,668 - INFO - Got:
+13106 13197
+2025-07-02 13:20:55,668 - INFO - [96m
+Summary: Passed 1 out of 2 tests.[0m
+2025-07-02 13:21:46,727 - INFO - Latest problem directory is '공약수'
+2025-07-02 13:21:47,609 - INFO - Compilation successful.
+2025-07-02 13:21:47,609 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-02 13:21:48,633 - INFO - Test 1: Passed
+2025-07-02 13:21:48,633 - INFO - Time: 1.022 seconds
+2025-07-02 13:21:48,633 - INFO - Memory: 4.758 MB
+2025-07-02 13:21:48,644 - INFO - Test 2: Failed
+2025-07-02 13:21:48,644 - INFO - Time: 0.011 seconds
+2025-07-02 13:21:48,644 - INFO - Memory: 4.758 MB
+2025-07-02 13:21:48,644 - INFO - Expected:
+11648 14850
+2025-07-02 13:21:48,644 - INFO - Got:
+13104 13200
+2025-07-02 13:21:48,645 - INFO - [96m
+Summary: Passed 1 out of 2 tests.[0m
+2025-07-02 13:28:41,352 - INFO - Latest problem directory is '공약수'
+2025-07-02 13:28:43,780 - INFO - Compilation successful.
+2025-07-02 13:28:43,781 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-02 13:28:44,916 - INFO - Test 1: Passed
+2025-07-02 13:28:44,916 - INFO - Time: 1.132 seconds
+2025-07-02 13:28:44,916 - INFO - Memory: 4.758 MB
+2025-07-02 13:28:44,929 - INFO - Test 2: Failed
+2025-07-02 13:28:44,929 - INFO - Time: 0.011 seconds
+2025-07-02 13:28:44,929 - INFO - Memory: 4.758 MB
+2025-07-02 13:28:44,929 - INFO - Expected:
+11648 14850
+2025-07-02 13:28:44,929 - INFO - Got:
+13104 13200
+2025-07-02 13:28:44,929 - INFO - [96m
+Summary: Passed 1 out of 2 tests.[0m
+2025-07-02 13:29:50,618 - INFO - Latest problem directory is '공약수'
+2025-07-02 13:29:51,494 - INFO - Compilation successful.
+2025-07-02 13:29:51,495 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-02 13:29:52,642 - INFO - Test 1: Passed
+2025-07-02 13:29:52,642 - INFO - Time: 1.146 seconds
+2025-07-02 13:29:52,642 - INFO - Memory: 4.758 MB
+2025-07-02 13:29:52,656 - INFO - Test 2: Failed
+2025-07-02 13:29:52,656 - INFO - Time: 0.013 seconds
+2025-07-02 13:29:52,656 - INFO - Memory: 4.758 MB
+2025-07-02 13:29:52,656 - INFO - Expected:
+11648 14850
+2025-07-02 13:29:52,656 - INFO - Got:
+13104 13200
+2025-07-02 13:29:52,657 - INFO - [96m
+Summary: Passed 1 out of 2 tests.[0m
+2025-07-02 13:37:09,032 - INFO - Latest problem directory is '공약수'
+2025-07-02 13:37:09,895 - INFO - Compilation successful.
+2025-07-02 13:37:09,895 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-02 13:37:10,928 - INFO - Test 1: Passed
+2025-07-02 13:37:10,928 - INFO - Time: 1.032 seconds
+2025-07-02 13:37:10,928 - INFO - Memory: 4.754 MB
+2025-07-02 13:37:10,942 - INFO - Test 2: Failed
+2025-07-02 13:37:10,942 - INFO - Time: 0.011 seconds
+2025-07-02 13:37:10,942 - INFO - Memory: 4.758 MB
+2025-07-02 13:37:10,942 - INFO - Expected:
+11648 14850
+2025-07-02 13:37:10,942 - INFO - Got:
+13104 13200
+2025-07-02 13:37:10,942 - INFO - [96m
+Summary: Passed 1 out of 2 tests.[0m
+2025-07-02 13:37:37,862 - INFO - Latest problem directory is '공약수'
+2025-07-02 13:37:38,760 - INFO - Compilation successful.
+2025-07-02 13:37:38,761 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-02 13:37:39,766 - INFO - Test 1: Passed
+2025-07-02 13:37:39,766 - INFO - Time: 1.004 seconds
+2025-07-02 13:37:39,766 - INFO - Memory: 4.758 MB
+2025-07-02 13:37:39,871 - INFO - Test 2: Failed
+2025-07-02 13:37:39,871 - INFO - Time: 0.106 seconds
+2025-07-02 13:37:39,871 - INFO - Memory: 4.758 MB
+2025-07-02 13:37:39,872 - INFO - Expected:
+11648 14850
+2025-07-02 13:37:39,872 - INFO - Got:
+13104 13200
+2025-07-02 13:37:39,872 - INFO - [96m
+Summary: Passed 1 out of 2 tests.[0m
+2025-07-02 13:40:09,124 - INFO - Latest problem directory is '공약수'
+2025-07-02 13:40:10,049 - INFO - Compilation successful.
+2025-07-02 13:40:10,050 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-02 13:40:11,385 - INFO - Test 1: Passed
+2025-07-02 13:40:11,385 - INFO - Time: 1.333 seconds
+2025-07-02 13:40:11,385 - INFO - Memory: 4.754 MB
+2025-07-02 13:40:11,585 - INFO - Test 2: Failed
+2025-07-02 13:40:11,585 - INFO - Time: 0.199 seconds
+2025-07-02 13:40:11,585 - INFO - Memory: 4.758 MB
+2025-07-02 13:40:11,585 - INFO - Expected:
+11648 14850
+2025-07-02 13:40:11,585 - INFO - Got:
+13104 13200
+2025-07-02 13:40:11,585 - INFO - [96m
+Summary: Passed 1 out of 2 tests.[0m
+2025-07-02 13:47:29,923 - INFO - Latest problem directory is '공약수'
+2025-07-02 13:47:30,819 - INFO - Compilation successful.
+2025-07-02 13:47:30,819 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-02 13:47:31,905 - INFO - Test 1: Passed
+2025-07-02 13:47:31,905 - INFO - Time: 1.085 seconds
+2025-07-02 13:47:31,906 - INFO - Memory: 4.758 MB
+2025-07-02 13:47:32,167 - INFO - Test 2: Failed
+2025-07-02 13:47:32,167 - INFO - Time: 0.257 seconds
+2025-07-02 13:47:32,167 - INFO - Memory: 4.758 MB
+2025-07-02 13:47:32,167 - INFO - Expected:
+11648 14850
+2025-07-02 13:47:32,167 - INFO - Got:
+13104 13200
+2025-07-02 13:47:32,168 - INFO - [96m
+Summary: Passed 1 out of 2 tests.[0m
+2025-07-02 13:49:32,207 - INFO - Latest problem directory is '공약수'
+2025-07-02 13:49:33,146 - INFO - Compilation successful.
+2025-07-02 13:49:33,147 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-02 13:49:34,334 - INFO - Test 1: Passed
+2025-07-02 13:49:34,334 - INFO - Time: 1.186 seconds
+2025-07-02 13:49:34,334 - INFO - Memory: 4.758 MB
+2025-07-02 13:49:34,589 - INFO - Test 2: Failed
+2025-07-02 13:49:34,589 - INFO - Time: 0.255 seconds
+2025-07-02 13:49:34,589 - INFO - Memory: 4.758 MB
+2025-07-02 13:49:34,589 - INFO - Expected:
+11648 14850
+2025-07-02 13:49:34,589 - INFO - Got:
+13104 13200
+2025-07-02 13:49:34,590 - INFO - [96m
+Summary: Passed 1 out of 2 tests.[0m
+2025-07-02 13:50:11,910 - INFO - Latest problem directory is '공약수'
+2025-07-02 13:50:12,808 - INFO - Compilation successful.
+2025-07-02 13:50:12,808 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-02 13:50:13,763 - INFO - Test 1: Passed
+2025-07-02 13:50:13,763 - INFO - Time: 0.954 seconds
+2025-07-02 13:50:13,763 - INFO - Memory: 4.758 MB
+2025-07-02 13:50:13,877 - INFO - Test 2: Failed
+2025-07-02 13:50:13,877 - INFO - Time: 0.113 seconds
+2025-07-02 13:50:13,878 - INFO - Memory: 4.758 MB
+2025-07-02 13:50:13,878 - INFO - Expected:
+11648 14850
+2025-07-02 13:50:13,878 - INFO - Got:
+13104 13200
+2025-07-02 13:50:13,878 - INFO - [96m
+Summary: Passed 1 out of 2 tests.[0m
+2025-07-02 13:51:50,829 - INFO - Latest problem directory is '공약수'
+2025-07-02 13:51:51,719 - INFO - Compilation successful.
+2025-07-02 13:51:51,719 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-02 13:51:52,921 - INFO - Test 1: Passed
+2025-07-02 13:51:52,921 - INFO - Time: 1.201 seconds
+2025-07-02 13:51:52,921 - INFO - Memory: 4.758 MB
+2025-07-02 13:51:53,030 - INFO - Test 2: Failed
+2025-07-02 13:51:53,030 - INFO - Time: 0.108 seconds
+2025-07-02 13:51:53,030 - INFO - Memory: 4.762 MB
+2025-07-02 13:51:53,030 - INFO - Expected:
+11648 14850
+2025-07-02 13:51:53,030 - INFO - Got:
+13104 13200
+2025-07-02 13:51:53,031 - INFO - [96m
+Summary: Passed 1 out of 2 tests.[0m
+2025-07-02 14:01:47,509 - INFO - Latest problem directory is '공약수'
+2025-07-02 14:01:48,032 - ERROR - Compilation failed.
+2025-07-02 14:01:56,555 - INFO - Latest problem directory is '공약수'
+2025-07-02 14:01:57,075 - ERROR - Compilation failed.
+2025-07-02 14:02:04,988 - INFO - Latest problem directory is '공약수'
+2025-07-02 14:02:05,840 - INFO - Compilation successful.
+2025-07-02 14:02:05,841 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-02 14:02:07,325 - INFO - Test 1: Passed
+2025-07-02 14:02:07,325 - INFO - Time: 1.483 seconds
+2025-07-02 14:02:07,325 - INFO - Memory: 4.758 MB
+2025-07-02 14:02:07,427 - INFO - Test 2: Passed
+2025-07-02 14:02:07,427 - INFO - Time: 0.100 seconds
+2025-07-02 14:02:07,427 - INFO - Memory: 4.758 MB
+2025-07-02 14:02:07,427 - INFO - [96m
+Summary: Passed 2 out of 2 tests.[0m
+2025-07-02 14:03:22,887 - INFO - Latest problem directory is '공약수'
+2025-07-02 14:03:23,414 - ERROR - Compilation failed.
+2025-07-02 14:03:43,473 - INFO - Latest problem directory is '공약수'
+2025-07-02 14:03:44,350 - INFO - Compilation successful.
+2025-07-02 14:03:44,350 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-02 14:03:45,320 - INFO - Test 1: Passed
+2025-07-02 14:03:45,320 - INFO - Time: 0.969 seconds
+2025-07-02 14:03:45,320 - INFO - Memory: 4.758 MB
+2025-07-02 14:03:45,741 - INFO - Test 2: Failed
+2025-07-02 14:03:45,741 - INFO - Time: 0.420 seconds
+2025-07-02 14:03:45,741 - INFO - Memory: 4.758 MB
+2025-07-02 14:03:45,741 - INFO - Expected:
+11648 14850
+2025-07-02 14:03:45,741 - INFO - Got:
+13030 13274
+2025-07-02 14:03:45,741 - INFO - [96m
+Summary: Passed 1 out of 2 tests.[0m
+2025-07-02 14:03:52,157 - INFO - Latest problem directory is '공약수'
+2025-07-02 14:03:53,025 - INFO - Compilation successful.
+2025-07-02 14:03:53,025 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-02 14:03:53,693 - INFO - Test 1: Passed
+2025-07-02 14:03:53,693 - INFO - Time: 0.667 seconds
+2025-07-02 14:03:53,693 - INFO - Memory: 4.758 MB
+2025-07-02 14:03:53,798 - INFO - Test 2: Passed
+2025-07-02 14:03:53,798 - INFO - Time: 0.103 seconds
+2025-07-02 14:03:53,798 - INFO - Memory: 4.754 MB
+2025-07-02 14:03:53,798 - INFO - [96m
+Summary: Passed 2 out of 2 tests.[0m
+2025-07-02 14:08:26,622 - INFO - Latest problem directory is '공약수'
+2025-07-02 14:08:27,477 - INFO - Compilation successful.
+2025-07-02 14:08:27,478 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-02 14:08:28,599 - INFO - Test 1: Passed
+2025-07-02 14:08:28,600 - INFO - Time: 1.122 seconds
+2025-07-02 14:08:28,600 - INFO - Memory: 4.758 MB
+2025-07-02 14:08:28,611 - INFO - Test 2: Passed
+2025-07-02 14:08:28,611 - INFO - Time: 0.010 seconds
+2025-07-02 14:08:28,611 - INFO - Memory: 4.758 MB
+2025-07-02 14:08:28,611 - INFO - [96m
+Summary: Passed 2 out of 2 tests.[0m
+2025-07-02 14:21:20,946 - INFO - Latest problem directory is '공약수'
+2025-07-02 14:21:21,809 - INFO - Compilation successful.
+2025-07-02 14:21:21,809 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-02 14:21:22,959 - INFO - Test 1: Passed
+2025-07-02 14:21:22,960 - INFO - Time: 1.149 seconds
+2025-07-02 14:21:22,960 - INFO - Memory: 4.758 MB
+2025-07-02 14:21:22,974 - INFO - Test 2: Passed
+2025-07-02 14:21:22,974 - INFO - Time: 0.014 seconds
+2025-07-02 14:21:22,974 - INFO - Memory: 4.758 MB
+2025-07-02 14:21:22,974 - INFO - [96m
+Summary: Passed 2 out of 2 tests.[0m
+2025-07-02 14:23:08,413 - INFO - Latest problem directory is '공약수'
+2025-07-02 14:23:09,301 - INFO - Compilation successful.
+2025-07-02 14:23:09,302 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-02 14:23:10,684 - INFO - Test 1: Passed
+2025-07-02 14:23:10,684 - INFO - Time: 1.382 seconds
+2025-07-02 14:23:10,684 - INFO - Memory: 4.758 MB
+2025-07-02 14:23:10,696 - INFO - Test 2: Passed
+2025-07-02 14:23:10,696 - INFO - Time: 0.010 seconds
+2025-07-02 14:23:10,696 - INFO - Memory: 4.758 MB
+2025-07-02 14:23:10,696 - INFO - [96m
+Summary: Passed 2 out of 2 tests.[0m

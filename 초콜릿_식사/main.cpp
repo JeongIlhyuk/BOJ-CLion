@@ -32,11 +32,9 @@ int main()
     unsigned int k;
     cin >> k;
     const int lsb = countr_zero(k);
+    const int msb = bit_width(k) - 1 - countl_zero(k);
 
-    int total_bits = numeric_limits<unsigned int>::digits;
-    const int msb = total_bits - 1 - countl_zero(k);
-
-    if (msb == lsb)
+    if (has_single_bit(k))
     {
         cout << k << " " << 0;
         return 0;

@@ -289,3 +289,49 @@ OSError: [WinError 123] 파일 이름, 디렉터리 이름 또는 볼륨 레이�
 2025-07-01 18:27:47,564 - INFO - Sample test case 1 written to 초콜릿_식사\input1.txt and 초콜릿_식사\output1.txt
 2025-07-01 18:27:47,564 - INFO - Limits for '초콜릿 식사' written to 초콜릿_식사\limits.txt
 2025-07-01 18:27:47,566 - INFO - Latest problem directory '초콜릿_식사' saved to latest_problem.txt
+2025-07-01 19:20:41,002 - INFO - Project directory '개똥벌레' created for problem '개똥벌레'
+2025-07-01 19:20:41,003 - INFO - Appended content from template.cpp to 개똥벌레/main.cpp
+2025-07-01 19:20:41,004 - INFO - Code template for '개똥벌레' written to 개똥벌레\main.cpp
+2025-07-01 19:20:41,005 - INFO - Sample test case 1 written to 개똥벌레\input1.txt and 개똥벌레\output1.txt
+2025-07-01 19:20:41,006 - INFO - Sample test case 2 written to 개똥벌레\input2.txt and 개똥벌레\output2.txt
+2025-07-01 19:20:41,007 - INFO - Limits for '개똥벌레' written to 개똥벌레\limits.txt
+2025-07-01 19:20:41,007 - INFO - Latest problem directory '개똥벌레' saved to latest_problem.txt
+2025-07-01 20:32:01,891 - INFO - Project directory '개똥벌레' created for problem '개똥벌레'
+2025-07-01 20:32:01,891 - INFO - Appended content from template.cpp to 개똥벌레/main.cpp
+2025-07-01 20:32:01,892 - INFO - Code template for '개똥벌레' written to 개똥벌레\main.cpp
+2025-07-01 20:32:01,893 - INFO - Sample test case 1 written to 개똥벌레\input1.txt and 개똥벌레\output1.txt
+2025-07-01 20:32:01,894 - INFO - Sample test case 2 written to 개똥벌레\input2.txt and 개똥벌레\output2.txt
+2025-07-01 20:32:01,894 - INFO - Limits for '개똥벌레' written to 개똥벌레\limits.txt
+2025-07-01 20:32:01,894 - INFO - Latest problem directory '개똥벌레' saved to latest_problem.txt
+2025-07-01 20:32:18,777 - INFO - Serving at port 10043
+2025-07-01 20:32:20,456 - INFO - Project directory '개똥벌레' created for problem '개똥벌레'
+2025-07-01 20:32:20,456 - INFO - Appended content from template.cpp to 개똥벌레/main.cpp
+2025-07-01 20:32:20,457 - INFO - Code template for '개똥벌레' written to 개똥벌레\main.cpp
+2025-07-01 20:32:20,457 - INFO - Sample test case 1 written to 개똥벌레\input1.txt and 개똥벌레\output1.txt
+2025-07-01 20:32:20,458 - INFO - Sample test case 2 written to 개똥벌레\input2.txt and 개똥벌레\output2.txt
+2025-07-01 20:32:20,458 - INFO - Limits for '개똥벌레' written to 개똥벌레\limits.txt
+2025-07-01 20:32:20,459 - INFO - Latest problem directory '개똥벌레' saved to latest_problem.txt
+2025-07-01 21:11:22,492 - INFO - Project directory '카드게임' created for problem '카드게임'
+2025-07-01 21:11:22,492 - INFO - Appended content from template.cpp to 카드게임/main.cpp
+2025-07-01 21:11:22,493 - INFO - Code template for '카드게임' written to 카드게임\main.cpp
+2025-07-01 21:11:22,495 - INFO - Sample test case 1 written to 카드게임\input1.txt and 카드게임\output1.txt
+2025-07-01 21:11:22,496 - INFO - Sample test case 2 written to 카드게임\input2.txt and 카드게임\output2.txt
+2025-07-01 21:11:22,497 - INFO - Limits for '카드게임' written to 카드게임\limits.txt
+2025-07-01 21:11:22,498 - INFO - Latest problem directory '카드게임' saved to latest_problem.txt
+2025-07-02 09:49:13,111 - INFO - Serving at port 10043
+2025-07-02 09:49:15,167 - INFO - Project directory '공약수' created for problem '공약수'
+2025-07-02 09:49:15,167 - INFO - Appended content from template.cpp to 공약수/main.cpp
+2025-07-02 09:49:15,168 - INFO - Code template for '공약수' written to 공약수\main.cpp
+2025-07-02 09:49:15,168 - INFO - Sample test case 1 written to 공약수\input1.txt and 공약수\output1.txt
+2025-07-02 09:49:15,169 - INFO - Sample test case 2 written to 공약수\input2.txt and 공약수\output2.txt
+2025-07-02 09:49:15,170 - INFO - Limits for '공약수' written to 공약수\limits.txt
+2025-07-02 09:49:15,170 - INFO - Latest problem directory '공약수' saved to latest_problem.txt
+2025-07-02 14:51:42,703 - INFO - Serving at port 10043
+2025-07-02 14:51:52,707 - INFO - Project directory '크리보드' created for problem '크리보드'
+2025-07-02 14:51:52,708 - INFO - Appended content from template.cpp to 크리보드/main.cpp
+2025-07-02 14:51:52,708 - INFO - Code template for '크리보드' written to 크리보드\main.cpp
+2025-07-02 14:51:52,709 - INFO - Sample test case 1 written to 크리보드\input1.txt and 크리보드\output1.txt
+2025-07-02 14:51:52,711 - INFO - Sample test case 2 written to 크리보드\input2.txt and 크리보드\output2.txt
+2025-07-02 14:51:52,714 - INFO - Sample test case 3 written to 크리보드\input3.txt and 크리보드\output3.txt
+2025-07-02 14:51:52,715 - INFO - Limits for '크리보드' written to 크리보드\limits.txt
+2025-07-02 14:51:52,715 - INFO - Latest problem directory '크리보드' saved to latest_problem.txt
