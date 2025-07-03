@@ -359,3 +359,23 @@ OSError: [WinError 123] 파일 이름, 디렉터리 이름 또는 볼륨 레이�
 2025-07-03 08:20:47,426 - INFO - Sample test case 1 written to 겹치는_선분\input1.txt and 겹치는_선분\output1.txt
 2025-07-03 08:20:47,428 - INFO - Limits for '겹치는 선분' written to 겹치는_선분\limits.txt
 2025-07-03 08:20:47,429 - INFO - Latest problem directory '겹치는_선분' saved to latest_problem.txt
+2025-07-03 13:39:24,936 - INFO - Project directory '제로' created for problem '제로'
+2025-07-03 13:39:24,936 - INFO - Appended content from template.cpp to 제로/main.cpp
+2025-07-03 13:39:24,937 - INFO - Code template for '제로' written to 제로\main.cpp
+2025-07-03 13:39:24,938 - INFO - Sample test case 1 written to 제로\input1.txt and 제로\output1.txt
+2025-07-03 13:39:24,939 - INFO - Sample test case 2 written to 제로\input2.txt and 제로\output2.txt
+2025-07-03 13:39:24,940 - INFO - Limits for '제로' written to 제로\limits.txt
+2025-07-03 13:39:24,940 - INFO - Latest problem directory '제로' saved to latest_problem.txt
+2025-07-03 14:15:48,916 - INFO - Project directory '오큰수' created for problem '오큰수'
+2025-07-03 14:15:48,916 - INFO - Appended content from template.cpp to 오큰수/main.cpp
+2025-07-03 14:15:48,917 - INFO - Code template for '오큰수' written to 오큰수\main.cpp
+2025-07-03 14:15:48,918 - INFO - Sample test case 1 written to 오큰수\input1.txt and 오큰수\output1.txt
+2025-07-03 14:15:48,919 - INFO - Sample test case 2 written to 오큰수\input2.txt and 오큰수\output2.txt
+2025-07-03 14:15:48,920 - INFO - Limits for '오큰수' written to 오큰수\limits.txt
+2025-07-03 14:15:48,920 - INFO - Latest problem directory '오큰수' saved to latest_problem.txt
+2025-07-03 16:12:48,704 - INFO - Project directory '히스토그램에서_가장_큰_직사각형' created for problem '히스토그램에서 가장 큰 직사각형'
+2025-07-03 16:12:48,705 - INFO - Appended content from template.cpp to 히스토그램에서_가장_큰_직사각형/main.cpp
+2025-07-03 16:12:48,706 - INFO - Code template for '히스토그램에서 가장 큰 직사각형' written to 히스토그램에서_가장_큰_직사각형\main.cpp
+2025-07-03 16:12:48,707 - INFO - Sample test case 1 written to 히스토그램에서_가장_큰_직사각형\input1.txt and 히스토그램에서_가장_큰_직사각형\output1.txt
+2025-07-03 16:12:48,708 - INFO - Limits for '히스토그램에서 가장 큰 직사각형' written to 히스토그램에서_가장_큰_직사각형\limits.txt
+2025-07-03 16:12:48,708 - INFO - Latest problem directory '히스토그램에서_가장_큰_직사각형' saved to latest_problem.txt

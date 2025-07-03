@@ -3586,3 +3586,1296 @@ Summary: Passed 1 out of 3 tests.[0m
 36
 2025-07-02 17:47:37,847 - INFO - [96m
 Summary: Passed 2 out of 3 tests.[0m
+2025-07-03 10:58:18,503 - INFO - Latest problem directory is '겹치는_선분'
+2025-07-03 10:58:19,436 - ERROR - Compilation failed.
+2025-07-03 10:59:58,116 - INFO - Latest problem directory is '겹치는_선분'
+2025-07-03 11:00:00,153 - INFO - Compilation successful.
+2025-07-03 11:00:00,153 - INFO - Using time limit: 2000 ms and memory limit: 256 MB
+2025-07-03 11:00:01,443 - INFO - Test 1: Failed
+2025-07-03 11:00:01,443 - INFO - Time: 1.287 seconds
+2025-07-03 11:00:01,443 - INFO - Memory: 4.781 MB
+2025-07-03 11:00:01,443 - INFO - Expected:
+3
+2025-07-03 11:00:01,443 - INFO - Got:
+0
+2025-07-03 11:00:01,443 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 11:01:53,929 - INFO - Latest problem directory is '겹치는_선분'
+2025-07-03 11:01:55,053 - INFO - Compilation successful.
+2025-07-03 11:01:55,053 - INFO - Using time limit: 2000 ms and memory limit: 256 MB
+2025-07-03 11:01:56,343 - INFO - Test 1: Failed
+2025-07-03 11:01:56,343 - INFO - Time: 1.288 seconds
+2025-07-03 11:01:56,343 - INFO - Memory: 4.781 MB
+2025-07-03 11:01:56,343 - INFO - Expected:
+3
+2025-07-03 11:01:56,343 - INFO - Got:
+4
+2025-07-03 11:01:56,344 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 11:05:26,122 - INFO - Latest problem directory is '겹치는_선분'
+2025-07-03 11:05:27,348 - INFO - Compilation successful.
+2025-07-03 11:05:27,349 - INFO - Using time limit: 2000 ms and memory limit: 256 MB
+2025-07-03 11:05:28,472 - INFO - Test 1: Failed
+2025-07-03 11:05:28,472 - INFO - Time: 1.122 seconds
+2025-07-03 11:05:28,472 - INFO - Memory: 4.773 MB
+2025-07-03 11:05:28,472 - INFO - Expected:
+3
+2025-07-03 11:05:28,473 - INFO - Got:
+4
+2025-07-03 11:05:28,473 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 11:33:31,251 - INFO - Latest problem directory is '겹치는_선분'
+2025-07-03 11:33:32,539 - INFO - Compilation successful.
+2025-07-03 11:33:32,540 - INFO - Using time limit: 2000 ms and memory limit: 256 MB
+2025-07-03 11:33:35,718 - WARNING - Test 1: Time Limit Exceeded
+2025-07-03 11:33:35,718 - INFO - Time: 3.178 seconds
+2025-07-03 11:33:35,723 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 11:34:04,461 - INFO - Latest problem directory is '겹치는_선분'
+2025-07-03 11:34:05,669 - INFO - Compilation successful.
+2025-07-03 11:34:05,669 - INFO - Using time limit: 2000 ms and memory limit: 256 MB
+2025-07-03 11:34:06,589 - INFO - Test 1: Failed
+2025-07-03 11:34:06,589 - INFO - Time: 0.918 seconds
+2025-07-03 11:34:06,589 - INFO - Memory: 4.777 MB
+2025-07-03 11:34:06,589 - INFO - Expected:
+3
+2025-07-03 11:34:06,589 - INFO - Got:
+1878829452
+2025-07-03 11:34:06,589 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 11:35:42,491 - INFO - Latest problem directory is '겹치는_선분'
+2025-07-03 11:35:43,664 - INFO - Compilation successful.
+2025-07-03 11:35:43,664 - INFO - Using time limit: 2000 ms and memory limit: 256 MB
+2025-07-03 11:35:44,758 - INFO - Test 1: Failed
+2025-07-03 11:35:44,758 - INFO - Time: 1.092 seconds
+2025-07-03 11:35:44,758 - INFO - Memory: 4.781 MB
+2025-07-03 11:35:44,758 - INFO - Expected:
+3
+2025-07-03 11:35:44,758 - INFO - Got:
+1878844940
+2025-07-03 11:35:44,759 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 11:37:16,158 - INFO - Latest problem directory is '겹치는_선분'
+2025-07-03 11:37:17,355 - INFO - Compilation successful.
+2025-07-03 11:37:17,355 - INFO - Using time limit: 2000 ms and memory limit: 256 MB
+2025-07-03 11:37:18,509 - INFO - Test 1: Failed
+2025-07-03 11:37:18,509 - INFO - Time: 1.153 seconds
+2025-07-03 11:37:18,510 - INFO - Memory: 4.781 MB
+2025-07-03 11:37:18,510 - INFO - Expected:
+3
+2025-07-03 11:37:18,510 - INFO - Got:
+4
+2025-07-03 11:37:18,510 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 11:49:24,577 - INFO - Latest problem directory is '겹치는_선분'
+2025-07-03 11:49:25,884 - INFO - Compilation successful.
+2025-07-03 11:49:25,884 - INFO - Using time limit: 2000 ms and memory limit: 256 MB
+2025-07-03 11:49:27,120 - INFO - Test 1: Failed
+2025-07-03 11:49:27,120 - INFO - Time: 1.234 seconds
+2025-07-03 11:49:27,120 - INFO - Memory: 4.781 MB
+2025-07-03 11:49:27,120 - INFO - Expected:
+3
+2025-07-03 11:49:27,120 - INFO - Got:
+2
+2025-07-03 11:49:27,121 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 11:52:09,243 - INFO - Latest problem directory is '겹치는_선분'
+2025-07-03 11:52:10,471 - INFO - Compilation successful.
+2025-07-03 11:52:10,473 - INFO - Using time limit: 2000 ms and memory limit: 256 MB
+2025-07-03 11:52:11,634 - INFO - Test 1: Failed
+2025-07-03 11:52:11,635 - INFO - Time: 1.161 seconds
+2025-07-03 11:52:11,635 - INFO - Memory: 4.781 MB
+2025-07-03 11:52:11,635 - INFO - Expected:
+3
+2025-07-03 11:52:11,635 - INFO - Got:
+4
+2025-07-03 11:52:11,635 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 11:53:47,683 - INFO - Latest problem directory is '겹치는_선분'
+2025-07-03 11:53:48,859 - INFO - Compilation successful.
+2025-07-03 11:53:48,860 - INFO - Using time limit: 2000 ms and memory limit: 256 MB
+2025-07-03 11:53:49,940 - INFO - Test 1: Failed
+2025-07-03 11:53:49,940 - INFO - Time: 1.079 seconds
+2025-07-03 11:53:49,940 - INFO - Memory: 4.781 MB
+2025-07-03 11:53:49,940 - INFO - Expected:
+3
+2025-07-03 11:53:49,940 - INFO - Got:
+4
+2025-07-03 11:53:49,941 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 11:54:17,676 - INFO - Latest problem directory is '겹치는_선분'
+2025-07-03 11:54:18,888 - INFO - Compilation successful.
+2025-07-03 11:54:18,888 - INFO - Using time limit: 2000 ms and memory limit: 256 MB
+2025-07-03 11:54:19,700 - INFO - Test 1: Failed
+2025-07-03 11:54:19,700 - INFO - Time: 0.811 seconds
+2025-07-03 11:54:19,700 - INFO - Memory: 4.781 MB
+2025-07-03 11:54:19,700 - INFO - Expected:
+3
+2025-07-03 11:54:19,700 - INFO - Got:
+4
+2025-07-03 11:54:19,700 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 11:55:10,731 - INFO - Latest problem directory is '겹치는_선분'
+2025-07-03 11:55:12,042 - INFO - Compilation successful.
+2025-07-03 11:55:12,043 - INFO - Using time limit: 2000 ms and memory limit: 256 MB
+2025-07-03 11:55:13,001 - INFO - Test 1: Failed
+2025-07-03 11:55:13,001 - INFO - Time: 0.957 seconds
+2025-07-03 11:55:13,001 - INFO - Memory: 4.781 MB
+2025-07-03 11:55:13,001 - INFO - Expected:
+3
+2025-07-03 11:55:13,001 - INFO - Got:
+4
+2025-07-03 11:55:13,001 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 11:59:11,278 - INFO - Latest problem directory is '겹치는_선분'
+2025-07-03 11:59:12,511 - INFO - Compilation successful.
+2025-07-03 11:59:12,511 - INFO - Using time limit: 2000 ms and memory limit: 256 MB
+2025-07-03 11:59:13,703 - INFO - Test 1: Failed
+2025-07-03 11:59:13,703 - INFO - Time: 1.190 seconds
+2025-07-03 11:59:13,703 - INFO - Memory: 4.785 MB
+2025-07-03 11:59:13,703 - INFO - Expected:
+3
+2025-07-03 11:59:13,703 - INFO - Got:
+4
+2025-07-03 11:59:13,703 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 12:03:08,274 - INFO - Latest problem directory is '겹치는_선분'
+2025-07-03 12:03:09,628 - INFO - Compilation successful.
+2025-07-03 12:03:09,629 - INFO - Using time limit: 2000 ms and memory limit: 256 MB
+2025-07-03 12:03:10,772 - INFO - Test 1: Failed
+2025-07-03 12:03:10,772 - INFO - Time: 1.142 seconds
+2025-07-03 12:03:10,772 - INFO - Memory: 4.781 MB
+2025-07-03 12:03:10,772 - INFO - Expected:
+3
+2025-07-03 12:03:10,772 - INFO - Got:
+4
+2025-07-03 12:03:10,772 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 12:40:37,349 - INFO - Latest problem directory is '겹치는_선분'
+2025-07-03 12:40:38,472 - INFO - Compilation successful.
+2025-07-03 12:40:38,472 - INFO - Using time limit: 2000 ms and memory limit: 256 MB
+2025-07-03 12:40:39,666 - INFO - Test 1: Failed
+2025-07-03 12:40:39,667 - INFO - Time: 1.193 seconds
+2025-07-03 12:40:39,667 - INFO - Memory: 4.781 MB
+2025-07-03 12:40:39,667 - INFO - Expected:
+3
+2025-07-03 12:40:39,667 - INFO - Got:
+0
+2025-07-03 12:40:39,667 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 12:40:45,561 - INFO - Latest problem directory is '겹치는_선분'
+2025-07-03 12:40:46,714 - INFO - Compilation successful.
+2025-07-03 12:40:46,714 - INFO - Using time limit: 2000 ms and memory limit: 256 MB
+2025-07-03 12:40:47,641 - INFO - Test 1: Failed
+2025-07-03 12:40:47,641 - INFO - Time: 0.926 seconds
+2025-07-03 12:40:47,641 - INFO - Memory: 4.781 MB
+2025-07-03 12:40:47,641 - INFO - Expected:
+3
+2025-07-03 12:40:47,641 - INFO - Got:
+5
+2025-07-03 12:40:47,641 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 12:42:23,871 - INFO - Latest problem directory is '겹치는_선분'
+2025-07-03 12:42:24,976 - INFO - Compilation successful.
+2025-07-03 12:42:24,976 - INFO - Using time limit: 2000 ms and memory limit: 256 MB
+2025-07-03 12:42:25,961 - INFO - Test 1: Failed
+2025-07-03 12:42:25,961 - INFO - Time: 0.983 seconds
+2025-07-03 12:42:25,961 - INFO - Memory: 4.781 MB
+2025-07-03 12:42:25,961 - INFO - Expected:
+3
+2025-07-03 12:42:25,961 - INFO - Got:
+2
+2025-07-03 12:42:25,962 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 13:18:25,681 - INFO - Latest problem directory is '겹치는_선분'
+2025-07-03 13:18:26,840 - INFO - Compilation successful.
+2025-07-03 13:18:26,842 - INFO - Using time limit: 2000 ms and memory limit: 256 MB
+2025-07-03 13:18:27,975 - INFO - Test 1: Failed
+2025-07-03 13:18:27,976 - INFO - Time: 1.133 seconds
+2025-07-03 13:18:27,976 - INFO - Memory: 4.781 MB
+2025-07-03 13:18:27,976 - INFO - Expected:
+3
+2025-07-03 13:18:27,976 - INFO - Got:
+2
+2025-07-03 13:18:27,976 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 13:20:16,420 - INFO - Latest problem directory is '겹치는_선분'
+2025-07-03 13:20:17,489 - INFO - Compilation successful.
+2025-07-03 13:20:17,490 - INFO - Using time limit: 2000 ms and memory limit: 256 MB
+2025-07-03 13:20:18,530 - INFO - Test 1: Passed
+2025-07-03 13:20:18,530 - INFO - Time: 1.038 seconds
+2025-07-03 13:20:18,530 - INFO - Memory: 4.750 MB
+2025-07-03 13:20:18,530 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-07-03 13:42:29,949 - INFO - Latest problem directory is '제로'
+2025-07-03 13:42:30,953 - INFO - Compilation successful.
+2025-07-03 13:42:30,954 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 13:42:32,057 - INFO - Test 1: Passed
+2025-07-03 13:42:32,057 - INFO - Time: 1.102 seconds
+2025-07-03 13:42:32,057 - INFO - Memory: 4.762 MB
+2025-07-03 13:42:32,071 - INFO - Test 2: Passed
+2025-07-03 13:42:32,071 - INFO - Time: 0.014 seconds
+2025-07-03 13:42:32,071 - INFO - Memory: 4.758 MB
+2025-07-03 13:42:32,072 - INFO - [96m
+Summary: Passed 2 out of 2 tests.[0m
+2025-07-03 14:37:48,119 - INFO - Latest problem directory is '오큰수'
+2025-07-03 14:37:48,872 - ERROR - Compilation failed.
+2025-07-03 14:38:08,071 - INFO - Latest problem directory is '오큰수'
+2025-07-03 14:38:09,519 - INFO - Compilation successful.
+2025-07-03 14:38:09,521 - INFO - Using time limit: 1000 ms and memory limit: 512 MB
+2025-07-03 14:38:10,753 - INFO - Test 1: Failed
+2025-07-03 14:38:10,753 - INFO - Time: 1.231 seconds
+2025-07-03 14:38:10,753 - INFO - Memory: 4.758 MB
+2025-07-03 14:38:10,753 - INFO - Expected:
+5 7 7 -1
+2025-07-03 14:38:10,753 - INFO - Got:
+5 7 7 0
+2025-07-03 14:38:11,766 - WARNING - Test 2: Time Limit Exceeded
+2025-07-03 14:38:11,767 - INFO - Time: 1.012 seconds
+2025-07-03 14:38:11,770 - INFO - [96m
+Summary: Passed 0 out of 2 tests.[0m
+2025-07-03 14:39:08,819 - INFO - Latest problem directory is '오큰수'
+2025-07-03 14:39:09,875 - INFO - Compilation successful.
+2025-07-03 14:39:09,876 - INFO - Using time limit: 1000 ms and memory limit: 512 MB
+2025-07-03 14:39:10,616 - INFO - Test 1: Failed
+2025-07-03 14:39:10,616 - INFO - Time: 0.740 seconds
+2025-07-03 14:39:10,616 - INFO - Memory: 4.750 MB
+2025-07-03 14:39:10,616 - INFO - Expected:
+5 7 7 -1
+2025-07-03 14:39:10,616 - INFO - Got:
+5 7 7 0
+2025-07-03 14:39:10,629 - INFO - Test 2: Failed
+2025-07-03 14:39:10,629 - INFO - Time: 0.013 seconds
+2025-07-03 14:39:10,629 - INFO - Memory: 4.758 MB
+2025-07-03 14:39:10,629 - INFO - Expected:
+-1 8 8 -1
+2025-07-03 14:39:10,629 - INFO - Got:
+-1 8 8 0
+2025-07-03 14:39:10,630 - INFO - [96m
+Summary: Passed 0 out of 2 tests.[0m
+2025-07-03 14:39:28,261 - INFO - Latest problem directory is '오큰수'
+2025-07-03 14:39:29,278 - INFO - Compilation successful.
+2025-07-03 14:39:29,278 - INFO - Using time limit: 1000 ms and memory limit: 512 MB
+2025-07-03 14:39:30,218 - INFO - Test 1: Passed
+2025-07-03 14:39:30,218 - INFO - Time: 0.938 seconds
+2025-07-03 14:39:30,218 - INFO - Memory: 4.762 MB
+2025-07-03 14:39:30,230 - INFO - Test 2: Passed
+2025-07-03 14:39:30,230 - INFO - Time: 0.012 seconds
+2025-07-03 14:39:30,230 - INFO - Memory: 4.758 MB
+2025-07-03 14:39:30,230 - INFO - [96m
+Summary: Passed 2 out of 2 tests.[0m
+2025-07-03 16:24:36,830 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 16:24:38,546 - INFO - Compilation successful.
+2025-07-03 16:24:38,547 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 16:24:40,032 - INFO - Test 1: Failed
+2025-07-03 16:24:40,032 - INFO - Time: 1.482 seconds
+2025-07-03 16:24:40,032 - INFO - Memory: 4.781 MB
+2025-07-03 16:24:40,032 - INFO - Expected:
+8
+4000
+2025-07-03 16:24:40,032 - INFO - Got:
+620000
+2025-07-03 16:24:40,033 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 16:24:50,228 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 16:24:51,322 - INFO - Compilation successful.
+2025-07-03 16:24:51,323 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 16:24:52,025 - INFO - Test 1: Failed
+2025-07-03 16:24:52,025 - INFO - Time: 0.701 seconds
+2025-07-03 16:24:52,025 - INFO - Memory: 4.777 MB
+2025-07-03 16:24:52,026 - INFO - Expected:
+8
+4000
+2025-07-03 16:24:52,026 - INFO - Got:
+6
+2000
+0
+2025-07-03 16:24:52,026 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 16:27:47,111 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 16:27:48,191 - INFO - Compilation successful.
+2025-07-03 16:27:48,191 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 16:27:49,239 - INFO - Test 1: Failed
+2025-07-03 16:27:49,240 - INFO - Time: 1.048 seconds
+2025-07-03 16:27:49,240 - INFO - Memory: 4.781 MB
+2025-07-03 16:27:49,240 - INFO - Expected:
+8
+4000
+2025-07-03 16:27:49,240 - INFO - Got:
+5
+1000
+0
+2025-07-03 16:27:49,240 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 16:33:24,491 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 16:33:25,638 - INFO - Compilation successful.
+2025-07-03 16:33:25,638 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 16:33:26,865 - INFO - Test 1: Failed
+2025-07-03 16:33:26,865 - INFO - Time: 1.226 seconds
+2025-07-03 16:33:26,866 - INFO - Memory: 4.781 MB
+2025-07-03 16:33:26,866 - INFO - Expected:
+8
+4000
+2025-07-03 16:33:26,866 - INFO - Got:
+3
+1000
+0
+2025-07-03 16:33:26,866 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 16:33:31,073 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 16:33:32,243 - INFO - Compilation successful.
+2025-07-03 16:33:32,244 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 16:33:33,226 - INFO - Test 1: Failed
+2025-07-03 16:33:33,226 - INFO - Time: 0.981 seconds
+2025-07-03 16:33:33,226 - INFO - Memory: 4.781 MB
+2025-07-03 16:33:33,226 - INFO - Expected:
+8
+4000
+2025-07-03 16:33:33,226 - INFO - Got:
+6
+2000
+0
+2025-07-03 16:33:33,226 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 16:39:31,201 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 16:39:32,306 - INFO - Compilation successful.
+2025-07-03 16:39:32,306 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 16:39:33,349 - INFO - Test 1: Failed
+2025-07-03 16:39:33,349 - INFO - Time: 1.041 seconds
+2025-07-03 16:39:33,349 - INFO - Memory: 4.781 MB
+2025-07-03 16:39:33,349 - INFO - Expected:
+8
+4000
+2025-07-03 16:39:33,350 - INFO - Got:
+8
+1000
+0
+2025-07-03 16:39:33,350 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 16:42:37,151 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 16:42:38,195 - INFO - Compilation successful.
+2025-07-03 16:42:38,197 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 16:42:39,438 - INFO - Test 1: Failed
+2025-07-03 16:42:39,438 - INFO - Time: 1.240 seconds
+2025-07-03 16:42:39,438 - INFO - Memory: 4.785 MB
+2025-07-03 16:42:39,438 - INFO - Expected:
+8
+4000
+2025-07-03 16:42:39,438 - INFO - Got:
+8
+1000
+0
+2025-07-03 16:42:39,439 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 16:44:00,817 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 16:44:01,871 - INFO - Compilation successful.
+2025-07-03 16:44:01,871 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 16:44:03,010 - INFO - Test 1: Failed
+2025-07-03 16:44:03,010 - INFO - Time: 1.139 seconds
+2025-07-03 16:44:03,010 - INFO - Memory: 4.781 MB
+2025-07-03 16:44:03,010 - INFO - Expected:
+8
+4000
+2025-07-03 16:44:03,010 - INFO - Got:
+8
+1000
+0
+2025-07-03 16:44:03,011 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 16:45:09,133 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 16:45:10,295 - INFO - Compilation successful.
+2025-07-03 16:45:10,295 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 16:45:11,363 - INFO - Test 1: Failed
+2025-07-03 16:45:11,363 - INFO - Time: 1.068 seconds
+2025-07-03 16:45:11,363 - INFO - Memory: 4.781 MB
+2025-07-03 16:45:11,364 - INFO - Expected:
+8
+4000
+2025-07-03 16:45:11,364 - INFO - Got:
+8
+1000
+2025-07-03 16:45:11,364 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 16:47:24,110 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 16:47:25,318 - INFO - Compilation successful.
+2025-07-03 16:47:25,318 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 16:47:26,545 - INFO - Test 1: Passed
+2025-07-03 16:47:26,545 - INFO - Time: 1.227 seconds
+2025-07-03 16:47:26,545 - INFO - Memory: 4.777 MB
+2025-07-03 16:47:26,545 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-07-03 16:49:04,140 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 16:49:05,426 - INFO - Compilation successful.
+2025-07-03 16:49:05,426 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 16:49:06,634 - INFO - Test 1: Passed
+2025-07-03 16:49:06,634 - INFO - Time: 1.206 seconds
+2025-07-03 16:49:06,634 - INFO - Memory: 4.777 MB
+2025-07-03 16:49:06,634 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-07-03 16:50:33,398 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 16:50:34,024 - ERROR - Compilation failed.
+2025-07-03 16:50:41,272 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 16:50:42,507 - INFO - Compilation successful.
+2025-07-03 16:50:42,508 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 16:50:44,721 - WARNING - Test 1: Time Limit Exceeded
+2025-07-03 16:50:44,721 - INFO - Time: 2.213 seconds
+2025-07-03 16:50:44,728 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 16:51:09,824 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 16:51:11,094 - INFO - Compilation successful.
+2025-07-03 16:51:11,095 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 16:51:12,011 - INFO - Test 1: Passed
+2025-07-03 16:51:12,011 - INFO - Time: 0.915 seconds
+2025-07-03 16:51:12,011 - INFO - Memory: 4.777 MB
+2025-07-03 16:51:12,011 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-07-03 17:00:41,043 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 17:00:42,156 - INFO - Compilation successful.
+2025-07-03 17:00:42,157 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 17:00:43,215 - INFO - Test 1: Failed
+2025-07-03 17:00:43,215 - INFO - Time: 1.057 seconds
+2025-07-03 17:00:43,215 - INFO - Memory: 4.777 MB
+2025-07-03 17:00:43,215 - INFO - Expected:
+8
+4000
+2025-07-03 17:00:43,215 - INFO - Got:
+8
+1001
+2025-07-03 17:00:43,215 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 17:01:35,586 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 17:01:36,758 - INFO - Compilation successful.
+2025-07-03 17:01:36,759 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 17:01:37,479 - INFO - Test 1: Failed
+2025-07-03 17:01:37,480 - INFO - Time: 0.720 seconds
+2025-07-03 17:01:37,480 - INFO - Memory: 4.781 MB
+2025-07-03 17:01:37,480 - INFO - Expected:
+8
+4000
+2025-07-03 17:01:37,480 - INFO - Got:
+8
+2000
+2025-07-03 17:01:37,480 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 17:17:48,189 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 17:17:49,566 - INFO - Compilation successful.
+2025-07-03 17:17:49,567 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 17:17:50,645 - INFO - Test 1: Passed
+2025-07-03 17:17:50,645 - INFO - Time: 1.077 seconds
+2025-07-03 17:17:50,645 - INFO - Memory: 4.781 MB
+2025-07-03 17:17:50,645 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-07-03 17:27:35,142 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 17:27:36,376 - INFO - Compilation successful.
+2025-07-03 17:27:36,377 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 17:27:38,516 - WARNING - Test 1: Time Limit Exceeded
+2025-07-03 17:27:38,517 - INFO - Time: 2.139 seconds
+2025-07-03 17:27:38,887 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 17:37:11,992 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 17:37:13,142 - INFO - Compilation successful.
+2025-07-03 17:37:13,143 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 17:37:15,000 - WARNING - Test 1: Time Limit Exceeded
+2025-07-03 17:37:15,000 - INFO - Time: 1.857 seconds
+2025-07-03 17:37:15,220 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 17:37:56,185 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 17:37:57,451 - INFO - Compilation successful.
+2025-07-03 17:37:57,451 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 17:37:58,399 - INFO - Test 1: Passed
+2025-07-03 17:37:58,399 - INFO - Time: 0.945 seconds
+2025-07-03 17:37:58,400 - INFO - Memory: 4.820 MB
+2025-07-03 17:37:58,400 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-07-03 17:38:22,052 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 17:38:23,208 - INFO - Compilation successful.
+2025-07-03 17:38:23,209 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 17:38:25,116 - WARNING - Test 1: Time Limit Exceeded
+2025-07-03 17:38:25,116 - INFO - Time: 1.906 seconds
+2025-07-03 17:38:25,152 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 17:41:52,107 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 17:41:53,314 - INFO - Compilation successful.
+2025-07-03 17:41:53,314 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 17:41:55,540 - WARNING - Test 1: Time Limit Exceeded
+2025-07-03 17:41:55,540 - INFO - Time: 2.225 seconds
+2025-07-03 17:41:55,672 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 17:42:03,276 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 17:42:04,455 - INFO - Compilation successful.
+2025-07-03 17:42:04,455 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 17:42:05,449 - INFO - Test 1: Failed
+2025-07-03 17:42:05,449 - INFO - Time: 0.992 seconds
+2025-07-03 17:42:05,449 - INFO - Memory: 4.781 MB
+2025-07-03 17:42:05,449 - INFO - Expected:
+8
+4000
+2025-07-03 17:42:05,449 - INFO - Got:
+8
+0
+2025-07-03 17:42:05,449 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 17:42:49,268 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 17:42:49,866 - ERROR - Compilation failed.
+2025-07-03 17:44:02,645 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 17:44:03,822 - INFO - Compilation successful.
+2025-07-03 17:44:03,823 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 17:44:04,980 - INFO - Test 1: Failed
+2025-07-03 17:44:04,980 - INFO - Time: 1.157 seconds
+2025-07-03 17:44:04,980 - INFO - Memory: 4.781 MB
+2025-07-03 17:44:04,980 - INFO - Expected:
+8
+4000
+2025-07-03 17:44:04,980 - INFO - Got:
+30
+4000
+2025-07-03 17:44:04,981 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 17:44:39,266 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 17:44:40,455 - INFO - Compilation successful.
+2025-07-03 17:44:40,455 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 17:44:41,383 - INFO - Test 1: Failed
+2025-07-03 17:44:41,383 - INFO - Time: 0.926 seconds
+2025-07-03 17:44:41,383 - INFO - Memory: 4.785 MB
+2025-07-03 17:44:41,383 - INFO - Expected:
+8
+4000
+2025-07-03 17:44:41,383 - INFO - Got:
+30
+4000
+2025-07-03 17:44:41,384 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 17:46:39,481 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 17:46:40,551 - INFO - Compilation successful.
+2025-07-03 17:46:40,551 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 17:46:42,672 - WARNING - Test 1: Time Limit Exceeded
+2025-07-03 17:46:42,673 - INFO - Time: 2.120 seconds
+2025-07-03 17:46:42,675 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 17:46:57,368 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 17:46:58,422 - INFO - Compilation successful.
+2025-07-03 17:46:58,423 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 17:47:00,347 - WARNING - Test 1: Time Limit Exceeded
+2025-07-03 17:47:00,347 - INFO - Time: 1.923 seconds
+2025-07-03 17:47:00,356 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 17:47:38,585 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 17:47:39,618 - INFO - Compilation successful.
+2025-07-03 17:47:39,618 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 17:47:40,564 - INFO - Test 1: Failed
+2025-07-03 17:47:40,564 - INFO - Time: 0.946 seconds
+2025-07-03 17:47:40,564 - INFO - Memory: 4.781 MB
+2025-07-03 17:47:40,564 - INFO - Expected:
+8
+4000
+2025-07-03 17:47:40,564 - INFO - Got:
+30
+4000
+2025-07-03 17:47:40,564 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 17:54:18,663 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 17:54:19,933 - INFO - Compilation successful.
+2025-07-03 17:54:19,933 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 17:54:21,188 - INFO - Test 1: Failed
+2025-07-03 17:54:21,188 - INFO - Time: 1.254 seconds
+2025-07-03 17:54:21,188 - INFO - Memory: 4.781 MB
+2025-07-03 17:54:21,189 - INFO - Expected:
+8
+4000
+2025-07-03 17:54:21,189 - INFO - Got:
+30
+4000
+2025-07-03 17:54:21,189 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 18:02:57,000 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 18:02:58,068 - INFO - Compilation successful.
+2025-07-03 18:02:58,069 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 18:02:59,043 - INFO - Test 1: Failed
+2025-07-03 18:02:59,043 - INFO - Time: 0.973 seconds
+2025-07-03 18:02:59,043 - INFO - Memory: 4.789 MB
+2025-07-03 18:02:59,043 - INFO - Expected:
+8
+4000
+2025-07-03 18:02:59,043 - INFO - Got:
+prev_length:1prev_length:3prev_length:4prev_length:5prev_length:8prev_length:9prev_length:1030
+prev_length:1prev_length:2prev_length:3prev_length:44000
+2025-07-03 18:02:59,043 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 18:03:01,205 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 18:03:02,187 - INFO - Compilation successful.
+2025-07-03 18:03:02,188 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 18:03:03,069 - INFO - Test 1: Failed
+2025-07-03 18:03:03,069 - INFO - Time: 0.879 seconds
+2025-07-03 18:03:03,069 - INFO - Memory: 4.793 MB
+2025-07-03 18:03:03,069 - INFO - Expected:
+8
+4000
+2025-07-03 18:03:03,069 - INFO - Got:
+prev_length:1
+prev_length:3
+prev_length:4
+prev_length:5
+prev_length:8
+prev_length:9
+prev_length:10
+30
+prev_length:1
+prev_length:2
+prev_length:3
+prev_length:4
+4000
+2025-07-03 18:03:03,069 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 18:04:33,411 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 18:04:34,564 - INFO - Compilation successful.
+2025-07-03 18:04:34,565 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 18:04:35,770 - INFO - Test 1: Failed
+2025-07-03 18:04:35,770 - INFO - Time: 1.204 seconds
+2025-07-03 18:04:35,770 - INFO - Memory: 4.785 MB
+2025-07-03 18:04:35,770 - INFO - Expected:
+8
+4000
+2025-07-03 18:04:35,770 - INFO - Got:
+prev_length:0
+prev_length:1
+prev_length:3
+prev_length:4
+prev_length:5
+prev_length:8
+prev_length:9
+30
+prev_length:0
+prev_length:1
+prev_length:2
+prev_length:3
+4000
+2025-07-03 18:04:35,770 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 18:05:54,756 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 18:05:55,830 - INFO - Compilation successful.
+2025-07-03 18:05:55,831 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 18:05:56,853 - INFO - Test 1: Failed
+2025-07-03 18:05:56,853 - INFO - Time: 1.021 seconds
+2025-07-03 18:05:56,853 - INFO - Memory: 4.789 MB
+2025-07-03 18:05:56,853 - INFO - Expected:
+8
+4000
+2025-07-03 18:05:56,853 - INFO - Got:
+prev_length:0
+prev_length:0
+prev_length:1
+prev_length:2
+prev_length:5
+prev_length:6
+prev_length:7
+21
+prev_length:0
+prev_length:1
+prev_length:2
+prev_length:3
+3000
+2025-07-03 18:05:56,853 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 18:22:57,039 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 18:22:58,202 - INFO - Compilation successful.
+2025-07-03 18:22:58,202 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 18:22:59,416 - INFO - Test 1: Failed
+2025-07-03 18:22:59,416 - INFO - Time: 1.211 seconds
+2025-07-03 18:22:59,416 - INFO - Memory: 4.777 MB
+2025-07-03 18:22:59,416 - INFO - Expected:
+8
+4000
+2025-07-03 18:22:59,416 - INFO - Got:
+21
+4000
+2025-07-03 18:22:59,416 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 18:24:51,581 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 18:24:52,716 - INFO - Compilation successful.
+2025-07-03 18:24:52,717 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 18:24:53,923 - INFO - Test 1: Failed
+2025-07-03 18:24:53,923 - INFO - Time: 1.205 seconds
+2025-07-03 18:24:53,923 - INFO - Memory: 4.785 MB
+2025-07-03 18:24:53,923 - INFO - Expected:
+8
+4000
+2025-07-03 18:24:53,923 - INFO - Got:
+16
+1000
+2025-07-03 18:24:53,923 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 18:25:50,159 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 18:25:51,323 - INFO - Compilation successful.
+2025-07-03 18:25:51,324 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 18:25:52,284 - INFO - Test 1: Failed
+2025-07-03 18:25:52,285 - INFO - Time: 0.961 seconds
+2025-07-03 18:25:52,285 - INFO - Memory: 4.781 MB
+2025-07-03 18:25:52,285 - INFO - Expected:
+8
+4000
+2025-07-03 18:25:52,285 - INFO - Got:
+area:4
+area:10
+area:12
+21
+4000
+2025-07-03 18:25:52,285 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 18:27:30,973 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 18:27:32,055 - INFO - Compilation successful.
+2025-07-03 18:27:32,055 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 18:27:33,143 - INFO - Test 1: Failed
+2025-07-03 18:27:33,143 - INFO - Time: 1.086 seconds
+2025-07-03 18:27:33,143 - INFO - Memory: 4.789 MB
+2025-07-03 18:27:33,143 - INFO - Expected:
+8
+4000
+2025-07-03 18:27:33,143 - INFO - Got:
+area:2
+area:5
+area:8
+21
+4000
+2025-07-03 18:27:33,143 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 18:29:33,863 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 18:29:35,105 - INFO - Compilation successful.
+2025-07-03 18:29:35,105 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 18:29:36,217 - INFO - Test 1: Failed
+2025-07-03 18:29:36,217 - INFO - Time: 1.109 seconds
+2025-07-03 18:29:36,217 - INFO - Memory: 4.789 MB
+2025-07-03 18:29:36,217 - INFO - Expected:
+8
+4000
+2025-07-03 18:29:36,217 - INFO - Got:
+area:2
+area:5
+area:8
+39
+7000
+2025-07-03 18:29:36,217 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 18:30:24,350 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 18:30:25,518 - INFO - Compilation successful.
+2025-07-03 18:30:25,518 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 18:30:26,623 - INFO - Test 1: Failed
+2025-07-03 18:30:26,623 - INFO - Time: 1.104 seconds
+2025-07-03 18:30:26,623 - INFO - Memory: 4.789 MB
+2025-07-03 18:30:26,623 - INFO - Expected:
+8
+4000
+2025-07-03 18:30:26,623 - INFO - Got:
+area:2
+area:5
+area:8
+21
+4000
+2025-07-03 18:30:26,623 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 18:46:23,916 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 18:46:25,152 - INFO - Compilation successful.
+2025-07-03 18:46:25,152 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 18:46:26,324 - INFO - Test 1: Failed
+2025-07-03 18:46:26,325 - INFO - Time: 1.171 seconds
+2025-07-03 18:46:26,325 - INFO - Memory: 4.789 MB
+2025-07-03 18:46:26,325 - INFO - Expected:
+8
+4000
+2025-07-03 18:46:26,325 - INFO - Got:
+area:5
+area:8
+area:1
+area:3
+9
+2000
+2025-07-03 18:46:26,325 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 18:46:41,940 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 18:46:43,092 - INFO - Compilation successful.
+2025-07-03 18:46:43,093 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 18:46:44,004 - INFO - Test 1: Failed
+2025-07-03 18:46:44,004 - INFO - Time: 0.910 seconds
+2025-07-03 18:46:44,004 - INFO - Memory: 4.785 MB
+2025-07-03 18:46:44,004 - INFO - Expected:
+8
+4000
+2025-07-03 18:46:44,004 - INFO - Got:
+9
+2000
+2025-07-03 18:46:44,004 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 19:01:12,977 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 19:01:14,349 - INFO - Compilation successful.
+2025-07-03 19:01:14,350 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 19:01:15,516 - INFO - Test 1: Failed
+2025-07-03 19:01:15,516 - INFO - Time: 1.165 seconds
+2025-07-03 19:01:15,516 - INFO - Memory: 4.789 MB
+2025-07-03 19:01:15,516 - INFO - Expected:
+8
+4000
+2025-07-03 19:01:15,516 - INFO - Got:
+w:2w:9w:2w:1w:3w:2w:2
+h2h1h4h5h1h3h3
+9
+w:2w:2w:2w:1
+h1000h1000h1000h1000
+2000
+2025-07-03 19:01:15,516 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 19:01:24,044 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 19:01:25,225 - INFO - Compilation successful.
+2025-07-03 19:01:25,226 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 19:01:26,173 - INFO - Test 1: Failed
+2025-07-03 19:01:26,173 - INFO - Time: 0.946 seconds
+2025-07-03 19:01:26,173 - INFO - Memory: 4.789 MB
+2025-07-03 19:01:26,173 - INFO - Expected:
+8
+4000
+2025-07-03 19:01:26,173 - INFO - Got:
+w:2 w:9 w:2 w:1 w:3 w:2 w:2
+ h2 h1 h4 h5 h1 h3 h3
+9
+ w:2 w:2 w:2 w:1
+ h1000 h1000 h1000 h1000
+2000
+2025-07-03 19:01:26,173 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 19:02:22,297 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 19:02:23,574 - INFO - Compilation successful.
+2025-07-03 19:02:23,574 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 19:02:24,477 - INFO - Test 1: Failed
+2025-07-03 19:02:24,477 - INFO - Time: 0.901 seconds
+2025-07-03 19:02:24,477 - INFO - Memory: 4.789 MB
+2025-07-03 19:02:24,477 - INFO - Expected:
+8
+4000
+2025-07-03 19:02:24,477 - INFO - Got:
+w:1 w:6 w:2 w:1 w:4 w:2 w:1
+ h2 h1 h4 h5 h1 h3 h3
+8
+ w:2 w:2 w:2 w:1
+ h1000 h1000 h1000 h1000
+2000
+2025-07-03 19:02:24,477 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 19:03:08,211 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 19:03:09,533 - INFO - Compilation successful.
+2025-07-03 19:03:09,534 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 19:03:10,486 - INFO - Test 1: Failed
+2025-07-03 19:03:10,486 - INFO - Time: 0.951 seconds
+2025-07-03 19:03:10,486 - INFO - Memory: 4.789 MB
+2025-07-03 19:03:10,486 - INFO - Expected:
+8
+4000
+2025-07-03 19:03:10,486 - INFO - Got:
+w:1 w:6 w:2 w:1 w:4 w:2 w:1
+ h2 h1 h4 h5 h1 h3 h3
+8
+ w:2 w:2 w:2 w:1
+ h1000 h1000 h1000 h1000
+2000
+2025-07-03 19:03:10,486 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 19:06:46,333 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 19:06:47,589 - INFO - Compilation successful.
+2025-07-03 19:06:47,589 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 19:06:48,820 - INFO - Test 1: Failed
+2025-07-03 19:06:48,820 - INFO - Time: 1.229 seconds
+2025-07-03 19:06:48,820 - INFO - Memory: 4.781 MB
+2025-07-03 19:06:48,820 - INFO - Expected:
+8
+4000
+2025-07-03 19:06:48,820 - INFO - Got:
+w:1 w:9 w:2 w:1 w:7 w:3 w:2
+ h2 h1 h4 h5 h1 h3 h3
+9
+ w:3 w:5 w:7 w:4
+ h1000 h1000 h1000 h1000
+7000
+2025-07-03 19:06:48,821 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 19:07:16,989 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 19:07:18,306 - INFO - Compilation successful.
+2025-07-03 19:07:18,307 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 19:07:19,282 - INFO - Test 1: Failed
+2025-07-03 19:07:19,282 - INFO - Time: 0.973 seconds
+2025-07-03 19:07:19,282 - INFO - Memory: 4.789 MB
+2025-07-03 19:07:19,282 - INFO - Expected:
+8
+4000
+2025-07-03 19:07:19,282 - INFO - Got:
+w:1 w:3 w:2 w:1 w:7 w:1 w:2
+ h2 h1 h4 h5 h1 h3 h3
+8
+ w:1 w:2 w:3 w:4
+ h1000 h1000 h1000 h1000
+4000
+2025-07-03 19:07:19,283 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 19:07:27,880 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 19:07:29,061 - INFO - Compilation successful.
+2025-07-03 19:07:29,061 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 19:07:30,048 - INFO - Test 1: Passed
+2025-07-03 19:07:30,048 - INFO - Time: 0.984 seconds
+2025-07-03 19:07:30,048 - INFO - Memory: 4.781 MB
+2025-07-03 19:07:30,048 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-07-03 19:07:54,709 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 19:07:56,053 - INFO - Compilation successful.
+2025-07-03 19:07:56,053 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 19:07:56,880 - INFO - Test 1: Failed
+2025-07-03 19:07:56,880 - INFO - Time: 0.827 seconds
+2025-07-03 19:07:56,880 - INFO - Memory: 4.789 MB
+2025-07-03 19:07:56,880 - INFO - Expected:
+8
+4000
+2025-07-03 19:07:56,880 - INFO - Got:
+w:1 w:3 w:2 w:1 w:7 w:1 w:2
+ h2 h1 h4 h5 h1 h3 h3
+8
+ w:1 w:2 w:3 w:4
+ h1000 h1000 h1000 h1000
+4000
+2025-07-03 19:07:56,880 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 19:08:57,562 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 19:08:58,735 - INFO - Compilation successful.
+2025-07-03 19:08:58,736 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 19:08:59,964 - INFO - Test 1: Failed
+2025-07-03 19:08:59,964 - INFO - Time: 1.228 seconds
+2025-07-03 19:08:59,964 - INFO - Memory: 4.785 MB
+2025-07-03 19:08:59,964 - INFO - Expected:
+8
+4000
+2025-07-03 19:08:59,964 - INFO - Got:
+w:0 w:1 w:2 w:1 w:5 w:1 w:2
+ h2 h1 h4 h5 h1 h3 h3
+8
+ w:0 w:1 w:2 w:3
+ h1000 h1000 h1000 h1000
+3000
+2025-07-03 19:08:59,964 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 19:10:33,801 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 19:10:36,635 - INFO - Compilation successful.
+2025-07-03 19:10:36,636 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 19:10:37,787 - INFO - Test 1: Failed
+2025-07-03 19:10:37,787 - INFO - Time: 1.150 seconds
+2025-07-03 19:10:37,788 - INFO - Memory: 4.785 MB
+2025-07-03 19:10:37,788 - INFO - Expected:
+8
+4000
+2025-07-03 19:10:37,788 - INFO - Got:
+w:0 w:1 w:2 w:1 w:5 w:1 w:2
+ h:2 h:1 h:4 h:5 h:1 h:3 h:3
+8
+ w:0 w:1 w:2 w:3
+ h:1000 h:1000 h:1000 h:1000
+3000
+2025-07-03 19:10:37,788 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 19:12:05,898 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 19:12:07,080 - INFO - Compilation successful.
+2025-07-03 19:12:07,080 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 19:12:08,197 - INFO - Test 1: Failed
+2025-07-03 19:12:08,197 - INFO - Time: 1.115 seconds
+2025-07-03 19:12:08,197 - INFO - Memory: 4.789 MB
+2025-07-03 19:12:08,197 - INFO - Expected:
+8
+4000
+2025-07-03 19:12:08,197 - INFO - Got:
+w:1 w:6 w:2 w:1 w:10 w:2 w:3
+ h:2 h:1 h:4 h:5 h:1 h:3 h:3
+10
+ w:2 w:4 w:6 w:7
+ h:1000 h:1000 h:1000 h:1000
+7000
+2025-07-03 19:12:08,198 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 19:13:25,421 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 19:13:26,630 - INFO - Compilation successful.
+2025-07-03 19:13:26,630 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 19:13:27,983 - INFO - Test 1: Failed
+2025-07-03 19:13:27,983 - INFO - Time: 1.351 seconds
+2025-07-03 19:13:27,983 - INFO - Memory: 4.785 MB
+2025-07-03 19:13:27,983 - INFO - Expected:
+8
+4000
+2025-07-03 19:13:27,983 - INFO - Got:
+w:1 w:6 w:2 w:1 w:7 w:2 w:2
+ h:2 h:1 h:4 h:5 h:1 h:3 h:3
+8
+ w:2 w:3 w:4 w:4
+ h:1000 h:1000 h:1000 h:1000
+4000
+2025-07-03 19:13:27,984 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 19:14:03,204 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 19:14:04,534 - INFO - Compilation successful.
+2025-07-03 19:14:04,535 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 19:14:05,551 - INFO - Test 1: Passed
+2025-07-03 19:14:05,551 - INFO - Time: 1.013 seconds
+2025-07-03 19:14:05,551 - INFO - Memory: 4.785 MB
+2025-07-03 19:14:05,552 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-07-03 19:14:30,879 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 19:14:32,135 - INFO - Compilation successful.
+2025-07-03 19:14:32,136 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 19:14:33,123 - INFO - Test 1: Failed
+2025-07-03 19:14:33,124 - INFO - Time: 0.987 seconds
+2025-07-03 19:14:33,124 - INFO - Memory: 4.789 MB
+2025-07-03 19:14:33,124 - INFO - Expected:
+8
+4000
+2025-07-03 19:14:33,124 - INFO - Got:
+w:1 w:6 w:2 w:1 w:7 w:2 w:2
+ h:2 h:1 h:4 h:5 h:1 h:3 h:3
+8
+ w:2 w:3 w:4 w:4
+ h:1000 h:1000 h:1000 h:1000
+4000
+2025-07-03 19:14:33,124 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 19:18:19,498 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 19:18:20,761 - INFO - Compilation successful.
+2025-07-03 19:18:20,761 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 19:18:22,122 - INFO - Test 1: Failed
+2025-07-03 19:18:22,122 - INFO - Time: 1.360 seconds
+2025-07-03 19:18:22,122 - INFO - Memory: 4.785 MB
+2025-07-03 19:18:22,123 - INFO - Expected:
+8
+4000
+2025-07-03 19:18:22,123 - INFO - Got:
+width:1 width:2 width:1 width:1 width:3 width:1 width:1 
+8
+width:1 width:1 width:1 width:1 
+4000
+2025-07-03 19:18:22,123 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 19:20:52,359 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 19:20:53,449 - INFO - Compilation successful.
+2025-07-03 19:20:53,449 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 19:20:54,630 - INFO - Test 1: Failed
+2025-07-03 19:20:54,630 - INFO - Time: 1.179 seconds
+2025-07-03 19:20:54,630 - INFO - Memory: 4.781 MB
+2025-07-03 19:20:54,630 - INFO - Expected:
+8
+4000
+2025-07-03 19:20:54,630 - INFO - Got:
+width:1 width:2 width:1 width:1 width:3 width:1 width:1 
+8
+width:1 width:1 width:1 width:1 
+4000
+2025-07-03 19:20:54,630 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 19:25:13,848 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 19:25:15,092 - INFO - Compilation successful.
+2025-07-03 19:25:15,093 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 19:25:16,286 - INFO - Test 1: Failed
+2025-07-03 19:25:16,286 - INFO - Time: 1.193 seconds
+2025-07-03 19:25:16,286 - INFO - Memory: 4.789 MB
+2025-07-03 19:25:16,286 - INFO - Expected:
+8
+4000
+2025-07-03 19:25:16,286 - INFO - Got:
+width:1 width:2 width:1 width:1 width:3 width:1 width:1 
+8
+width:1 width:1 width:1 width:1 
+4000
+2025-07-03 19:25:16,288 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 19:25:37,874 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 19:25:39,041 - INFO - Compilation successful.
+2025-07-03 19:25:39,041 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 19:25:39,963 - INFO - Test 1: Failed
+2025-07-03 19:25:39,963 - INFO - Time: 0.919 seconds
+2025-07-03 19:25:39,963 - INFO - Memory: 4.789 MB
+2025-07-03 19:25:39,963 - INFO - Expected:
+8
+4000
+2025-07-03 19:25:39,963 - INFO - Got:
+width:1 width:2 width:1 width:1 width:5 width:1 width:2 
+8
+width:1 width:2 width:3 width:4 
+4000
+2025-07-03 19:25:39,963 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 19:26:01,063 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 19:26:02,548 - INFO - Compilation successful.
+2025-07-03 19:26:02,549 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 19:26:03,527 - INFO - Test 1: Failed
+2025-07-03 19:26:03,527 - INFO - Time: 0.977 seconds
+2025-07-03 19:26:03,527 - INFO - Memory: 4.781 MB
+2025-07-03 19:26:03,527 - INFO - Expected:
+8
+4000
+2025-07-03 19:26:03,527 - INFO - Got:
+8
+
+4000
+2025-07-03 19:26:03,527 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 19:26:14,371 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 19:26:15,451 - INFO - Compilation successful.
+2025-07-03 19:26:15,451 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 19:26:16,241 - INFO - Test 1: Passed
+2025-07-03 19:26:16,241 - INFO - Time: 0.788 seconds
+2025-07-03 19:26:16,241 - INFO - Memory: 4.785 MB
+2025-07-03 19:26:16,241 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-07-03 19:26:34,723 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 19:26:35,911 - INFO - Compilation successful.
+2025-07-03 19:26:35,911 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 19:26:36,583 - INFO - Test 1: Failed
+2025-07-03 19:26:36,584 - INFO - Time: 0.671 seconds
+2025-07-03 19:26:36,584 - INFO - Memory: 4.789 MB
+2025-07-03 19:26:36,584 - INFO - Expected:
+8
+4000
+2025-07-03 19:26:36,584 - INFO - Got:
+w:1 w:2 w:1 w:1 w:5 w:1 w:2
+ h:2 h:1 h:4 h:5 h:1 h:3 h:3
+8
+ w:1 w:2 w:3 w:4
+ h:1000 h:1000 h:1000 h:1000
+4000
+2025-07-03 19:26:36,584 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 19:29:50,737 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 19:29:52,051 - INFO - Compilation successful.
+2025-07-03 19:29:52,052 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 19:29:53,549 - INFO - Test 1: Passed
+2025-07-03 19:29:53,549 - INFO - Time: 1.496 seconds
+2025-07-03 19:29:53,550 - INFO - Memory: 4.793 MB
+2025-07-03 19:29:53,552 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-07-03 19:31:29,882 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 19:31:31,053 - INFO - Compilation successful.
+2025-07-03 19:31:31,054 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 19:31:32,341 - INFO - Test 1: Failed
+2025-07-03 19:31:32,341 - INFO - Time: 1.288 seconds
+2025-07-03 19:31:32,341 - INFO - Memory: 4.797 MB
+2025-07-03 19:31:32,341 - INFO - Expected:
+8
+4000
+2025-07-03 19:31:32,342 - INFO - Got:
+w:1 w:2 w:1 w:1 w:5 w:1 w:2
+ h:2 h:1 h:4 h:5 h:1 h:3 h:3
+8
+ w:1 w:2 w:3 w:4
+ h:1000 h:1000 h:1000 h:1000
+4000
+2025-07-03 19:31:32,342 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 19:33:49,423 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 19:33:50,582 - INFO - Compilation successful.
+2025-07-03 19:33:50,582 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 19:33:52,718 - WARNING - Test 1: Time Limit Exceeded
+2025-07-03 19:33:52,718 - INFO - Time: 2.135 seconds
+2025-07-03 19:33:52,724 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 19:36:05,306 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 19:36:06,575 - INFO - Compilation successful.
+2025-07-03 19:36:06,576 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 19:36:07,992 - INFO - Test 1: Passed
+2025-07-03 19:36:07,992 - INFO - Time: 1.414 seconds
+2025-07-03 19:36:07,992 - INFO - Memory: 4.785 MB
+2025-07-03 19:36:07,993 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-07-03 19:36:12,252 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 19:36:13,417 - INFO - Compilation successful.
+2025-07-03 19:36:13,417 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 19:36:15,401 - WARNING - Test 1: Time Limit Exceeded
+2025-07-03 19:36:15,401 - INFO - Time: 1.983 seconds
+2025-07-03 19:36:15,406 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 19:41:33,700 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 19:41:35,092 - INFO - Compilation successful.
+2025-07-03 19:41:35,093 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 19:41:37,191 - WARNING - Test 1: Time Limit Exceeded
+2025-07-03 19:41:37,191 - INFO - Time: 2.097 seconds
+2025-07-03 19:41:37,194 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 19:43:16,721 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 19:43:17,988 - INFO - Compilation successful.
+2025-07-03 19:43:17,988 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 19:43:19,976 - WARNING - Test 1: Time Limit Exceeded
+2025-07-03 19:43:19,976 - INFO - Time: 1.987 seconds
+2025-07-03 19:43:19,981 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 19:44:21,697 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 19:44:22,877 - INFO - Compilation successful.
+2025-07-03 19:44:22,879 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 19:44:24,080 - INFO - Test 1: Passed
+2025-07-03 19:44:24,080 - INFO - Time: 1.198 seconds
+2025-07-03 19:44:24,080 - INFO - Memory: 4.785 MB
+2025-07-03 19:44:24,080 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-07-03 19:44:30,363 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 19:44:31,638 - INFO - Compilation successful.
+2025-07-03 19:44:31,638 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 19:44:33,384 - WARNING - Test 1: Time Limit Exceeded
+2025-07-03 19:44:33,384 - INFO - Time: 1.746 seconds
+2025-07-03 19:44:33,387 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 19:48:15,377 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 19:48:16,629 - INFO - Compilation successful.
+2025-07-03 19:48:16,629 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 19:48:18,634 - WARNING - Test 1: Time Limit Exceeded
+2025-07-03 19:48:18,634 - INFO - Time: 2.004 seconds
+2025-07-03 19:48:18,646 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 19:48:22,013 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 19:48:23,234 - INFO - Compilation successful.
+2025-07-03 19:48:23,235 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 19:48:25,099 - WARNING - Test 1: Time Limit Exceeded
+2025-07-03 19:48:25,099 - INFO - Time: 1.864 seconds
+2025-07-03 19:48:25,106 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 19:49:26,769 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 19:49:27,790 - INFO - Compilation successful.
+2025-07-03 19:49:27,790 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 19:49:29,799 - WARNING - Test 1: Time Limit Exceeded
+2025-07-03 19:49:29,799 - INFO - Time: 2.008 seconds
+2025-07-03 19:49:29,889 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 19:50:32,678 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 19:50:33,786 - INFO - Compilation successful.
+2025-07-03 19:50:33,786 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 19:50:35,760 - WARNING - Test 1: Time Limit Exceeded
+2025-07-03 19:50:35,760 - INFO - Time: 1.974 seconds
+2025-07-03 19:50:35,765 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 19:52:04,392 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 19:52:04,393 - INFO - No changes in the code since the last run. Skipping compilation.
+2025-07-03 19:52:04,393 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 19:52:05,410 - WARNING - Test 1: Time Limit Exceeded
+2025-07-03 19:52:05,410 - INFO - Time: 1.015 seconds
+2025-07-03 19:52:05,436 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-03 19:54:33,708 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 19:54:34,950 - INFO - Compilation successful.
+2025-07-03 19:54:34,950 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 19:54:36,075 - INFO - Test 1: Passed
+2025-07-03 19:54:36,075 - INFO - Time: 1.122 seconds
+2025-07-03 19:54:36,075 - INFO - Memory: 4.789 MB
+2025-07-03 19:54:36,075 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-07-03 19:56:28,328 - INFO - Latest problem directory is '히스토그램에서_가장_큰_직사각형'
+2025-07-03 19:56:29,419 - INFO - Compilation successful.
+2025-07-03 19:56:29,419 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-03 19:56:30,647 - INFO - Test 1: Failed
+2025-07-03 19:56:30,647 - INFO - Time: 1.227 seconds
+2025-07-03 19:56:30,648 - INFO - Memory: 4.797 MB
+2025-07-03 19:56:30,648 - INFO - Expected:
+8
+4000
+2025-07-03 19:56:30,648 - INFO - Got:
+w:1 w:2 w:1 w:1 w:5 w:1 w:2
+ h:2 h:1 h:4 h:5 h:1 h:3 h:3
+8
+ w:1 w:2 w:3 w:4
+ h:1000 h:1000 h:1000 h:1000
+4000
+2025-07-03 19:56:30,648 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
