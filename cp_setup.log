@@ -379,3 +379,56 @@ OSError: [WinError 123] 파일 이름, 디렉터리 이름 또는 볼륨 레이�
 2025-07-03 16:12:48,707 - INFO - Sample test case 1 written to 히스토그램에서_가장_큰_직사각형\input1.txt and 히스토그램에서_가장_큰_직사각형\output1.txt
 2025-07-03 16:12:48,708 - INFO - Limits for '히스토그램에서 가장 큰 직사각형' written to 히스토그램에서_가장_큰_직사각형\limits.txt
 2025-07-03 16:12:48,708 - INFO - Latest problem directory '히스토그램에서_가장_큰_직사각형' saved to latest_problem.txt
+2025-07-03 21:26:19,156 - INFO - Serving at port 10043
+2025-07-03 22:01:16,617 - INFO - Project directory '히스토그램' created for problem '히스토그램'
+2025-07-03 22:01:16,618 - INFO - Appended content from template.cpp to 히스토그램/main.cpp
+2025-07-03 22:01:16,619 - INFO - Code template for '히스토그램' written to 히스토그램\main.cpp
+2025-07-03 22:01:16,620 - INFO - Sample test case 1 written to 히스토그램\input1.txt and 히스토그램\output1.txt
+2025-07-03 22:01:16,621 - INFO - Limits for '히스토그램' written to 히스토그램\limits.txt
+2025-07-03 22:01:16,621 - INFO - Latest problem directory '히스토그램' saved to latest_problem.txt
+2025-07-03 22:03:03,237 - INFO - Project directory '창고_다각형' created for problem '창고 다각형'
+2025-07-03 22:03:03,237 - INFO - Appended content from template.cpp to 창고_다각형/main.cpp
+2025-07-03 22:03:03,237 - INFO - Code template for '창고 다각형' written to 창고_다각형\main.cpp
+2025-07-03 22:03:03,239 - INFO - Sample test case 1 written to 창고_다각형\input1.txt and 창고_다각형\output1.txt
+2025-07-03 22:03:03,239 - INFO - Limits for '창고 다각형' written to 창고_다각형\limits.txt
+2025-07-03 22:03:03,240 - INFO - Latest problem directory '창고_다각형' saved to latest_problem.txt
+2025-07-04 09:05:15,553 - INFO - Project directory '문자열_폭발' created for problem '문자열 폭발'
+2025-07-04 09:05:15,554 - INFO - Appended content from template.cpp to 문자열_폭발/main.cpp
+2025-07-04 09:05:15,555 - INFO - Code template for '문자열 폭발' written to 문자열_폭발\main.cpp
+2025-07-04 09:05:15,555 - INFO - Sample test case 1 written to 문자열_폭발\input1.txt and 문자열_폭발\output1.txt
+2025-07-04 09:05:15,556 - INFO - Sample test case 2 written to 문자열_폭발\input2.txt and 문자열_폭발\output2.txt
+2025-07-04 09:05:15,557 - INFO - Limits for '문자열 폭발' written to 문자열_폭발\limits.txt
+2025-07-04 09:05:15,557 - INFO - Latest problem directory '문자열_폭발' saved to latest_problem.txt
+2025-07-04 16:25:53,365 - INFO - Project directory '도키도키_간식드리미' created for problem '도키도키 간식드리미'
+2025-07-04 16:25:53,366 - INFO - Appended content from template.cpp to 도키도키_간식드리미/main.cpp
+2025-07-04 16:25:53,367 - INFO - Code template for '도키도키 간식드리미' written to 도키도키_간식드리미\main.cpp
+2025-07-04 16:25:53,367 - INFO - Sample test case 1 written to 도키도키_간식드리미\input1.txt and 도키도키_간식드리미\output1.txt
+2025-07-04 16:25:53,368 - INFO - Limits for '도키도키 간식드리미' written to 도키도키_간식드리미\limits.txt
+2025-07-04 16:25:53,368 - INFO - Latest problem directory '도키도키_간식드리미' saved to latest_problem.txt
+2025-07-04 17:29:06,675 - INFO - Project directory 'queuestack' created for problem 'queuestack'
+2025-07-04 17:29:06,676 - INFO - Appended content from template.cpp to queuestack/main.cpp
+2025-07-04 17:29:06,677 - INFO - Code template for 'queuestack' written to queuestack\main.cpp
+2025-07-04 17:29:06,678 - INFO - Sample test case 1 written to queuestack\input1.txt and queuestack\output1.txt
+2025-07-04 17:29:06,679 - INFO - Sample test case 2 written to queuestack\input2.txt and queuestack\output2.txt
+2025-07-04 17:29:06,679 - INFO - Limits for 'queuestack' written to queuestack\limits.txt
+2025-07-04 17:29:06,680 - INFO - Latest problem directory 'queuestack' saved to latest_problem.txt
+2025-07-04 19:11:01,831 - INFO - Project directory '오등큰수' created for problem '오등큰수'
+2025-07-04 19:11:01,832 - INFO - Appended content from template.cpp to 오등큰수/main.cpp
+2025-07-04 19:11:01,833 - INFO - Code template for '오등큰수' written to 오등큰수\main.cpp
+2025-07-04 19:11:01,834 - INFO - Sample test case 1 written to 오등큰수\input1.txt and 오등큰수\output1.txt
+2025-07-04 19:11:01,835 - INFO - Limits for '오등큰수' written to 오등큰수\limits.txt
+2025-07-04 19:11:01,836 - INFO - Latest problem directory '오등큰수' saved to latest_problem.txt
+2025-07-04 20:43:57,676 - INFO - Project directory '두_용액' created for problem '두 용액'
+2025-07-04 20:43:57,677 - INFO - Appended content from template.cpp to 두_용액/main.cpp
+2025-07-04 20:43:57,678 - INFO - Code template for '두 용액' written to 두_용액\main.cpp
+2025-07-04 20:43:57,679 - INFO - Sample test case 1 written to 두_용액\input1.txt and 두_용액\output1.txt
+2025-07-04 20:43:57,680 - INFO - Limits for '두 용액' written to 두_용액\limits.txt
+2025-07-04 20:43:57,680 - INFO - Latest problem directory '두_용액' saved to latest_problem.txt
+2025-07-04 21:36:39,530 - INFO - Project directory '과일_탕후루' created for problem '과일 탕후루'
+2025-07-04 21:36:39,531 - INFO - Appended content from template.cpp to 과일_탕후루/main.cpp
+2025-07-04 21:36:39,532 - INFO - Code template for '과일 탕후루' written to 과일_탕후루\main.cpp
+2025-07-04 21:36:39,532 - INFO - Sample test case 1 written to 과일_탕후루\input1.txt and 과일_탕후루\output1.txt
+2025-07-04 21:36:39,533 - INFO - Sample test case 2 written to 과일_탕후루\input2.txt and 과일_탕후루\output2.txt
+2025-07-04 21:36:39,544 - INFO - Sample test case 3 written to 과일_탕후루\input3.txt and 과일_탕후루\output3.txt
+2025-07-04 21:36:39,545 - INFO - Limits for '과일 탕후루' written to 과일_탕후루\limits.txt
+2025-07-04 21:36:39,545 - INFO - Latest problem directory '과일_탕후루' saved to latest_problem.txt

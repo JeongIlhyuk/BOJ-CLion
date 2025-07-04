@@ -20,8 +20,6 @@ N 개의 막대 기둥이 일렬로 세워져 있다. 기둥들의 폭은 모두
 #include <algorithm>
 #include <iostream>
 #include <vector>
-#include <bit>
-#include <stack>
 
 using namespace std;
 
@@ -33,60 +31,45 @@ int main()
     int n;
     cin >> n;
     vector<pair<int, int>> arr(n);
-    stack<int> s;
-    int highest_idx = 0;
     for (int i = 0; i < n; ++i)
     {
         int l, h;
         cin >> l >> h;
         arr[i] = {l, h};
+    }
 
-        if (h > arr[highest_idx].second)
+    ranges::sort(arr);
+
+    // 가장 높은 기둥 찾기
+    int highest_idx = 0;
+    for (int i = 0; i < n; ++i)
+    {
+        if (arr[i].second > arr[highest_idx].second)
         {
             highest_idx = i;
         }
     }
-    ranges::sort(arr);
 
-    for (int i = highest_idx; i >= 0; --i)
-    {
-        while (!s.empty() && arr[s.top()].second <= arr[i].second)
-        {
-            s.pop();
-        }
-        s.push(i);
-    }
     int area = 0;
-    while (!s.empty() && s.top() < highest_idx)
-    {
-        const auto top_idx = s.top();
-        s.pop();
-        while (arr[s.top()].second <= arr[top_idx].second)
-        {
-            s.pop();
-        }
-        area += (arr[s.top()].first - arr[top_idx].first) * arr[top_idx].second;
+    int max_h = 0;
+
+    // 왼쪽에서 최고점까지
+    for (int i = 0; i < highest_idx; i++) {
+        max_h = max(max_h, arr[i].second);
+        area += max_h * (arr[i+1].first - arr[i].first);
     }
 
-    for (int i = highest_idx; i < n; ++i)
-    {
-        while (!s.empty() && arr[s.top()].second <= arr[i].second)
-        {
-            s.pop();
-        }
-        s.push(i);
+    // 오른쪽에서 최고점까지
+    max_h = 0;
+    for (int i = n-1; i > highest_idx; i--) {
+        max_h = max(max_h, arr[i].second);
+        area += max_h * (arr[i].first - arr[i-1].first);
     }
 
-    while (!s.empty() && s.top() > highest_idx)
-    {
-        const auto top_idx = s.top();
-        s.pop();
-        while (arr[s.top()].second <= arr[top_idx].second)
-        {
-            s.pop();
-        }
-        area += (arr[top_idx].first - arr[s.top()].first) * arr[top_idx].second;
-    }
+    // 최고점 기둥 면적
+    area += arr[highest_idx].second;
 
-    cout << area;
+    cout << area << '\n';
+
+    return 0;
 }

@@ -1,0 +1,2 @@
+TimeLimit: 1000 ms
+MemoryLimit: 1024 MB
