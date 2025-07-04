@@ -31,16 +31,16 @@ int main()
 
     int n;
     cin >> n;
-    vector<int> arr(n);
+    vector<int> fruit(n);
     for (int i = 0; i < n; ++i)
     {
-        cin >> arr[i];
+        cin >> fruit[i];
     }
 
     vector<int> check(10);
     int left = 0, right = 0, cnt = 1;
-    check[arr[left]] = 1;
-    int max_cnt = 0;
+    check[fruit[left]]++;
+    int max_cnt = 1;
     while (left <= right)
     {
         if (cnt <= 2)
@@ -51,19 +51,18 @@ int main()
                 break;
             }
             right++;
-            if (check[arr[right]]++ == 0)
+            if (check[fruit[right]]++ == 0)
             {
                 cnt++;
             }
             continue;
         }
 
-        if (--check[arr[left]] == 0)
+        if (--check[fruit[left]] == 0)
         {
             cnt--;
         }
         left++;
-        check[arr[left]]++;
     }
 
     cout << max_cnt;

@@ -7331,3 +7331,62 @@ Summary: Passed 0 out of 3 tests.[0m
 2025-07-04 22:25:19,359 - INFO - Memory: 4.762 MB
 2025-07-04 22:25:19,359 - INFO - [96m
 Summary: Passed 3 out of 3 tests.[0m
+2025-07-04 22:36:56,783 - INFO - Latest problem directory is '과일_탕후루'
+2025-07-04 22:36:57,946 - INFO - Compilation successful.
+2025-07-04 22:36:57,947 - INFO - Using time limit: 2000 ms and memory limit: 1024 MB
+2025-07-04 22:36:59,011 - INFO - Test 1: Passed
+2025-07-04 22:36:59,012 - INFO - Time: 1.063 seconds
+2025-07-04 22:36:59,012 - INFO - Memory: 4.758 MB
+2025-07-04 22:36:59,029 - INFO - Test 2: Passed
+2025-07-04 22:36:59,029 - INFO - Time: 0.015 seconds
+2025-07-04 22:36:59,029 - INFO - Memory: 4.758 MB
+2025-07-04 22:36:59,047 - INFO - Test 3: Passed
+2025-07-04 22:36:59,047 - INFO - Time: 0.016 seconds
+2025-07-04 22:36:59,047 - INFO - Memory: 4.758 MB
+2025-07-04 22:36:59,047 - INFO - [96m
+Summary: Passed 3 out of 3 tests.[0m
+2025-07-04 23:17:30,284 - INFO - Latest problem directory is '과일_탕후루'
+2025-07-04 23:17:31,313 - INFO - Compilation successful.
+2025-07-04 23:17:31,313 - INFO - Using time limit: 2000 ms and memory limit: 1024 MB
+2025-07-04 23:17:32,302 - INFO - Test 1: Passed
+2025-07-04 23:17:32,302 - INFO - Time: 0.986 seconds
+2025-07-04 23:17:32,302 - INFO - Memory: 4.758 MB
+2025-07-04 23:17:32,316 - INFO - Test 2: Passed
+2025-07-04 23:17:32,316 - INFO - Time: 0.012 seconds
+2025-07-04 23:17:32,316 - INFO - Memory: 4.758 MB
+2025-07-04 23:17:32,330 - INFO - Test 3: Passed
+2025-07-04 23:17:32,330 - INFO - Time: 0.014 seconds
+2025-07-04 23:17:32,330 - INFO - Memory: 4.754 MB
+2025-07-04 23:17:32,330 - INFO - [96m
+Summary: Passed 3 out of 3 tests.[0m
+2025-07-04 23:25:41,043 - INFO - Latest problem directory is '과일_탕후루'
+2025-07-04 23:25:41,999 - INFO - Compilation successful.
+2025-07-04 23:25:42,000 - INFO - Using time limit: 2000 ms and memory limit: 1024 MB
+2025-07-04 23:25:42,950 - INFO - Test 1: Failed
+2025-07-04 23:25:42,950 - INFO - Time: 0.949 seconds
+2025-07-04 23:25:42,950 - INFO - Memory: 4.754 MB
+2025-07-04 23:25:42,950 - INFO - Expected:
+4
+2025-07-04 23:25:42,950 - INFO - Got:
+5
+2025-07-04 23:25:42,963 - INFO - Test 2: Passed
+2025-07-04 23:25:42,963 - INFO - Time: 0.012 seconds
+2025-07-04 23:25:42,963 - INFO - Memory: 4.762 MB
+2025-07-04 23:25:44,962 - WARNING - Test 3: Time Limit Exceeded
+2025-07-04 23:25:44,962 - INFO - Time: 1.999 seconds
+2025-07-04 23:25:44,967 - INFO - [96m
+Summary: Passed 1 out of 3 tests.[0m
+2025-07-04 23:26:44,623 - INFO - Latest problem directory is '과일_탕후루'
+2025-07-04 23:26:45,714 - INFO - Compilation successful.
+2025-07-04 23:26:45,715 - INFO - Using time limit: 2000 ms and memory limit: 1024 MB
+2025-07-04 23:26:46,692 - INFO - Test 1: Passed
+2025-07-04 23:26:46,692 - INFO - Time: 0.975 seconds
+2025-07-04 23:26:46,692 - INFO - Memory: 4.754 MB
+2025-07-04 23:26:46,705 - INFO - Test 2: Passed
+2025-07-04 23:26:46,705 - INFO - Time: 0.014 seconds
+2025-07-04 23:26:46,705 - INFO - Memory: 4.758 MB
+2025-07-04 23:26:46,721 - INFO - Test 3: Passed
+2025-07-04 23:26:46,721 - INFO - Time: 0.015 seconds
+2025-07-04 23:26:46,721 - INFO - Memory: 4.758 MB
+2025-07-04 23:26:46,722 - INFO - [96m
+Summary: Passed 3 out of 3 tests.[0m
