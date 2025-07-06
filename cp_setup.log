@@ -432,3 +432,17 @@ OSError: [WinError 123] 파일 이름, 디렉터리 이름 또는 볼륨 레이�
 2025-07-04 21:36:39,544 - INFO - Sample test case 3 written to 과일_탕후루\input3.txt and 과일_탕후루\output3.txt
 2025-07-04 21:36:39,545 - INFO - Limits for '과일 탕후루' written to 과일_탕후루\limits.txt
 2025-07-04 21:36:39,545 - INFO - Latest problem directory '과일_탕후루' saved to latest_problem.txt
+2025-07-05 08:25:56,226 - INFO - Project directory '랜선_자르기' created for problem '랜선 자르기'
+2025-07-05 08:25:56,227 - INFO - Appended content from template.cpp to 랜선_자르기/main.cpp
+2025-07-05 08:25:56,228 - INFO - Code template for '랜선 자르기' written to 랜선_자르기\main.cpp
+2025-07-05 08:25:56,229 - INFO - Sample test case 1 written to 랜선_자르기\input1.txt and 랜선_자르기\output1.txt
+2025-07-05 08:25:56,230 - INFO - Limits for '랜선 자르기' written to 랜선_자르기\limits.txt
+2025-07-05 08:25:56,230 - INFO - Latest problem directory '랜선_자르기' saved to latest_problem.txt
+2025-07-05 09:41:09,356 - INFO - Serving at port 10043
+2025-07-05 10:00:47,245 - INFO - Project directory '평범한_배낭' created for problem '평범한 배낭'
+2025-07-05 10:00:47,245 - INFO - Appended content from template.cpp to 평범한_배낭/main.cpp
+2025-07-05 10:00:47,246 - INFO - Code template for '평범한 배낭' written to 평범한_배낭\main.cpp
+2025-07-05 10:00:47,247 - INFO - Sample test case 1 written to 평범한_배낭\input1.txt and 평범한_배낭\output1.txt
+2025-07-05 10:00:47,247 - INFO - Limits for '평범한 배낭' written to 평범한_배낭\limits.txt
+2025-07-05 10:00:47,247 - INFO - Latest problem directory '평범한_배낭' saved to latest_problem.txt
+2025-07-06 09:06:00,708 - INFO - Serving at port 10043
