@@ -446,3 +446,82 @@ OSError: [WinError 123] 파일 이름, 디렉터리 이름 또는 볼륨 레이�
 2025-07-05 10:00:47,247 - INFO - Limits for '평범한 배낭' written to 평범한_배낭\limits.txt
 2025-07-05 10:00:47,247 - INFO - Latest problem directory '평범한_배낭' saved to latest_problem.txt
 2025-07-06 09:06:00,708 - INFO - Serving at port 10043
+2025-07-06 09:27:22,651 - INFO - Project directory '장신구_명장_임스' created for problem '장신구 명장 임스'
+2025-07-06 09:27:22,651 - INFO - Appended content from template.cpp to 장신구_명장_임스/main.cpp
+2025-07-06 09:27:22,652 - INFO - Code template for '장신구 명장 임스' written to 장신구_명장_임스\main.cpp
+2025-07-06 09:27:22,652 - INFO - Sample test case 1 written to 장신구_명장_임스\input1.txt and 장신구_명장_임스\output1.txt
+2025-07-06 09:27:22,653 - INFO - Sample test case 2 written to 장신구_명장_임스\input2.txt and 장신구_명장_임스\output2.txt
+2025-07-06 09:27:22,653 - INFO - Limits for '장신구 명장 임스' written to 장신구_명장_임스\limits.txt
+2025-07-06 09:27:22,654 - INFO - Latest problem directory '장신구_명장_임스' saved to latest_problem.txt
+2025-07-06 09:27:47,279 - INFO - Project directory '장신구_명장_임스' created for problem '장신구 명장 임스'
+2025-07-06 09:27:47,280 - INFO - Appended content from template.cpp to 장신구_명장_임스/main.cpp
+2025-07-06 09:27:47,280 - INFO - Code template for '장신구 명장 임스' written to 장신구_명장_임스\main.cpp
+2025-07-06 09:27:47,281 - INFO - Sample test case 1 written to 장신구_명장_임스\input1.txt and 장신구_명장_임스\output1.txt
+2025-07-06 09:27:47,282 - INFO - Sample test case 2 written to 장신구_명장_임스\input2.txt and 장신구_명장_임스\output2.txt
+2025-07-06 09:27:47,282 - INFO - Limits for '장신구 명장 임스' written to 장신구_명장_임스\limits.txt
+2025-07-06 09:27:47,283 - INFO - Latest problem directory '장신구_명장_임스' saved to latest_problem.txt
+2025-07-06 09:27:59,524 - INFO - Project directory '장신구_명장_임스' created for problem '장신구 명장 임스'
+2025-07-06 09:27:59,524 - INFO - Appended content from template.cpp to 장신구_명장_임스/main.cpp
+2025-07-06 09:27:59,525 - INFO - Code template for '장신구 명장 임스' written to 장신구_명장_임스\main.cpp
+2025-07-06 09:27:59,526 - INFO - Sample test case 1 written to 장신구_명장_임스\input1.txt and 장신구_명장_임스\output1.txt
+2025-07-06 09:27:59,527 - INFO - Sample test case 2 written to 장신구_명장_임스\input2.txt and 장신구_명장_임스\output2.txt
+2025-07-06 09:27:59,528 - INFO - Limits for '장신구 명장 임스' written to 장신구_명장_임스\limits.txt
+2025-07-06 09:27:59,528 - INFO - Latest problem directory '장신구_명장_임스' saved to latest_problem.txt
+2025-07-06 09:28:30,513 - INFO - Project directory '장신구_명장_임스' created for problem '장신구 명장 임스'
+2025-07-06 09:28:30,513 - INFO - Appended content from template.cpp to 장신구_명장_임스/main.cpp
+2025-07-06 09:28:30,514 - INFO - Code template for '장신구 명장 임스' written to 장신구_명장_임스\main.cpp
+2025-07-06 09:28:30,515 - INFO - Sample test case 1 written to 장신구_명장_임스\input1.txt and 장신구_명장_임스\output1.txt
+2025-07-06 09:28:30,516 - INFO - Sample test case 2 written to 장신구_명장_임스\input2.txt and 장신구_명장_임스\output2.txt
+2025-07-06 09:28:30,517 - INFO - Limits for '장신구 명장 임스' written to 장신구_명장_임스\limits.txt
+2025-07-06 09:28:30,518 - INFO - Latest problem directory '장신구_명장_임스' saved to latest_problem.txt
+2025-07-06 09:28:50,120 - INFO - Serving at port 10043
+2025-07-06 09:28:56,930 - INFO - Project directory '평범한_배낭' created for problem '평범한 배낭'
+2025-07-06 09:28:56,930 - INFO - Appended content from template.cpp to 평범한_배낭/main.cpp
+2025-07-06 09:28:56,931 - INFO - Code template for '평범한 배낭' written to 평범한_배낭\main.cpp
+2025-07-06 09:28:56,932 - INFO - Sample test case 1 written to 평범한_배낭\input1.txt and 평범한_배낭\output1.txt
+2025-07-06 09:28:56,932 - INFO - Limits for '평범한 배낭' written to 평범한_배낭\limits.txt
+2025-07-06 09:28:56,932 - INFO - Latest problem directory '평범한_배낭' saved to latest_problem.txt
+2025-07-06 09:48:32,661 - INFO - Serving at port 10043
+2025-07-06 09:48:36,472 - INFO - Serving at port 10043
+2025-07-06 09:49:02,088 - INFO - Project directory 'BOJ_12865' created for problem '평범한 배낭'
+2025-07-06 09:49:02,088 - INFO - Appended content from template.cpp to BOJ_12865/main.cpp
+2025-07-06 09:49:02,089 - INFO - Code template for '평범한 배낭' written to BOJ_12865\main.cpp
+2025-07-06 09:49:02,090 - INFO - Sample test case 1 written to BOJ_12865\input1.txt and BOJ_12865\output1.txt
+2025-07-06 09:49:02,091 - INFO - Limits for '평범한 배낭' written to BOJ_12865\limits.txt
+2025-07-06 09:49:02,091 - INFO - Latest problem directory 'BOJ_12865' saved to latest_problem.txt
+2025-07-06 10:58:33,770 - INFO - Serving at port 10043
+2025-07-06 10:58:37,899 - INFO - Project directory 'BOJ_2579' created for problem '계단 오르기'
+2025-07-06 10:58:37,899 - INFO - Appended content from template.cpp to BOJ_2579/main.cpp
+2025-07-06 10:58:37,900 - INFO - Code template for '계단 오르기' written to BOJ_2579\main.cpp
+2025-07-06 10:58:37,901 - INFO - Sample test case 1 written to BOJ_2579\input1.txt and BOJ_2579\output1.txt
+2025-07-06 10:58:37,902 - INFO - Limits for '계단 오르기' written to BOJ_2579\limits.txt
+2025-07-06 10:58:37,902 - INFO - Latest problem directory 'BOJ_2579' saved to latest_problem.txt
+2025-07-06 12:35:10,579 - INFO - Project directory 'BOJ_2110' created for problem '공유기 설치'
+2025-07-06 12:35:10,580 - INFO - Appended content from template.cpp to BOJ_2110/main.cpp
+2025-07-06 12:35:10,580 - INFO - Code template for '공유기 설치' written to BOJ_2110\main.cpp
+2025-07-06 12:35:10,581 - INFO - Sample test case 1 written to BOJ_2110\input1.txt and BOJ_2110\output1.txt
+2025-07-06 12:35:10,581 - INFO - Limits for '공유기 설치' written to BOJ_2110\limits.txt
+2025-07-06 12:35:10,582 - INFO - Latest problem directory 'BOJ_2110' saved to latest_problem.txt
+2025-07-06 14:15:50,992 - INFO - Project directory 'BOJ_2473' created for problem '세 용액'
+2025-07-06 14:15:50,993 - INFO - Appended content from template.cpp to BOJ_2473/main.cpp
+2025-07-06 14:15:50,994 - INFO - Code template for '세 용액' written to BOJ_2473\main.cpp
+2025-07-06 14:15:50,997 - INFO - Sample test case 1 written to BOJ_2473\input1.txt and BOJ_2473\output1.txt
+2025-07-06 14:15:50,998 - INFO - Sample test case 2 written to BOJ_2473\input2.txt and BOJ_2473\output2.txt
+2025-07-06 14:15:50,999 - INFO - Limits for '세 용액' written to BOJ_2473\limits.txt
+2025-07-06 14:15:50,999 - INFO - Latest problem directory 'BOJ_2473' saved to latest_problem.txt
+2025-07-06 15:45:39,084 - INFO - Project directory 'BOJ_1149' created for problem 'RGB거리'
+2025-07-06 15:45:39,085 - INFO - Appended content from template.cpp to BOJ_1149/main.cpp
+2025-07-06 15:45:39,086 - INFO - Code template for 'RGB거리' written to BOJ_1149\main.cpp
+2025-07-06 15:45:39,086 - INFO - Sample test case 1 written to BOJ_1149\input1.txt and BOJ_1149\output1.txt
+2025-07-06 15:45:39,087 - INFO - Sample test case 2 written to BOJ_1149\input2.txt and BOJ_1149\output2.txt
+2025-07-06 15:45:39,090 - INFO - Sample test case 3 written to BOJ_1149\input3.txt and BOJ_1149\output3.txt
+2025-07-06 15:45:39,091 - INFO - Sample test case 4 written to BOJ_1149\input4.txt and BOJ_1149\output4.txt
+2025-07-06 15:45:39,092 - INFO - Sample test case 5 written to BOJ_1149\input5.txt and BOJ_1149\output5.txt
+2025-07-06 15:45:39,092 - INFO - Limits for 'RGB거리' written to BOJ_1149\limits.txt
+2025-07-06 15:45:39,092 - INFO - Latest problem directory 'BOJ_1149' saved to latest_problem.txt
+2025-07-06 16:19:32,131 - INFO - Project directory 'BOJ_2565' created for problem '전깃줄'
+2025-07-06 16:19:32,132 - INFO - Appended content from template.cpp to BOJ_2565/main.cpp
+2025-07-06 16:19:32,133 - INFO - Code template for '전깃줄' written to BOJ_2565\main.cpp
+2025-07-06 16:19:32,135 - INFO - Sample test case 1 written to BOJ_2565\input1.txt and BOJ_2565\output1.txt
+2025-07-06 16:19:32,136 - INFO - Limits for '전깃줄' written to BOJ_2565\limits.txt
+2025-07-06 16:19:32,136 - INFO - Latest problem directory 'BOJ_2565' saved to latest_problem.txt

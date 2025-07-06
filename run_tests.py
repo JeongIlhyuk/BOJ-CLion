@@ -163,79 +163,67 @@ def run_test(input_file, output_file, test_number, project_dir, time_limit, memo
         job = create_job_with_memory_limit(memory_limit)
 
         with subprocess.Popen([os.path.join(project_dir, "solution")],
-                              stdin=subprocess.PIPE, stdout=subprocess.PIPE, text=True) as process:
+                              stdin=subprocess.PIPE, stdout=subprocess.PIPE,
+                              stderr=subprocess.PIPE, text=True) as process:
             assign_process_to_job(process, job)
 
             try:
-                stdout, _ = process.communicate(input=input_data, timeout=time_limit)
+                stdout, stderr = process.communicate(input=input_data, timeout=time_limit)
                 end_time = time.time()
-
                 elapsed_time = end_time - start_time
 
-                # 获取内存使用情况
-                peak_memory = get_memory_usage(process._handle) / (1024 * 1024)  # 转换为MB
+                # 프로세스 종료 코드 확인
+                if process.returncode != 0:
+                    print(f"{RED}Test {test_number}: Runtime Error{RESET}")
+                    print(f"{YELLOW}Time: {elapsed_time:.3f} seconds{RESET}")
+                    if stderr:
+                        print(f"{RED}Error Message: {stderr.strip()}{RESET}")
+                    logging.error(f"Test {test_number}: Runtime Error - Exit code: {process.returncode}")
+                    if stderr:
+                        logging.error(f"Error Message: {stderr.strip()}")
+                    return "Runtime Error", False
 
-                # 检查内存是否超过限制
+                # 메모리 사용량 체크
+                peak_memory = get_memory_usage(process._handle) / (1024 * 1024)
+
                 if peak_memory > memory_limit:
                     print(f"{RED}Test {test_number}: Memory Limit Exceeded{RESET}")
                     print(f"{YELLOW}Time: {elapsed_time:.3f} seconds{RESET}")
                     print(f"{YELLOW}Memory: {peak_memory:.3f} MB (Limit: {memory_limit} MB){RESET}")
-                    logging.warning(f"Test {test_number}: Memory Limit Exceeded")
-                    logging.info(f"Time: {elapsed_time:.3f} seconds")
-                    logging.info(f"Memory: {peak_memory:.3f} MB (Limit: {memory_limit} MB)")
-                    sys.stdout.flush()
                     return "Memory Limit Exceeded", False
 
-                program_output = stdout.strip()  # 去除首尾空白字符
-
-                # 读取期望输出
+                # 출력 비교
+                program_output = stdout.strip()
                 with open(output_file, 'r', encoding='utf-8') as f:
-                    expected_output = f.read().strip()  # 去除首尾空白字符
+                    expected_output = f.read().strip()
 
-                # 比较程序输出和期望输出
                 if program_output == expected_output:
                     print(f"{GREEN}Test {test_number}: Passed{RESET}")
                     print(f"{YELLOW}Time: {elapsed_time:.3f} seconds{RESET}")
                     print(f"{YELLOW}Memory: {peak_memory:.3f} MB{RESET}")
-                    logging.info(f"Test {test_number}: Passed")
-                    logging.info(f"Time: {elapsed_time:.3f} seconds")
-                    logging.info(f"Memory: {peak_memory:.3f} MB")
-                    sys.stdout.flush()
                     return "Passed", True
                 else:
-                    print(f"{RED}Test {test_number}: Failed{RESET}")
+                    print(f"{RED}Test {test_number}: Wrong Answer{RESET}")
                     print(f"{YELLOW}Time: {elapsed_time:.3f} seconds{RESET}")
                     print(f"{YELLOW}Memory: {peak_memory:.3f} MB{RESET}")
                     print(f"{RED}Expected:{RESET}\n{expected_output}")
                     print(f"{RED}Got:{RESET}\n{program_output}")
-                    logging.info(f"Test {test_number}: Failed")
-                    logging.info(f"Time: {elapsed_time:.3f} seconds")
-                    logging.info(f"Memory: {peak_memory:.3f} MB")
-                    logging.info(f"Expected:\n{expected_output}")
-                    logging.info(f"Got:\n{program_output}")
-                    sys.stdout.flush()
-                    return "Failed", False
+                    return "Wrong Answer", False
 
             except subprocess.TimeoutExpired:
-                process.kill()  # 终止子进程
+                process.kill()
                 end_time = time.time()
                 elapsed_time = end_time - start_time
                 print(f"{YELLOW}Test {test_number}: Time Limit Exceeded{RESET}")
-                print(f"{YELLOW}Time: {elapsed_time:.3f} seconds{RESET}")
+                print(f"{YELLOW}Time: {elapsed_time:.3f} seconds (Limit: {time_limit:.3f}){RESET}")
                 logging.warning(f"Test {test_number}: Time Limit Exceeded")
-                logging.info(f"Time: {elapsed_time:.3f} seconds")
-                sys.stdout.flush()
                 return "Time Limit Exceeded", False
 
-    except subprocess.CalledProcessError:
-        end_time = time.time()
-        elapsed_time = end_time - start_time
-        print(f"{RED}An error occurred during test execution.{RESET}")
-        print(f"{YELLOW}Time: {elapsed_time:.3f} seconds{RESET}")
-        logging.error("An error occurred during test execution.")
-        logging.info(f"Time: {elapsed_time:.3f} seconds")
-        sys.stdout.flush()
-        return "Error", False
+    except Exception as e:
+        print(f"{RED}Test {test_number}: System Error{RESET}")
+        print(f"{RED}Error: {str(e)}{RESET}")
+        logging.error(f"Test {test_number}: System Error - {str(e)}")
+        return "System Error", False
 
 # 运行所有测试用例
 def run_all_tests(project_dir):

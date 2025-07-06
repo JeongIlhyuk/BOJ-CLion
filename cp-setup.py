@@ -83,7 +83,11 @@ def process_data(data):
         problem_content = scrape_problem_content(problem_url)
 
         # 创建项目目录，处理中文字符
-        project_dir = problem_name.replace(' ', '_')
+        if 'acmicpc.net/problem/' in problem_url:
+            problem_id = problem_url.split('/')[-1]
+            project_dir = f"BOJ_{problem_id}"
+        else:
+            project_dir = problem_name.replace(' ', '_')
         # Windows에서 금지된 문자들을 제거/대체
         project_dir = re.sub(r'[<>:"/\\|?*]', '', project_dir)
         if not os.path.exists(project_dir):
