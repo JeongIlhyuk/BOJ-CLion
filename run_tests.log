@@ -7612,3 +7612,440 @@ Summary: Passed 5 out of 5 tests.[0m
 2025-07-06 16:16:14,168 - INFO - Using time limit: 500 ms and memory limit: 128 MB
 2025-07-06 16:16:14,220 - INFO - [96m
 Summary: Passed 5 out of 5 tests.[0m
+2025-07-06 17:34:54,948 - INFO - Latest problem directory is 'BOJ_11053'
+2025-07-06 17:34:55,849 - INFO - Compilation successful.
+2025-07-06 17:34:55,850 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-06 17:34:56,992 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-06 17:37:39,679 - INFO - Latest problem directory is 'BOJ_11053'
+2025-07-06 17:37:39,680 - INFO - No changes in the code since the last run. Skipping compilation.
+2025-07-06 17:37:39,680 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-06 17:37:39,693 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-06 17:38:08,703 - INFO - Latest problem directory is 'BOJ_2565'
+2025-07-06 17:38:09,196 - ERROR - Compilation failed.
+2025-07-06 17:38:17,104 - INFO - Latest problem directory is 'BOJ_2565'
+2025-07-06 17:38:18,245 - INFO - Compilation successful.
+2025-07-06 17:38:18,246 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-06 17:38:19,360 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-06 17:39:29,581 - INFO - Latest problem directory is 'BOJ_2565'
+2025-07-06 17:39:30,710 - INFO - Compilation successful.
+2025-07-06 17:39:30,710 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-06 17:39:31,940 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-06 17:47:03,632 - INFO - Latest problem directory is 'BOJ_2565'
+2025-07-06 17:47:04,841 - INFO - Compilation successful.
+2025-07-06 17:47:04,842 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-06 17:47:05,830 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-07-06 18:37:21,549 - INFO - Latest problem directory is 'BOJ_2565'
+2025-07-06 18:37:22,796 - INFO - Compilation successful.
+2025-07-06 18:37:22,796 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-06 18:37:24,077 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-07-06 18:38:16,112 - INFO - Latest problem directory is 'BOJ_2565'
+2025-07-06 18:38:17,329 - INFO - Compilation successful.
+2025-07-06 18:38:17,329 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-06 18:38:18,285 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-07-06 18:39:05,312 - INFO - Latest problem directory is 'BOJ_2565'
+2025-07-06 18:39:05,915 - ERROR - Compilation failed.
+2025-07-06 18:39:13,930 - INFO - Latest problem directory is 'BOJ_2565'
+2025-07-06 18:39:15,097 - INFO - Compilation successful.
+2025-07-06 18:39:15,099 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-06 18:39:15,998 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-07-06 18:39:27,452 - INFO - Latest problem directory is 'BOJ_2565'
+2025-07-06 18:39:27,453 - INFO - No changes in the code since the last run. Skipping compilation.
+2025-07-06 18:39:27,453 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-06 18:39:27,466 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-07-06 18:52:28,382 - INFO - Latest problem directory is 'BOJ_2565'
+2025-07-06 18:52:29,570 - INFO - Compilation successful.
+2025-07-06 18:52:29,571 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-06 18:52:30,707 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-06 18:53:22,023 - INFO - Latest problem directory is 'BOJ_2565'
+2025-07-06 18:53:23,236 - INFO - Compilation successful.
+2025-07-06 18:53:23,237 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-06 18:53:24,232 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-06 18:57:49,293 - INFO - Latest problem directory is 'BOJ_2565'
+2025-07-06 18:57:50,432 - INFO - Compilation successful.
+2025-07-06 18:57:50,432 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-06 18:57:51,512 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-06 19:05:47,071 - INFO - Latest problem directory is 'BOJ_2565'
+2025-07-06 19:05:47,672 - ERROR - Compilation failed.
+2025-07-06 19:05:51,558 - INFO - Latest problem directory is 'BOJ_2565'
+2025-07-06 19:05:52,704 - INFO - Compilation successful.
+2025-07-06 19:05:52,705 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-06 19:05:53,852 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-06 19:10:07,569 - INFO - Latest problem directory is 'BOJ_2565'
+2025-07-06 19:10:08,739 - INFO - Compilation successful.
+2025-07-06 19:10:08,740 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-06 19:10:09,851 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-06 19:10:59,683 - INFO - Latest problem directory is 'BOJ_2565'
+2025-07-06 19:11:00,867 - INFO - Compilation successful.
+2025-07-06 19:11:00,867 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-06 19:11:01,841 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-06 19:12:09,644 - INFO - Latest problem directory is 'BOJ_2565'
+2025-07-06 19:12:10,865 - INFO - Compilation successful.
+2025-07-06 19:12:10,865 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-06 19:12:11,964 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-07-06 19:33:31,302 - INFO - Latest problem directory is 'BOJ_2565'
+2025-07-06 19:33:32,535 - INFO - Compilation successful.
+2025-07-06 19:33:32,535 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-06 19:33:33,518 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-07-06 19:37:45,084 - INFO - Latest problem directory is 'BOJ_2565'
+2025-07-06 19:37:46,330 - INFO - Compilation successful.
+2025-07-06 19:37:46,331 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-06 19:37:47,286 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-07-06 19:53:34,923 - INFO - Latest problem directory is 'BOJ_2565'
+2025-07-06 19:53:36,101 - INFO - Compilation successful.
+2025-07-06 19:53:36,102 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-06 19:53:37,302 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-06 20:01:49,032 - INFO - Latest problem directory is 'BOJ_2565'
+2025-07-06 20:01:50,184 - INFO - Compilation successful.
+2025-07-06 20:01:50,186 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-06 20:01:51,284 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-06 20:01:58,475 - INFO - Latest problem directory is 'BOJ_2565'
+2025-07-06 20:01:59,650 - INFO - Compilation successful.
+2025-07-06 20:01:59,650 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-06 20:02:00,556 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-07-06 20:33:26,876 - INFO - Latest problem directory is 'BOJ_3078'
+2025-07-06 20:33:27,981 - INFO - Compilation successful.
+2025-07-06 20:33:27,981 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-06 20:33:29,276 - INFO - [96m
+Summary: Passed 1 out of 2 tests.[0m
+2025-07-06 20:37:14,658 - INFO - Latest problem directory is 'BOJ_3078'
+2025-07-06 20:37:15,767 - INFO - Compilation successful.
+2025-07-06 20:37:15,767 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-06 20:37:16,977 - INFO - [96m
+Summary: Passed 1 out of 2 tests.[0m
+2025-07-06 20:37:57,643 - INFO - Latest problem directory is 'BOJ_3078'
+2025-07-06 20:37:58,794 - INFO - Compilation successful.
+2025-07-06 20:37:58,796 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-06 20:37:59,694 - INFO - [96m
+Summary: Passed 1 out of 2 tests.[0m
+2025-07-06 20:40:45,920 - INFO - Latest problem directory is 'BOJ_3078'
+2025-07-06 20:40:46,954 - INFO - Compilation successful.
+2025-07-06 20:40:46,954 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-06 20:40:48,082 - INFO - [96m
+Summary: Passed 2 out of 2 tests.[0m
+2025-07-06 20:41:59,781 - INFO - Latest problem directory is 'BOJ_3078'
+2025-07-06 20:42:00,864 - INFO - Compilation successful.
+2025-07-06 20:42:00,864 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-06 20:42:01,870 - INFO - [96m
+Summary: Passed 2 out of 2 tests.[0m
+2025-07-06 20:42:10,953 - INFO - Latest problem directory is 'BOJ_3078'
+2025-07-06 20:42:12,106 - INFO - Compilation successful.
+2025-07-06 20:42:12,106 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-06 20:42:12,874 - INFO - [96m
+Summary: Passed 2 out of 2 tests.[0m
+2025-07-06 20:46:17,568 - INFO - Latest problem directory is 'BOJ_3078'
+2025-07-06 20:46:18,744 - INFO - Compilation successful.
+2025-07-06 20:46:18,745 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-06 20:46:19,788 - INFO - [96m
+Summary: Passed 2 out of 2 tests.[0m
+2025-07-06 20:52:37,278 - INFO - Latest problem directory is 'BOJ_3078'
+2025-07-06 20:52:38,355 - INFO - Compilation successful.
+2025-07-06 20:52:38,356 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-06 20:52:39,495 - INFO - [96m
+Summary: Passed 0 out of 2 tests.[0m
+2025-07-06 20:55:23,616 - INFO - Latest problem directory is 'BOJ_3078'
+2025-07-06 20:55:24,739 - INFO - Compilation successful.
+2025-07-06 20:55:24,740 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-06 20:55:25,820 - INFO - [96m
+Summary: Passed 0 out of 2 tests.[0m
+2025-07-06 20:56:09,742 - INFO - Latest problem directory is 'BOJ_3078'
+2025-07-06 20:56:10,796 - INFO - Compilation successful.
+2025-07-06 20:56:10,797 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-06 20:56:11,581 - INFO - [96m
+Summary: Passed 0 out of 2 tests.[0m
+2025-07-06 20:58:21,187 - INFO - Latest problem directory is 'BOJ_3078'
+2025-07-06 20:58:22,283 - INFO - Compilation successful.
+2025-07-06 20:58:22,284 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-06 20:58:23,452 - INFO - [96m
+Summary: Passed 2 out of 2 tests.[0m
+2025-07-06 20:59:21,297 - INFO - Latest problem directory is 'BOJ_3078'
+2025-07-06 20:59:22,491 - INFO - Compilation successful.
+2025-07-06 20:59:22,491 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-06 20:59:23,410 - INFO - [96m
+Summary: Passed 2 out of 2 tests.[0m
+2025-07-06 21:00:23,514 - INFO - Latest problem directory is 'BOJ_3078'
+2025-07-06 21:00:24,661 - INFO - Compilation successful.
+2025-07-06 21:00:24,661 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-06 21:00:25,719 - INFO - [96m
+Summary: Passed 2 out of 2 tests.[0m
+2025-07-06 21:01:20,898 - INFO - Latest problem directory is 'BOJ_3078'
+2025-07-06 21:01:20,899 - INFO - No changes in the code since the last run. Skipping compilation.
+2025-07-06 21:01:20,899 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-06 21:01:20,922 - INFO - [96m
+Summary: Passed 2 out of 2 tests.[0m
+2025-07-06 21:05:56,573 - INFO - Latest problem directory is 'BOJ_3078'
+2025-07-06 21:05:57,741 - INFO - Compilation successful.
+2025-07-06 21:05:57,741 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-06 21:05:58,866 - INFO - [96m
+Summary: Passed 2 out of 2 tests.[0m
+2025-07-06 21:07:52,124 - INFO - Latest problem directory is 'BOJ_3078'
+2025-07-06 21:07:53,268 - INFO - Compilation successful.
+2025-07-06 21:07:53,268 - INFO - Using time limit: 1000 ms and memory limit: 128 MB
+2025-07-06 21:07:54,381 - INFO - [96m
+Summary: Passed 2 out of 2 tests.[0m
+2025-07-06 21:14:31,845 - INFO - Latest problem directory is 'BOJ_10944'
+2025-07-06 21:14:32,722 - INFO - Compilation successful.
+2025-07-06 21:14:32,723 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-06 21:14:33,935 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-06 21:17:37,391 - INFO - Latest problem directory is 'BOJ_10944'
+2025-07-06 21:17:38,241 - INFO - Compilation successful.
+2025-07-06 21:17:38,242 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-06 21:17:39,468 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-06 21:18:01,983 - INFO - Latest problem directory is 'BOJ_10944'
+2025-07-06 21:18:02,768 - INFO - Compilation successful.
+2025-07-06 21:18:02,769 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-06 21:18:03,557 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-06 21:18:09,271 - INFO - Latest problem directory is 'BOJ_10944'
+2025-07-06 21:18:09,861 - ERROR - Compilation failed.
+2025-07-06 21:35:44,039 - INFO - Latest problem directory is 'BOJ_1931'
+2025-07-06 21:35:45,145 - INFO - Compilation successful.
+2025-07-06 21:35:45,145 - INFO - Using time limit: 2000 ms and memory limit: 128 MB
+2025-07-06 21:35:46,187 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-06 21:37:24,822 - INFO - Latest problem directory is 'BOJ_1931'
+2025-07-06 21:37:25,908 - INFO - Compilation successful.
+2025-07-06 21:37:25,908 - INFO - Using time limit: 2000 ms and memory limit: 128 MB
+2025-07-06 21:37:27,022 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-07-06 21:41:09,027 - INFO - Latest problem directory is 'BOJ_1931'
+2025-07-06 21:41:10,152 - INFO - Compilation successful.
+2025-07-06 21:41:10,152 - INFO - Using time limit: 2000 ms and memory limit: 128 MB
+2025-07-06 21:41:11,460 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-07-06 21:43:47,943 - INFO - Latest problem directory is 'BOJ_1931'
+2025-07-06 21:43:49,044 - INFO - Compilation successful.
+2025-07-06 21:43:49,044 - INFO - Using time limit: 2000 ms and memory limit: 128 MB
+2025-07-06 21:43:50,161 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-07-06 21:48:53,508 - INFO - Latest problem directory is 'BOJ_1931'
+2025-07-06 21:48:54,631 - INFO - Compilation successful.
+2025-07-06 21:48:54,632 - INFO - Using time limit: 2000 ms and memory limit: 128 MB
+2025-07-06 21:48:55,715 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-07-06 22:43:12,421 - INFO - Latest problem directory is 'BOJ_9251'
+2025-07-06 22:43:13,350 - INFO - Compilation successful.
+2025-07-06 22:43:13,351 - INFO - Using time limit: 100 ms and memory limit: 256 MB
+2025-07-06 22:43:14,429 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-06 22:44:08,761 - INFO - Latest problem directory is 'BOJ_9251'
+2025-07-06 22:44:09,707 - INFO - Compilation successful.
+2025-07-06 22:44:09,708 - INFO - Using time limit: 100 ms and memory limit: 256 MB
+2025-07-06 22:44:10,597 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-07-06 22:44:42,027 - INFO - Latest problem directory is 'BOJ_9251'
+2025-07-06 22:44:42,996 - INFO - Compilation successful.
+2025-07-06 22:44:42,996 - INFO - Using time limit: 100 ms and memory limit: 256 MB
+2025-07-06 22:44:43,881 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-07-06 22:44:53,209 - INFO - Latest problem directory is 'BOJ_9251'
+2025-07-06 22:44:54,155 - INFO - Compilation successful.
+2025-07-06 22:44:54,155 - INFO - Using time limit: 100 ms and memory limit: 256 MB
+2025-07-06 22:44:55,143 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-07-06 22:45:02,293 - INFO - Latest problem directory is 'BOJ_9251'
+2025-07-06 22:45:03,260 - INFO - Compilation successful.
+2025-07-06 22:45:03,260 - INFO - Using time limit: 100 ms and memory limit: 256 MB
+2025-07-06 22:45:04,266 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-07-06 23:09:58,496 - INFO - Latest problem directory is 'BOJ_9251'
+2025-07-06 23:09:59,459 - INFO - Compilation successful.
+2025-07-06 23:09:59,460 - INFO - Using time limit: 100 ms and memory limit: 256 MB
+2025-07-06 23:10:00,685 - WARNING - Test 1: Time Limit Exceeded
+2025-07-06 23:10:00,687 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-06 23:13:42,489 - INFO - Latest problem directory is 'BOJ_9251'
+2025-07-06 23:13:43,435 - INFO - Compilation successful.
+2025-07-06 23:13:43,435 - INFO - Using time limit: 100 ms and memory limit: 256 MB
+2025-07-06 23:13:44,634 - WARNING - Test 1: Time Limit Exceeded
+2025-07-06 23:13:44,636 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-06 23:16:12,825 - INFO - Latest problem directory is 'BOJ_9251'
+2025-07-06 23:16:13,783 - INFO - Compilation successful.
+2025-07-06 23:16:13,783 - INFO - Using time limit: 100 ms and memory limit: 256 MB
+2025-07-06 23:16:15,001 - WARNING - Test 1: Time Limit Exceeded
+2025-07-06 23:16:15,004 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-06 23:17:01,552 - INFO - Latest problem directory is 'BOJ_9251'
+2025-07-06 23:17:02,492 - INFO - Compilation successful.
+2025-07-06 23:17:02,492 - INFO - Using time limit: 100 ms and memory limit: 256 MB
+2025-07-06 23:17:03,456 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-07-07 11:15:43,071 - INFO - Latest problem directory is 'BOJ_1991'
+2025-07-07 11:15:44,938 - INFO - Compilation successful.
+2025-07-07 11:15:44,938 - INFO - Using time limit: 2000 ms and memory limit: 128 MB
+2025-07-07 11:15:46,167 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-07 11:16:05,463 - INFO - Latest problem directory is 'BOJ_1991'
+2025-07-07 11:16:06,404 - INFO - Compilation successful.
+2025-07-07 11:16:06,404 - INFO - Using time limit: 2000 ms and memory limit: 128 MB
+2025-07-07 11:16:07,393 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-07 11:16:17,934 - INFO - Latest problem directory is 'BOJ_1991'
+2025-07-07 11:16:18,860 - INFO - Compilation successful.
+2025-07-07 11:16:18,860 - INFO - Using time limit: 2000 ms and memory limit: 128 MB
+2025-07-07 11:16:19,750 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-07 11:16:50,684 - INFO - Latest problem directory is 'BOJ_1991'
+2025-07-07 11:16:51,673 - INFO - Compilation successful.
+2025-07-07 11:16:51,674 - INFO - Using time limit: 2000 ms and memory limit: 128 MB
+2025-07-07 11:16:52,543 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-07 11:17:36,225 - INFO - Latest problem directory is 'BOJ_1991'
+2025-07-07 11:17:37,214 - INFO - Compilation successful.
+2025-07-07 11:17:37,215 - INFO - Using time limit: 2000 ms and memory limit: 128 MB
+2025-07-07 11:17:38,278 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-07 11:18:05,325 - INFO - Latest problem directory is 'BOJ_1991'
+2025-07-07 11:18:06,231 - INFO - Compilation successful.
+2025-07-07 11:18:06,231 - INFO - Using time limit: 2000 ms and memory limit: 128 MB
+2025-07-07 11:18:07,318 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-07 11:18:20,735 - INFO - Latest problem directory is 'BOJ_1991'
+2025-07-07 11:18:21,714 - INFO - Compilation successful.
+2025-07-07 11:18:21,714 - INFO - Using time limit: 2000 ms and memory limit: 128 MB
+2025-07-07 11:18:22,792 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-07 11:20:36,685 - INFO - Latest problem directory is 'BOJ_1991'
+2025-07-07 11:20:37,696 - INFO - Compilation successful.
+2025-07-07 11:20:37,696 - INFO - Using time limit: 2000 ms and memory limit: 128 MB
+2025-07-07 11:20:39,211 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-07-07 12:26:47,635 - INFO - Latest problem directory is 'BOJ_9465'
+2025-07-07 12:26:48,756 - INFO - Compilation successful.
+2025-07-07 12:26:48,757 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-07 12:26:49,991 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-07 12:26:59,906 - INFO - Latest problem directory is 'BOJ_9465'
+2025-07-07 12:27:00,939 - INFO - Compilation successful.
+2025-07-07 12:27:00,939 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-07 12:27:01,837 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-07-07 12:32:37,669 - INFO - Latest problem directory is 'BOJ_9465'
+2025-07-07 12:32:38,849 - INFO - Compilation successful.
+2025-07-07 12:32:38,850 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-07 12:32:40,042 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-07 12:33:42,501 - INFO - Latest problem directory is 'BOJ_9465'
+2025-07-07 12:33:43,600 - INFO - Compilation successful.
+2025-07-07 12:33:43,601 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-07 12:33:44,717 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-07-07 12:35:31,546 - INFO - Latest problem directory is 'BOJ_9465'
+2025-07-07 12:35:32,759 - INFO - Compilation successful.
+2025-07-07 12:35:32,760 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-07 12:35:33,852 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-07-07 12:39:33,446 - INFO - Latest problem directory is 'BOJ_9465'
+2025-07-07 12:39:34,583 - INFO - Compilation successful.
+2025-07-07 12:39:34,583 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-07 12:39:35,694 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-07 12:40:18,798 - INFO - Latest problem directory is 'BOJ_9465'
+2025-07-07 12:40:19,883 - INFO - Compilation successful.
+2025-07-07 12:40:19,883 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-07 12:40:20,698 - INFO - [96m
+Summary: Passed 0 out of 1 tests.[0m
+2025-07-07 12:44:02,354 - INFO - Latest problem directory is 'BOJ_9465'
+2025-07-07 12:44:03,500 - INFO - Compilation successful.
+2025-07-07 12:44:03,501 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-07 12:44:04,606 - INFO - [96m
+Summary: Passed 1 out of 1 tests.[0m
+2025-07-07 12:56:16,025 - INFO - Latest problem directory is 'BOJ_11052'
+2025-07-07 12:56:16,964 - INFO - Compilation successful.
+2025-07-07 12:56:16,964 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-07 12:56:18,144 - INFO - [96m
+Summary: Passed 0 out of 6 tests.[0m
+2025-07-07 12:58:00,941 - INFO - Latest problem directory is 'BOJ_11052'
+2025-07-07 12:58:01,877 - INFO - Compilation successful.
+2025-07-07 12:58:01,878 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-07 12:58:03,162 - INFO - [96m
+Summary: Passed 0 out of 6 tests.[0m
+2025-07-07 12:58:26,915 - INFO - Latest problem directory is 'BOJ_11052'
+2025-07-07 12:58:27,867 - INFO - Compilation successful.
+2025-07-07 12:58:27,867 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-07 12:58:28,935 - INFO - [96m
+Summary: Passed 6 out of 6 tests.[0m
+2025-07-07 13:47:54,342 - INFO - Latest problem directory is 'BOJ_5525'
+2025-07-07 13:47:55,406 - INFO - Compilation successful.
+2025-07-07 13:47:55,407 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-07 13:47:57,685 - WARNING - Test 1: Time Limit Exceeded
+2025-07-07 13:47:58,681 - WARNING - Test 2: Time Limit Exceeded
+2025-07-07 13:47:58,685 - INFO - [96m
+Summary: Passed 0 out of 2 tests.[0m
+2025-07-07 13:48:32,454 - INFO - Latest problem directory is 'BOJ_5525'
+2025-07-07 13:48:33,385 - INFO - Compilation successful.
+2025-07-07 13:48:33,386 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-07 13:48:35,226 - WARNING - Test 1: Time Limit Exceeded
+2025-07-07 13:48:36,249 - WARNING - Test 2: Time Limit Exceeded
+2025-07-07 13:48:36,253 - INFO - [96m
+Summary: Passed 0 out of 2 tests.[0m
+2025-07-07 13:49:09,666 - INFO - Latest problem directory is 'BOJ_5525'
+2025-07-07 13:49:10,627 - INFO - Compilation successful.
+2025-07-07 13:49:10,628 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-07 13:49:12,572 - WARNING - Test 1: Time Limit Exceeded
+2025-07-07 13:49:13,590 - WARNING - Test 2: Time Limit Exceeded
+2025-07-07 13:49:13,592 - INFO - [96m
+Summary: Passed 0 out of 2 tests.[0m
+2025-07-07 13:51:29,161 - INFO - Latest problem directory is 'BOJ_5525'
+2025-07-07 13:51:30,197 - INFO - Compilation successful.
+2025-07-07 13:51:30,197 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-07 13:51:31,223 - INFO - [96m
+Summary: Passed 0 out of 2 tests.[0m
+2025-07-07 13:57:50,190 - INFO - Latest problem directory is 'BOJ_5525'
+2025-07-07 13:57:51,165 - INFO - Compilation successful.
+2025-07-07 13:57:51,165 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-07 13:57:52,376 - INFO - [96m
+Summary: Passed 0 out of 2 tests.[0m
+2025-07-07 13:57:57,575 - INFO - Latest problem directory is 'BOJ_5525'
+2025-07-07 13:57:58,551 - INFO - Compilation successful.
+2025-07-07 13:57:58,551 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-07 13:57:59,353 - INFO - [96m
+Summary: Passed 0 out of 2 tests.[0m
+2025-07-07 14:00:07,820 - INFO - Latest problem directory is 'BOJ_5525'
+2025-07-07 14:00:08,772 - INFO - Compilation successful.
+2025-07-07 14:00:08,773 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-07 14:00:09,924 - INFO - [96m
+Summary: Passed 0 out of 2 tests.[0m
+2025-07-07 14:07:17,622 - INFO - Latest problem directory is 'BOJ_5525'
+2025-07-07 14:07:17,623 - INFO - No changes in the code since the last run. Skipping compilation.
+2025-07-07 14:07:17,623 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-07 14:07:17,652 - INFO - [96m
+Summary: Passed 0 out of 2 tests.[0m
+2025-07-07 14:09:50,263 - INFO - Latest problem directory is 'BOJ_5525'
+2025-07-07 14:09:51,232 - INFO - Compilation successful.
+2025-07-07 14:09:51,233 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-07 14:09:52,341 - INFO - [96m
+Summary: Passed 0 out of 2 tests.[0m
+2025-07-07 14:20:15,906 - INFO - Latest problem directory is 'BOJ_5525'
+2025-07-07 14:20:16,858 - INFO - Compilation successful.
+2025-07-07 14:20:16,858 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-07 14:20:18,036 - INFO - [96m
+Summary: Passed 0 out of 2 tests.[0m
+2025-07-07 14:20:51,776 - INFO - Latest problem directory is 'BOJ_5525'
+2025-07-07 14:20:52,752 - INFO - Compilation successful.
+2025-07-07 14:20:52,753 - INFO - Using time limit: 1000 ms and memory limit: 256 MB
+2025-07-07 14:20:53,668 - INFO - [96m
+Summary: Passed 2 out of 2 tests.[0m

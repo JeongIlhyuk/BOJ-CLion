@@ -2,7 +2,7 @@
 #include <vector>
 #include <bit>
 #include <climits>
-
+#include <algorithm>
 
 using namespace std;
 
