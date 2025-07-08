@@ -525,3 +525,155 @@ OSError: [WinError 123] 파일 이름, 디렉터리 이름 또는 볼륨 레이�
 2025-07-06 16:19:32,135 - INFO - Sample test case 1 written to BOJ_2565\input1.txt and BOJ_2565\output1.txt
 2025-07-06 16:19:32,136 - INFO - Limits for '전깃줄' written to BOJ_2565\limits.txt
 2025-07-06 16:19:32,136 - INFO - Latest problem directory 'BOJ_2565' saved to latest_problem.txt
+2025-07-06 17:19:55,704 - INFO - Project directory 'BOJ_11053' created for problem '가장 긴 증가하는 부분 수열'
+2025-07-06 17:19:55,705 - INFO - Appended content from template.cpp to BOJ_11053/main.cpp
+2025-07-06 17:19:55,712 - INFO - Code template for '가장 긴 증가하는 부분 수열' written to BOJ_11053\main.cpp
+2025-07-06 17:19:55,713 - INFO - Sample test case 1 written to BOJ_11053\input1.txt and BOJ_11053\output1.txt
+2025-07-06 17:19:55,713 - INFO - Limits for '가장 긴 증가하는 부분 수열' written to BOJ_11053\limits.txt
+2025-07-06 17:19:55,714 - INFO - Latest problem directory 'BOJ_11053' saved to latest_problem.txt
+2025-07-06 17:37:58,262 - INFO - Project directory 'BOJ_2565' created for problem '전깃줄'
+2025-07-06 17:37:58,263 - INFO - Appended content from template.cpp to BOJ_2565/main.cpp
+2025-07-06 17:37:58,264 - INFO - Code template for '전깃줄' written to BOJ_2565\main.cpp
+2025-07-06 17:37:58,264 - INFO - Sample test case 1 written to BOJ_2565\input1.txt and BOJ_2565\output1.txt
+2025-07-06 17:37:58,265 - INFO - Limits for '전깃줄' written to BOJ_2565\limits.txt
+2025-07-06 17:37:58,265 - INFO - Latest problem directory 'BOJ_2565' saved to latest_problem.txt
+2025-07-06 20:17:53,796 - INFO - Project directory 'BOJ_3078' created for problem '좋은 친구'
+2025-07-06 20:17:53,797 - INFO - Appended content from template.cpp to BOJ_3078/main.cpp
+2025-07-06 20:17:53,803 - INFO - Code template for '좋은 친구' written to BOJ_3078\main.cpp
+2025-07-06 20:17:53,804 - INFO - Sample test case 1 written to BOJ_3078\input1.txt and BOJ_3078\output1.txt
+2025-07-06 20:17:53,806 - INFO - Sample test case 2 written to BOJ_3078\input2.txt and BOJ_3078\output2.txt
+2025-07-06 20:17:53,806 - INFO - Limits for '좋은 친구' written to BOJ_3078\limits.txt
+2025-07-06 20:17:53,807 - INFO - Latest problem directory 'BOJ_3078' saved to latest_problem.txt
+2025-07-06 21:14:03,861 - INFO - Project directory 'BOJ_10944' created for problem '랜덤 게임~~'
+2025-07-06 21:14:03,862 - INFO - Appended content from template.cpp to BOJ_10944/main.cpp
+2025-07-06 21:14:03,862 - INFO - Code template for '랜덤 게임~~' written to BOJ_10944\main.cpp
+2025-07-06 21:14:03,863 - INFO - Sample test case 1 written to BOJ_10944\input1.txt and BOJ_10944\output1.txt
+2025-07-06 21:14:03,864 - INFO - Limits for '랜덤 게임~~' written to BOJ_10944\limits.txt
+2025-07-06 21:14:03,865 - INFO - Latest problem directory 'BOJ_10944' saved to latest_problem.txt
+2025-07-06 21:27:05,338 - INFO - Project directory 'BOJ_1931' created for problem '회의실 배정'
+2025-07-06 21:27:05,338 - INFO - Appended content from template.cpp to BOJ_1931/main.cpp
+2025-07-06 21:27:05,339 - INFO - Code template for '회의실 배정' written to BOJ_1931\main.cpp
+2025-07-06 21:27:05,340 - INFO - Sample test case 1 written to BOJ_1931\input1.txt and BOJ_1931\output1.txt
+2025-07-06 21:27:05,340 - INFO - Limits for '회의실 배정' written to BOJ_1931\limits.txt
+2025-07-06 21:27:05,341 - INFO - Latest problem directory 'BOJ_1931' saved to latest_problem.txt
+2025-07-06 22:30:17,038 - INFO - Project directory 'BOJ_9251' created for problem 'LCS'
+2025-07-06 22:30:17,039 - INFO - Appended content from template.cpp to BOJ_9251/main.cpp
+2025-07-06 22:30:17,040 - INFO - Code template for 'LCS' written to BOJ_9251\main.cpp
+2025-07-06 22:30:17,041 - INFO - Sample test case 1 written to BOJ_9251\input1.txt and BOJ_9251\output1.txt
+2025-07-06 22:30:17,041 - INFO - Limits for 'LCS' written to BOJ_9251\limits.txt
+2025-07-06 22:30:17,042 - INFO - Latest problem directory 'BOJ_9251' saved to latest_problem.txt
+2025-07-07 11:09:30,995 - INFO - Project directory 'BOJ_1991' created for problem '트리 순회'
+2025-07-07 11:09:30,996 - INFO - Appended content from template.cpp to BOJ_1991/main.cpp
+2025-07-07 11:09:30,997 - INFO - Code template for '트리 순회' written to BOJ_1991\main.cpp
+2025-07-07 11:09:31,003 - INFO - Sample test case 1 written to BOJ_1991\input1.txt and BOJ_1991\output1.txt
+2025-07-07 11:09:31,003 - INFO - Limits for '트리 순회' written to BOJ_1991\limits.txt
+2025-07-07 11:09:31,004 - INFO - Latest problem directory 'BOJ_1991' saved to latest_problem.txt
+2025-07-07 11:24:05,787 - INFO - Project directory 'BOJ_25305' created for problem '커트라인'
+2025-07-07 11:24:05,787 - INFO - Appended content from template.cpp to BOJ_25305/main.cpp
+2025-07-07 11:24:05,788 - INFO - Code template for '커트라인' written to BOJ_25305\main.cpp
+2025-07-07 11:24:05,789 - INFO - Sample test case 1 written to BOJ_25305\input1.txt and BOJ_25305\output1.txt
+2025-07-07 11:24:05,790 - INFO - Limits for '커트라인' written to BOJ_25305\limits.txt
+2025-07-07 11:24:05,790 - INFO - Latest problem directory 'BOJ_25305' saved to latest_problem.txt
+2025-07-07 11:25:30,376 - INFO - Project directory 'BOJ_9465' created for problem '스티커'
+2025-07-07 11:25:30,377 - INFO - Appended content from template.cpp to BOJ_9465/main.cpp
+2025-07-07 11:25:30,378 - INFO - Code template for '스티커' written to BOJ_9465\main.cpp
+2025-07-07 11:25:30,378 - INFO - Sample test case 1 written to BOJ_9465\input1.txt and BOJ_9465\output1.txt
+2025-07-07 11:25:30,379 - INFO - Limits for '스티커' written to BOJ_9465\limits.txt
+2025-07-07 11:25:30,379 - INFO - Latest problem directory 'BOJ_9465' saved to latest_problem.txt
+2025-07-07 12:47:19,679 - INFO - Project directory 'BOJ_11052' created for problem '카드 구매하기'
+2025-07-07 12:47:19,680 - INFO - Appended content from template.cpp to BOJ_11052/main.cpp
+2025-07-07 12:47:19,681 - INFO - Code template for '카드 구매하기' written to BOJ_11052\main.cpp
+2025-07-07 12:47:19,682 - INFO - Sample test case 1 written to BOJ_11052\input1.txt and BOJ_11052\output1.txt
+2025-07-07 12:47:19,683 - INFO - Sample test case 2 written to BOJ_11052\input2.txt and BOJ_11052\output2.txt
+2025-07-07 12:47:19,690 - INFO - Sample test case 3 written to BOJ_11052\input3.txt and BOJ_11052\output3.txt
+2025-07-07 12:47:19,691 - INFO - Sample test case 4 written to BOJ_11052\input4.txt and BOJ_11052\output4.txt
+2025-07-07 12:47:19,692 - INFO - Sample test case 5 written to BOJ_11052\input5.txt and BOJ_11052\output5.txt
+2025-07-07 12:47:19,693 - INFO - Sample test case 6 written to BOJ_11052\input6.txt and BOJ_11052\output6.txt
+2025-07-07 12:47:19,694 - INFO - Limits for '카드 구매하기' written to BOJ_11052\limits.txt
+2025-07-07 12:47:19,695 - INFO - Latest problem directory 'BOJ_11052' saved to latest_problem.txt
+2025-07-07 13:07:45,192 - INFO - Project directory 'BOJ_5525' created for problem 'IOIOI'
+2025-07-07 13:07:45,193 - INFO - Appended content from template.cpp to BOJ_5525/main.cpp
+2025-07-07 13:07:45,199 - INFO - Code template for 'IOIOI' written to BOJ_5525\main.cpp
+2025-07-07 13:07:45,200 - INFO - Sample test case 1 written to BOJ_5525\input1.txt and BOJ_5525\output1.txt
+2025-07-07 13:07:45,201 - INFO - Sample test case 2 written to BOJ_5525\input2.txt and BOJ_5525\output2.txt
+2025-07-07 13:07:45,202 - INFO - Limits for 'IOIOI' written to BOJ_5525\limits.txt
+2025-07-07 13:07:45,202 - INFO - Latest problem directory 'BOJ_5525' saved to latest_problem.txt
+2025-07-07 14:30:22,086 - INFO - Project directory 'BOJ_2212' created for problem '센서'
+2025-07-07 14:30:22,087 - INFO - Appended content from template.cpp to BOJ_2212/main.cpp
+2025-07-07 14:30:22,088 - INFO - Code template for '센서' written to BOJ_2212\main.cpp
+2025-07-07 14:30:22,089 - INFO - Sample test case 1 written to BOJ_2212\input1.txt and BOJ_2212\output1.txt
+2025-07-07 14:30:22,090 - INFO - Sample test case 2 written to BOJ_2212\input2.txt and BOJ_2212\output2.txt
+2025-07-07 14:30:22,091 - INFO - Limits for '센서' written to BOJ_2212\limits.txt
+2025-07-07 14:30:22,091 - INFO - Latest problem directory 'BOJ_2212' saved to latest_problem.txt
+2025-07-07 15:20:40,532 - INFO - Project directory 'BOJ_1092' created for problem '배'
+2025-07-07 15:20:40,533 - INFO - Appended content from template.cpp to BOJ_1092/main.cpp
+2025-07-07 15:20:40,534 - INFO - Code template for '배' written to BOJ_1092\main.cpp
+2025-07-07 15:20:40,534 - INFO - Sample test case 1 written to BOJ_1092\input1.txt and BOJ_1092\output1.txt
+2025-07-07 15:20:40,535 - INFO - Sample test case 2 written to BOJ_1092\input2.txt and BOJ_1092\output2.txt
+2025-07-07 15:20:40,538 - INFO - Sample test case 3 written to BOJ_1092\input3.txt and BOJ_1092\output3.txt
+2025-07-07 15:20:40,540 - INFO - Sample test case 4 written to BOJ_1092\input4.txt and BOJ_1092\output4.txt
+2025-07-07 15:20:40,540 - INFO - Limits for '배' written to BOJ_1092\limits.txt
+2025-07-07 15:20:40,541 - INFO - Latest problem directory 'BOJ_1092' saved to latest_problem.txt
+2025-07-07 18:01:58,394 - INFO - Project directory 'BOJ_4158' created for problem 'CD'
+2025-07-07 18:01:58,396 - INFO - Appended content from template.cpp to BOJ_4158/main.cpp
+2025-07-07 18:01:58,396 - INFO - Code template for 'CD' written to BOJ_4158\main.cpp
+2025-07-07 18:01:58,397 - INFO - Sample test case 1 written to BOJ_4158\input1.txt and BOJ_4158\output1.txt
+2025-07-07 18:01:58,398 - INFO - Limits for 'CD' written to BOJ_4158\limits.txt
+2025-07-07 18:01:58,398 - INFO - Latest problem directory 'BOJ_4158' saved to latest_problem.txt
+2025-07-07 18:40:54,140 - INFO - Project directory 'BOJ_14500' created for problem '테트로미노'
+2025-07-07 18:40:54,141 - INFO - Appended content from template.cpp to BOJ_14500/main.cpp
+2025-07-07 18:40:54,142 - INFO - Code template for '테트로미노' written to BOJ_14500\main.cpp
+2025-07-07 18:40:54,143 - INFO - Sample test case 1 written to BOJ_14500\input1.txt and BOJ_14500\output1.txt
+2025-07-07 18:40:54,144 - INFO - Sample test case 2 written to BOJ_14500\input2.txt and BOJ_14500\output2.txt
+2025-07-07 18:40:54,152 - INFO - Sample test case 3 written to BOJ_14500\input3.txt and BOJ_14500\output3.txt
+2025-07-07 18:40:54,153 - INFO - Limits for '테트로미노' written to BOJ_14500\limits.txt
+2025-07-07 18:40:54,154 - INFO - Latest problem directory 'BOJ_14500' saved to latest_problem.txt
+2025-07-07 21:55:54,945 - INFO - Project directory 'BOJ_1715' created for problem '카드 정렬하기'
+2025-07-07 21:55:54,946 - INFO - Appended content from template.cpp to BOJ_1715/main.cpp
+2025-07-07 21:55:54,947 - INFO - Code template for '카드 정렬하기' written to BOJ_1715\main.cpp
+2025-07-07 21:55:54,949 - INFO - Sample test case 1 written to BOJ_1715\input1.txt and BOJ_1715\output1.txt
+2025-07-07 21:55:54,949 - INFO - Limits for '카드 정렬하기' written to BOJ_1715\limits.txt
+2025-07-07 21:55:54,950 - INFO - Latest problem directory 'BOJ_1715' saved to latest_problem.txt
+2025-07-07 22:15:31,019 - INFO - Serving at port 10043
+2025-07-07 22:15:32,188 - INFO - Project directory 'BOJ_1368' created for problem '물대기'
+2025-07-07 22:15:32,189 - INFO - Appended content from template.cpp to BOJ_1368/main.cpp
+2025-07-07 22:15:32,189 - INFO - Code template for '물대기' written to BOJ_1368\main.cpp
+2025-07-07 22:15:32,193 - INFO - Sample test case 1 written to BOJ_1368\input1.txt and BOJ_1368\output1.txt
+2025-07-07 22:15:32,193 - INFO - Limits for '물대기' written to BOJ_1368\limits.txt
+2025-07-07 22:15:32,194 - INFO - Latest problem directory 'BOJ_1368' saved to latest_problem.txt
+2025-07-08 08:26:06,889 - INFO - Project directory 'BOJ_15663' created for problem 'N과 M (9)'
+2025-07-08 08:26:06,890 - INFO - Appended content from template.cpp to BOJ_15663/main.cpp
+2025-07-08 08:26:06,891 - INFO - Code template for 'N과 M (9)' written to BOJ_15663\main.cpp
+2025-07-08 08:26:06,898 - INFO - Sample test case 1 written to BOJ_15663\input1.txt and BOJ_15663\output1.txt
+2025-07-08 08:26:06,899 - INFO - Sample test case 2 written to BOJ_15663\input2.txt and BOJ_15663\output2.txt
+2025-07-08 08:26:06,900 - INFO - Sample test case 3 written to BOJ_15663\input3.txt and BOJ_15663\output3.txt
+2025-07-08 08:26:06,901 - INFO - Limits for 'N과 M (9)' written to BOJ_15663\limits.txt
+2025-07-08 08:26:06,901 - INFO - Latest problem directory 'BOJ_15663' saved to latest_problem.txt
+2025-07-08 11:27:02,167 - INFO - Project directory 'BOJ_9184' created for problem '신나는 함수 실행'
+2025-07-08 11:27:02,168 - INFO - Appended content from template.cpp to BOJ_9184/main.cpp
+2025-07-08 11:27:02,169 - INFO - Code template for '신나는 함수 실행' written to BOJ_9184\main.cpp
+2025-07-08 11:27:02,170 - INFO - Sample test case 1 written to BOJ_9184\input1.txt and BOJ_9184\output1.txt
+2025-07-08 11:27:02,175 - INFO - Limits for '신나는 함수 실행' written to BOJ_9184\limits.txt
+2025-07-08 11:27:02,175 - INFO - Latest problem directory 'BOJ_9184' saved to latest_problem.txt
+2025-07-08 13:02:03,795 - INFO - Serving at port 10043
+2025-07-08 13:02:05,522 - INFO - Project directory 'BOJ_1865' created for problem '웜홀'
+2025-07-08 13:02:05,523 - INFO - Appended content from template.cpp to BOJ_1865/main.cpp
+2025-07-08 13:02:05,523 - INFO - Code template for '웜홀' written to BOJ_1865\main.cpp
+2025-07-08 13:02:05,524 - INFO - Sample test case 1 written to BOJ_1865\input1.txt and BOJ_1865\output1.txt
+2025-07-08 13:02:05,525 - INFO - Limits for '웜홀' written to BOJ_1865\limits.txt
+2025-07-08 13:02:05,525 - INFO - Latest problem directory 'BOJ_1865' saved to latest_problem.txt
+2025-07-08 14:53:25,029 - INFO - Serving at port 10043
+2025-07-08 14:53:28,570 - INFO - Project directory 'BOJ_2252' created for problem '줄 세우기'
+2025-07-08 14:53:28,571 - INFO - Appended content from template.cpp to BOJ_2252/main.cpp
+2025-07-08 14:53:28,572 - INFO - Code template for '줄 세우기' written to BOJ_2252\main.cpp
+2025-07-08 14:53:28,573 - INFO - Sample test case 1 written to BOJ_2252\input1.txt and BOJ_2252\output1.txt
+2025-07-08 14:53:28,574 - INFO - Sample test case 2 written to BOJ_2252\input2.txt and BOJ_2252\output2.txt
+2025-07-08 14:53:28,574 - INFO - Limits for '줄 세우기' written to BOJ_2252\limits.txt
+2025-07-08 14:53:28,575 - INFO - Latest problem directory 'BOJ_2252' saved to latest_problem.txt
+2025-07-08 15:30:20,370 - INFO - Project directory 'BOJ_2252' created for problem '줄 세우기'
+2025-07-08 15:30:20,372 - INFO - Appended content from template.cpp to BOJ_2252/main.cpp
+2025-07-08 15:30:20,373 - INFO - Code template for '줄 세우기' written to BOJ_2252\main.cpp
+2025-07-08 15:30:20,373 - INFO - Sample test case 1 written to BOJ_2252\input1.txt and BOJ_2252\output1.txt
+2025-07-08 15:30:20,374 - INFO - Sample test case 2 written to BOJ_2252\input2.txt and BOJ_2252\output2.txt
+2025-07-08 15:30:20,374 - INFO - Limits for '줄 세우기' written to BOJ_2252\limits.txt
+2025-07-08 15:30:20,375 - INFO - Latest problem directory 'BOJ_2252' saved to latest_problem.txt
