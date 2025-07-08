@@ -22,6 +22,7 @@ N명의 학생들을 키 순서대로 줄을 세우려고 한다. 각 학생의 
 #include <bit>
 #include <climits>
 #include <algorithm>
+#include <queue>
 
 using namespace std;
 
@@ -32,11 +33,37 @@ int main()
 
     int n, m;
     cin >> n >> m;
-    vector<int> arr(n);
+    vector graph(n + 1, vector<int>());
+    vector<int> indegree(n + 1);
     for (int i = 0; i < m; ++i)
     {
         int a, b;
         cin >> a >> b;
+        graph[a].push_back(b);
+        indegree[b]++;
     }
-    cout<<arr[n];
+
+    queue<int> q;
+    for (int i = 1; i < n + 1; ++i)
+    {
+        if (indegree[i] == 0)
+        {
+            q.push(i);
+        }
+    }
+
+    while (!q.empty())
+    {
+        const int curr = q.front();
+        q.pop();
+        cout << curr << " ";
+
+        for (const int next : graph[curr])
+        {
+            if (--indegree[next] == 0)
+            {
+                q.push(next);
+            }
+        }
+    }
 }
