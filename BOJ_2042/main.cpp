@@ -1,0 +1,125 @@
+// Problem: 구간 합 구하기
+// URL: https://www.acmicpc.net/problem/2042
+// Time Limit: 2000
+// Memory Limit: 256
+
+/*
+문제:
+어떤 N개의 수가 주어져 있다. 그런데 중간에 수의 변경이 빈번히 일어나고 그 중간에 어떤 부분의 합을 구하려 한다. 만약에 1,2,3,4,5 라는 수가 있고, 3번째 수를 6으로 바꾸고 2번째부터 5번째까지 합을 구하라고 한다면 17을 출력하면 되는 것이다. 그리고 그 상태에서 다섯 번째 수를 2로 바꾸고 3번째부터 5번째까지 합을 구하라고 한다면 12가 될 것이다.
+
+입력:
+첫째 줄에 수의 개수 N(1 ≤ N ≤ 1,000,000)과 M(1 ≤ M ≤ 10,000), K(1 ≤ K ≤ 10,000) 가 주어진다. M은 수의 변경이 일어나는 횟수이고, K는 구간의 합을 구하는 횟수이다. 그리고 둘째 줄부터 N+1번째 줄까지 N개의 수가 주어진다. 그리고 N+2번째 줄부터 N+M+K+1번째 줄까지 세 개의 정수 a, b, c가 주어지는데, a가 1인 경우 b(1 ≤ b ≤ N)번째 수를 c로 바꾸고 a가 2인 경우에는 b(1 ≤ b ≤ N)번째 수부터 c(b ≤ c ≤ N)번째 수까지의 합을 구하여 출력하면 된다.입력으로 주어지는 모든 수는 -263보다 크거나 같고, 263-1보다 작거나 같은 정수이다.
+
+출력:
+첫째 줄부터 K줄에 걸쳐 구한 구간의 합을 출력한다. 단, 정답은 -263보다 크거나 같고, 263-1보다 작거나 같은 정수이다.
+
+알고리즘 분류:
+N/A
+*/
+
+#include <iostream>
+#include <vector>
+#include <bit>
+#include <climits>
+#include <algorithm>
+#include <queue>
+
+using namespace std;
+
+struct SegTree
+{
+    vector<long long> tree;
+    int n;
+
+    explicit SegTree(const vector<long long>& arr)
+    {
+        n = arr.size();
+        tree.resize(4 * n);
+        build(arr, 1, 0, n - 1);
+    }
+
+    void build(const vector<long long>& arr, const int node, const int start, const int end)
+    {
+        if (start == end)
+        {
+            tree[node] = arr[start];
+            return;
+        }
+        const int mid = (start + end) / 2;
+        build(arr, 2 * node, start, mid);
+        build(arr, 2 * node + 1, mid + 1, end);
+        tree[node] = tree[2 * node] + tree[2 * node + 1];
+    }
+
+    void update(const int idx, const long long val)
+    {
+        update(1, 0, n - 1, idx, val);
+    }
+
+    void update(const int node, const int start, const int end, const int idx, const long long val)
+    {
+        if (start == end)
+        {
+            tree[node] = val;
+            return;
+        }
+        const int mid = (start + end) / 2;
+        if (idx <= mid)
+        {
+            update(2 * node, start, mid, idx, val);
+        }
+        else
+        {
+            update(2 * node + 1, mid + 1, end, idx, val);
+        }
+        tree[node] = tree[2 * node] + tree[2 * node + 1];
+    }
+
+    long long query(const int l, const int r)
+    {
+        return query(1, 0, n - 1, l, r);
+    }
+
+    long long query(const int node, const int start, const int end, const int l, const int r)
+    {
+        if (start > r || end < l)
+        {
+            return 0;
+        }
+
+        if (l <= start && end <= r)
+        {
+            return tree[node];
+        }
+        const int mid = (start + end) / 2;
+        return query(2 * node, start, mid, l, r) + query(2 * node + 1, mid + 1, end, l, r);
+    }
+};
+
+int main()
+{
+    ios_base::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    long long n, m, k;
+    cin >> n >> m >> k;
+    vector<long long> arr(n);
+    for (int i = 0; i < n; ++i)
+    {
+        cin >> arr[i];
+    }
+
+    auto st = SegTree(arr);
+
+    for (int i = 0; i < m + k; ++i)
+    {
+        long long a, b, c;
+        cin >> a >> b >> c;
+        if (a == 1)
+        {
+            st.update(b - 1, c);
+            continue;
+        }
+        cout << st.query(b - 1, c - 1) << '\n';
+    }
+}

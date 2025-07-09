@@ -25,8 +25,7 @@ def run_tests(project_dir):
 
         # 입력 읽기
         with open(os.path.join(project_dir, input_file), 'r', encoding='utf-8') as f:
-            # input_data = f.read()
-            input_data = "3 2\n1 3\n2 3\n"
+            input_data = f.read()
 
         # 실행
         try:
@@ -35,11 +34,18 @@ def run_tests(project_dir):
                                     capture_output=True, timeout=3)
 
             if result.returncode != 0:
-                print(f"Runtime Error")
+                print("Runtime Error")
                 if result.stderr:
                     print(f"Error: {result.stderr.strip()}")
             else:
-                print(f"Output: {result.stdout.strip()}")
+                # 출력을 한 줄씩 처리해서 보기 좋게 출력
+                output_lines = result.stdout.strip().split('\n')
+                if len(output_lines) == 1:
+                    print(f"Output: {output_lines[0]}")
+                else:
+                    print("Output:")
+                    for line in output_lines:
+                        print(f"  {line}")
 
                 # 정답과 비교 (output 파일이 있으면)
                 output_path = os.path.join(project_dir, output_file)
@@ -50,7 +56,13 @@ def run_tests(project_dir):
                         print("✓ Correct")
                     else:
                         print("✗ Wrong Answer")
-                        print(f"Expected: {expected}")
+                        expected_lines = expected.split('\n')
+                        if len(expected_lines) == 1:
+                            print(f"Expected: {expected_lines[0]}")
+                        else:
+                            print("Expected:")
+                            for line in expected_lines:
+                                print(f"  {line}")
 
         except subprocess.TimeoutExpired:
             print("Time Limit Exceeded")
