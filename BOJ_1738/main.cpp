@@ -59,34 +59,38 @@ int main()
     }
 
 
+    vector<bool> affected(n + 1);
     for (const auto& [m,u,v] : edges)
     {
-        // if (dist[u] > -1e9 && dist[u] + m > dist[v] && is_included[v][u])
         if (dist[u] > -1e9 && dist[u] + m > dist[v])
+        {
+            affected[v] = true;
+        }
+    }
+
+    for (int i = 0; i < n - 1; i++)
+    {
+        for (const auto& [m,u,v] : edges)
+        {
+            if (affected[u])
+            {
+                affected[v] = true;
+            }
+        }
+    }
+
+    vector<int> result;
+    int curr = n;
+    while (curr)
+    {
+        if (affected[curr])
         {
             cout << -1;
             return 0;
         }
-    }
-    vector<int> result;
-    vector is_included(n + 1, vector<bool>(n + 1));
-    int curr = n;
-    while (curr)
-    {
-        is_included[curr][route[curr]] = true;
         result.push_back(curr);
         curr = route[curr];
     }
-    if (result.back() != 1)
-    {
-        cout << -1;
-        return 0;
-    }
-
-    // for (int i = 1; i <= n; i++)
-    // {
-    //     cout << "route[" << i << "]:" << route[i] << '\n';
-    // }
 
     for (int i = result.size() - 1; i >= 0; --i)
     {

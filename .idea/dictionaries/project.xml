@@ -2,6 +2,7 @@
   <dictionary name="project">
     <words>
       <w>djikstra</w>
+      <w>logn</w>
       <w>sccs</w>
     </words>
   </dictionary>
