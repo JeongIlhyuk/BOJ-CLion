@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+import html
 import http.server
 import json
 import os
@@ -21,6 +21,43 @@ class CompetitiveCompanionHandler(http.server.SimpleHTTPRequestHandler):
         data = json.loads(post_data.decode('utf-8'))
         process_data(data)
 
+def get_algorithm_tags_from_solved_ac(problem_id):
+    try:
+        api_url = f"https://solved.ac/api/v3/problem/show?problemId={problem_id}"
+        response = requests.get(api_url)
+        response.raise_for_status()
+
+        data = response.json()
+
+        # 알고리즘 태그 추출
+        if 'tags' in data:
+            tags = []
+            for tag in data['tags']:
+                # 한국어 이름이 있으면 한국어로, 없으면 영어로
+                if 'displayNames' in tag:
+                    korean_name = None
+                    for display_name in tag['displayNames']:
+                        if display_name['language'] == 'ko':
+                            korean_name = display_name['name']
+                            break
+
+                    if korean_name:
+                        tags.append(korean_name)
+                    else:
+                        # 영어 이름 fallback
+                        for display_name in tag['displayNames']:
+                            if display_name['language'] == 'en':
+                                tags.append(display_name['name'])
+                                break
+
+            return ', '.join(tags)
+
+        return None
+
+    except Exception as e:
+        print(f"Failed to get tags from solved.ac: {str(e)}")
+        return None
+
 def scrape_problem_content(url):
     try:
         headers = {
@@ -35,25 +72,23 @@ def scrape_problem_content(url):
         # 문제 설명
         problem_desc = soup.find('div', {'id': 'problem_description'})
         if problem_desc:
-            sections['description'] = problem_desc.get_text(strip=True)
+            text = html.unescape(problem_desc.get_text(strip=True))
+            text = re.sub(r'\s+', ' ', text)
+            sections['description'] = text
 
         # 입력 설명
         input_desc = soup.find('div', {'id': 'problem_input'})
         if input_desc:
-            sections['input'] = input_desc.get_text(strip=True)
+            text = html.unescape(input_desc.get_text(strip=True))
+            text = re.sub(r'\s+', ' ', text)
+            sections['input'] = text
 
         # 출력 설명
         output_desc = soup.find('div', {'id': 'problem_output'})
         if output_desc:
-            sections['output'] = output_desc.get_text(strip=True)
-
-        # 알고리즘 분류
-        problem_tags = soup.find('section', {'id': 'problem_tags'})
-        if problem_tags:
-            tag_links = problem_tags.find_all('a', class_='spoiler-link')
-            tags = [tag.get_text(strip=True) for tag in tag_links]
-            if tags:
-                sections['tags'] = ', '.join(tags)
+            text = html.unescape(output_desc.get_text(strip=True))
+            text = re.sub(r'\s+', ' ', text)
+            sections['output'] = text
 
         return sections
 
@@ -72,6 +107,16 @@ def process_data(data):
 
         # 문제 내용 스크래핑
         problem_content = scrape_problem_content(problem_url)
+
+        # solved.ac에서 알고리즘 분류 가져오기
+        if 'acmicpc.net/problem/' in problem_url:
+            problem_id = problem_url.split('/')[-1]
+            solved_ac_tags = get_algorithm_tags_from_solved_ac(problem_id)
+            if solved_ac_tags:
+                if problem_content:
+                    problem_content['tags'] = solved_ac_tags
+                else:
+                    problem_content = {'tags': solved_ac_tags}
 
         # 프로젝트 디렉토리 생성
         if 'acmicpc.net/problem/' in problem_url:
